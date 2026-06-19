@@ -229,3 +229,9 @@ An interactive web dashboard built with Streamlit and Plotly Express is included
 - **Location Constraints**: The raw EUI benchmarks are heavily calibrated to Seattle's marine climate zone (4C). Extending the model to hot-humid or extremely cold regions would require adjusting EUI percentiles by climate zone.
 - **Socio-Economic Factors**: Operational costs are based on standard 2024 utility rates. Future versions could integrate local dynamic tariff structures.
 - **Carbon Accounting**: This study evaluates operational carbon. Integrating Embodied Carbon Calculations (from extraction to demolition) would create a more complete sustainability model.
+
+---
+
+## Live Dashboard
+View the interactive Streamlit dashboard here:  
+[https://your-app-link.streamlit.app](https://sustainable-building-performance-analytics-kc8eyiadnvxehdwdn4w.streamlit.app/)
