@@ -204,10 +204,7 @@ Run the SQLite utility script to create the database file and import the process
 ```bash
 python src/load_to_sqlite.py
 ```
-This creates `data/processed/building_performance.db`, which can be queried using any SQL tool or by running the query verification script:
-```bash
-python C:\Users\karth\.gemini\antigravity-ide\brain\545b2fba-5308-4be3-be50-9574d902bfb2/scratch/verify_queries.py
-```
+This creates the SQLite database file at `data/processed/building_performance.db`, which compiles all cleaned tables and can be queried using any SQL client.
 
 ---
 
