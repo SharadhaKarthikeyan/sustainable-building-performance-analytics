@@ -1,7 +1,7 @@
 # Sustainable Building Performance Analytics Dashboard
 
 **Author:** Sharadha Karthikeyan  
-**Project Classification:** Master's-Level Data Analytics & Business Intelligence Case Study  
+**Project Classification:** Data Analytics & Business Intelligence Case Study  
 
 ---
 
