@@ -545,7 +545,7 @@ with tabs[3]:
         df_risk_display['Annual Savings ($)'] = df_risk_display['Annual Savings ($)'].map(lambda x: f"${x:,.0f}")
         df_risk_display['Payback (Years)'] = df_risk_display['Payback (Years)'].map(lambda x: f"{x:.2f}")
         
-        st.dataframe(df_risk_display, use_container_width=True)
+        st.dataframe(df_risk_display, width="stretch")
 
 # ----------------- TAB 5: BUILDING DETAILS -----------------
 with tabs[4]:
@@ -561,7 +561,7 @@ with tabs[4]:
     ]
     
     # Render interactive dataframe
-    st.dataframe(df_filtered[detail_cols], use_container_width=True)
+    st.dataframe(df_filtered[detail_cols], width="stretch")
     
     # CSV Download Button
     csv_data = df_filtered[detail_cols].to_csv(index=False)
