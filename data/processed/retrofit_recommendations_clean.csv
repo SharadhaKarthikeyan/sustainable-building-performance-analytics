@@ -1,0 +1,2201 @@
+recommendation_id,building_id,recommended_action,estimated_retrofit_cost,estimated_annual_savings,payback_period_years,estimated_emissions_reduction_percent,retrofit_priority,implementation_complexity
+REC_0001,BLDG_20209,Building Automation System,18600.0,6700.0,2.78,15.84,Critical,Medium
+REC_0002,BLDG_25710,LED Lighting Retrofit,10200.0,800.0,12.75,11.56,Low,Low
+REC_0003,BLDG_21221,LED Lighting Retrofit,8900.0,6600.0,1.35,8.37,Critical,Low
+REC_0004,BLDG_23161,LED Lighting Retrofit,15600.0,11200.0,1.39,11.13,Critical,Low
+REC_0005,BLDG_21373,LED Lighting Retrofit,15200.0,1200.0,12.67,9.67,Low,Low
+REC_0006,BLDG_19776,Deep Energy Retrofit,178200.0,35100.0,5.08,45.92,Critical,High
+REC_0007,BLDG_22759,LED Lighting Retrofit,10300.0,5700.0,1.81,11.13,Critical,Low
+REC_0008,BLDG_50000,HVAC Upgrade,123000.0,24700.0,4.98,24.59,High,Medium
+REC_0009,BLDG_21172,Insulation Improvement,24500.0,2500.0,9.8,15.51,Medium,Medium
+REC_0010,BLDG_25745,Building Automation System,26100.0,8700.0,3.0,11.85,Critical,Medium
+REC_0011,BLDG_22136,Water Efficiency Upgrade,13400.0,7600.0,1.76,4.62,Critical,Low
+REC_0012,BLDG_25603,Solar Panel Installation,200400.0,12700.0,15.78,25.52,Low,Medium
+REC_0013,BLDG_411,LED Lighting Retrofit,33600.0,32300.0,1.04,8.25,Critical,Low
+REC_0014,BLDG_21650,LED Lighting Retrofit,11100.0,10000.0,1.11,9.46,Critical,Low
+REC_0015,BLDG_19808,LED Lighting Retrofit,16600.0,9600.0,1.73,10.95,Critical,Low
+REC_0016,BLDG_20304,Solar Panel Installation,251600.0,16400.0,15.34,15.47,Low,Medium
+REC_0017,BLDG_50924,Building Automation System,28200.0,22400.0,1.26,14.66,Critical,Medium
+REC_0018,BLDG_21138,LED Lighting Retrofit,16100.0,7100.0,2.27,9.72,Critical,Low
+REC_0019,BLDG_19754,HVAC Upgrade,73500.0,25800.0,2.85,18.99,Critical,Medium
+REC_0020,BLDG_49798,LED Lighting Retrofit,10900.0,4800.0,2.27,11.74,Critical,Low
+REC_0021,BLDG_24989,Deep Energy Retrofit,487200.0,180600.0,2.7,33.36,Critical,High
+REC_0022,BLDG_21497,Water Efficiency Upgrade,11100.0,5500.0,2.02,4.61,Critical,Low
+REC_0023,BLDG_52012,Water Efficiency Upgrade,9600.0,4000.0,2.4,2.72,Critical,Low
+REC_0024,BLDG_26850,Water Efficiency Upgrade,8400.0,3100.0,2.71,2.55,Critical,Low
+REC_0025,BLDG_29,LED Lighting Retrofit,27800.0,13600.0,2.04,8.58,Critical,Low
+REC_0026,BLDG_550,Solar Panel Installation,111200.0,6200.0,17.94,25.78,Low,Medium
+REC_0027,BLDG_25763,LED Lighting Retrofit,11500.0,5900.0,1.95,10.53,Critical,Low
+REC_0028,BLDG_19572,LED Lighting Retrofit,11500.0,3000.0,3.83,8.38,Critical,Low
+REC_0029,BLDG_23340,Solar Panel Installation,163000.0,10000.0,16.3,19.1,Low,Medium
+REC_0030,BLDG_19753,Building Automation System,18300.0,9400.0,1.95,11.04,Critical,Medium
+REC_0031,BLDG_50190,Water Efficiency Upgrade,14900.0,9000.0,1.66,2.14,Critical,Low
+REC_0032,BLDG_399,Solar Panel Installation,525000.0,36200.0,14.5,15.8,Low,Medium
+REC_0033,BLDG_19874,Insulation Improvement,48300.0,8000.0,6.04,17.29,High,Medium
+REC_0034,BLDG_229,Solar Panel Installation,114800.0,6500.0,17.66,25.22,Low,Medium
+REC_0035,BLDG_23567,LED Lighting Retrofit,9300.0,2600.0,3.58,9.62,Critical,Low
+REC_0036,BLDG_22609,Water Efficiency Upgrade,9400.0,1800.0,5.22,2.58,High,Low
+REC_0037,BLDG_23723,Deep Energy Retrofit,344700.0,72200.0,4.77,44.95,Critical,High
+REC_0038,BLDG_678,Solar Panel Installation,247600.0,16100.0,15.38,19.05,Low,Medium
+REC_0039,BLDG_331,Building Automation System,80700.0,46700.0,1.73,11.9,Critical,Medium
+REC_0040,BLDG_63,Solar Panel Installation,525000.0,36200.0,14.5,22.57,Low,Medium
+REC_0041,BLDG_24112,Building Automation System,17500.0,3300.0,5.3,13.92,High,Medium
+REC_0042,BLDG_19976,Water Efficiency Upgrade,13300.0,6800.0,1.96,4.28,Critical,Low
+REC_0043,BLDG_24803,HVAC Upgrade,51800.0,19500.0,2.66,21.04,Critical,Medium
+REC_0044,BLDG_25850,LED Lighting Retrofit,20700.0,8500.0,2.44,8.04,Critical,Low
+REC_0045,BLDG_20741,Water Efficiency Upgrade,11300.0,5200.0,2.17,2.33,Critical,Low
+REC_0046,BLDG_23228,Building Automation System,24900.0,73600.0,0.34,14.66,Critical,Medium
+REC_0047,BLDG_21921,Solar Panel Installation,69000.0,3200.0,21.56,27.47,Low,Medium
+REC_0048,BLDG_858,Solar Panel Installation,453000.0,31000.0,14.61,21.99,Low,Medium
+REC_0049,BLDG_21941,Solar Panel Installation,377400.0,25500.0,14.8,24.65,Low,Medium
+REC_0050,BLDG_21125,Solar Panel Installation,70000.0,3300.0,21.21,24.07,Low,Medium
+REC_0051,BLDG_26862,Solar Panel Installation,65000.0,2900.0,22.41,16.63,Low,Medium
+REC_0052,BLDG_19477,HVAC Upgrade,78900.0,5900.0,13.37,25.43,Low,Medium
+REC_0053,BLDG_467,LED Lighting Retrofit,49000.0,87100.0,0.56,11.01,Critical,Low
+REC_0054,BLDG_50490,LED Lighting Retrofit,19300.0,13300.0,1.45,10.66,Critical,Low
+REC_0055,BLDG_22866,Solar Panel Installation,79000.0,3900.0,20.26,15.97,Low,Medium
+REC_0056,BLDG_27343,Solar Panel Installation,81600.0,4100.0,19.9,16.21,Low,Medium
+REC_0057,BLDG_21898,HVAC Upgrade,60400.0,13200.0,4.58,24.41,High,Medium
+REC_0058,BLDG_23306,Water Efficiency Upgrade,13200.0,7200.0,1.83,2.62,Critical,Low
+REC_0059,BLDG_19799,Building Automation System,16100.0,4900.0,3.29,14.45,Critical,Medium
+REC_0060,BLDG_21951,Deep Energy Retrofit,1300700.0,189200.0,6.87,41.95,High,High
+REC_0061,BLDG_23102,LED Lighting Retrofit,38100.0,44000.0,0.87,11.25,Critical,Low
+REC_0062,BLDG_23466,Solar Panel Installation,198200.0,12600.0,15.73,23.93,Low,Medium
+REC_0063,BLDG_25526,Water Efficiency Upgrade,11800.0,6200.0,1.9,4.82,Critical,Low
+REC_0064,BLDG_50489,Solar Panel Installation,65000.0,2900.0,22.41,27.81,Low,Medium
+REC_0065,BLDG_26846,Solar Panel Installation,205000.0,13000.0,15.77,16.06,Low,Medium
+REC_0066,BLDG_376,Solar Panel Installation,408200.0,27800.0,14.68,25.56,Low,Medium
+REC_0067,BLDG_24376,Water Efficiency Upgrade,10900.0,2400.0,4.54,2.42,High,Low
+REC_0068,BLDG_50016,Building Automation System,155400.0,63700.0,2.44,11.18,Critical,Medium
+REC_0069,BLDG_457,Deep Energy Retrofit,495500.0,216600.0,2.29,44.88,Critical,High
+REC_0070,BLDG_25849,Building Automation System,16400.0,3900.0,4.21,15.39,High,Medium
+REC_0071,BLDG_20503,Solar Panel Installation,77000.0,3800.0,20.26,26.42,Low,Medium
+REC_0072,BLDG_21917,Building Automation System,22400.0,13400.0,1.67,12.16,Critical,Medium
+REC_0073,BLDG_27590,Water Efficiency Upgrade,7700.0,3000.0,2.57,4.79,Critical,Low
+REC_0074,BLDG_23172,Water Efficiency Upgrade,15900.0,9500.0,1.67,2.69,Critical,Low
+REC_0075,BLDG_23574,Window Replacement,113400.0,11000.0,10.31,11.83,Medium,Medium
+REC_0076,BLDG_24448,HVAC Upgrade,67200.0,8600.0,7.81,25.55,High,Medium
+REC_0077,BLDG_26354,LED Lighting Retrofit,8600.0,3500.0,2.46,8.17,Critical,Low
+REC_0078,BLDG_19673,LED Lighting Retrofit,32600.0,29300.0,1.11,11.98,Critical,Low
+REC_0079,BLDG_26100,Building Automation System,31300.0,10300.0,3.04,13.58,Critical,Medium
+REC_0080,BLDG_20493,Solar Panel Installation,115200.0,6500.0,17.72,27.8,Low,Medium
+REC_0081,BLDG_25062,Solar Panel Installation,233800.0,15100.0,15.48,17.72,Low,Medium
+REC_0082,BLDG_21555,Solar Panel Installation,65000.0,2900.0,22.41,25.87,Low,Medium
+REC_0083,BLDG_23571,Water Efficiency Upgrade,10500.0,5400.0,1.94,3.41,Critical,Low
+REC_0084,BLDG_27868,Solar Panel Installation,65000.0,2900.0,22.41,17.58,Low,Medium
+REC_0085,BLDG_26319,LED Lighting Retrofit,17800.0,16400.0,1.09,11.43,Critical,Low
+REC_0086,BLDG_23590,Water Efficiency Upgrade,10000.0,5100.0,1.96,3.06,Critical,Low
+REC_0087,BLDG_491,LED Lighting Retrofit,27400.0,18100.0,1.51,11.87,Critical,Low
+REC_0088,BLDG_20163,Solar Panel Installation,525000.0,36200.0,14.5,27.23,Low,Medium
+REC_0089,BLDG_19862,LED Lighting Retrofit,20900.0,7800.0,2.68,10.7,Critical,Low
+REC_0090,BLDG_26150,LED Lighting Retrofit,14200.0,11100.0,1.28,11.27,Critical,Low
+REC_0091,BLDG_26695,LED Lighting Retrofit,10700.0,3800.0,2.82,8.69,Critical,Low
+REC_0092,BLDG_492,LED Lighting Retrofit,27400.0,1600.0,17.12,10.51,Low,Low
+REC_0093,BLDG_27232,LED Lighting Retrofit,8700.0,1500.0,5.8,9.12,High,Low
+REC_0094,BLDG_760,LED Lighting Retrofit,40200.0,16200.0,2.48,8.81,Critical,Low
+REC_0095,BLDG_49988,Water Efficiency Upgrade,23400.0,12100.0,1.93,2.18,Critical,Low
+REC_0096,BLDG_243,LED Lighting Retrofit,43200.0,28900.0,1.49,11.15,Critical,Low
+REC_0097,BLDG_24858,LED Lighting Retrofit,16100.0,5600.0,2.88,10.93,Critical,Low
+REC_0098,BLDG_22517,Water Efficiency Upgrade,9800.0,4800.0,2.04,2.96,Critical,Low
+REC_0099,BLDG_850,Water Efficiency Upgrade,14000.0,3000.0,4.67,4.12,High,Low
+REC_0100,BLDG_27561,Solar Panel Installation,65000.0,2900.0,22.41,24.8,Low,Medium
+REC_0101,BLDG_46,HVAC Upgrade,1050400.0,368400.0,2.85,24.41,Critical,Medium
+REC_0102,BLDG_35391,HVAC Upgrade,64300.0,26700.0,2.41,22.76,Critical,Medium
+REC_0103,BLDG_50001,LED Lighting Retrofit,36300.0,23800.0,1.53,9.62,Critical,Low
+REC_0104,BLDG_21486,Water Efficiency Upgrade,13300.0,7200.0,1.85,3.9,Critical,Low
+REC_0105,BLDG_26351,Solar Panel Installation,65000.0,2900.0,22.41,15.34,Low,Medium
+REC_0106,BLDG_49939,Deep Energy Retrofit,194100.0,19700.0,9.85,43.53,Medium,High
+REC_0107,BLDG_23308,Solar Panel Installation,65000.0,2900.0,22.41,19.02,Low,Medium
+REC_0108,BLDG_50178,HVAC Upgrade,79100.0,4700.0,16.83,23.74,Low,Medium
+REC_0109,BLDG_409,Building Automation System,47400.0,27400.0,1.73,13.02,Critical,Medium
+REC_0110,BLDG_50955,Water Efficiency Upgrade,27800.0,19500.0,1.43,4.24,Critical,Low
+REC_0111,BLDG_50170,Solar Panel Installation,84600.0,4300.0,19.67,18.24,Low,Medium
+REC_0112,BLDG_23404,Solar Panel Installation,65000.0,2900.0,22.41,21.88,Low,Medium
+REC_0113,BLDG_23890,HVAC Upgrade,134000.0,19200.0,6.98,24.6,High,Medium
+REC_0114,BLDG_559,Solar Panel Installation,269800.0,17700.0,15.24,18.73,Low,Medium
+REC_0115,BLDG_19930,Water Efficiency Upgrade,10100.0,4300.0,2.35,4.88,Critical,Low
+REC_0116,BLDG_532,Solar Panel Installation,146800.0,8800.0,16.68,25.26,Low,Medium
+REC_0117,BLDG_383,Solar Panel Installation,430800.0,29400.0,14.65,20.2,Low,Medium
+REC_0118,BLDG_752,Solar Panel Installation,250400.0,16300.0,15.36,23.65,Low,Medium
+REC_0119,BLDG_22753,LED Lighting Retrofit,19200.0,8000.0,2.4,9.04,Critical,Low
+REC_0120,BLDG_529,LED Lighting Retrofit,29300.0,26000.0,1.13,10.81,Critical,Low
+REC_0121,BLDG_19854,Solar Panel Installation,112400.0,6300.0,17.84,22.57,Low,Medium
+REC_0122,BLDG_25110,LED Lighting Retrofit,11500.0,5200.0,2.21,10.92,Critical,Low
+REC_0123,BLDG_22830,Solar Panel Installation,65000.0,2900.0,22.41,18.03,Low,Medium
+REC_0124,BLDG_19885,Solar Panel Installation,281200.0,18600.0,15.12,21.53,Low,Medium
+REC_0125,BLDG_25599,LED Lighting Retrofit,11200.0,4200.0,2.67,11.44,Critical,Low
+REC_0126,BLDG_547,Solar Panel Installation,104600.0,5800.0,18.03,15.39,Low,Medium
+REC_0127,BLDG_27008,LED Lighting Retrofit,18400.0,18200.0,1.01,9.47,Critical,Low
+REC_0128,BLDG_21319,Building Automation System,21500.0,6700.0,3.21,14.57,Critical,Medium
+REC_0129,BLDG_19448,Solar Panel Installation,65000.0,2900.0,22.41,27.47,Low,Medium
+REC_0130,BLDG_19830,Water Efficiency Upgrade,17100.0,9000.0,1.9,2.27,Critical,Low
+REC_0131,BLDG_26391,Solar Panel Installation,65000.0,2900.0,22.41,25.47,Low,Medium
+REC_0132,BLDG_24030,Water Efficiency Upgrade,13900.0,2500.0,5.56,3.86,High,Low
+REC_0133,BLDG_50501,Solar Panel Installation,136200.0,8100.0,16.81,22.91,Low,Medium
+REC_0134,BLDG_50476,LED Lighting Retrofit,68800.0,19200.0,3.58,9.4,Critical,Low
+REC_0135,BLDG_25218,Building Automation System,20000.0,5300.0,3.77,10.44,Critical,Medium
+REC_0136,BLDG_49947,Solar Panel Installation,448800.0,30700.0,14.62,15.72,Low,Medium
+REC_0137,BLDG_25,Insulation Improvement,81000.0,34200.0,2.37,12.35,Critical,Medium
+REC_0138,BLDG_26188,Solar Panel Installation,254200.0,16600.0,15.31,19.2,Low,Medium
+REC_0139,BLDG_337,Water Efficiency Upgrade,90600.0,27400.0,3.31,2.08,Critical,Low
+REC_0140,BLDG_21357,Water Efficiency Upgrade,9900.0,4200.0,2.36,2.94,Critical,Low
+REC_0141,BLDG_19535,Water Efficiency Upgrade,10800.0,5800.0,1.86,3.65,Critical,Low
+REC_0142,BLDG_87,Solar Panel Installation,130200.0,7600.0,17.13,24.65,Low,Medium
+REC_0143,BLDG_20153,LED Lighting Retrofit,14700.0,6400.0,2.3,8.5,Critical,Low
+REC_0144,BLDG_837,Water Efficiency Upgrade,19700.0,7900.0,2.49,2.71,Critical,Low
+REC_0145,BLDG_21671,LED Lighting Retrofit,23400.0,3900.0,6.0,8.16,High,Low
+REC_0146,BLDG_20880,Solar Panel Installation,72400.0,3400.0,21.29,27.07,Low,Medium
+REC_0147,BLDG_26129,Water Efficiency Upgrade,7700.0,2800.0,2.75,4.23,Critical,Low
+REC_0148,BLDG_652,LED Lighting Retrofit,41700.0,28800.0,1.45,10.25,Critical,Low
+REC_0149,BLDG_23075,Water Efficiency Upgrade,8300.0,3400.0,2.44,4.59,Critical,Low
+REC_0150,BLDG_50543,LED Lighting Retrofit,24900.0,32800.0,0.76,9.08,Critical,Low
+REC_0151,BLDG_49921,LED Lighting Retrofit,59500.0,31600.0,1.88,11.44,Critical,Low
+REC_0152,BLDG_20444,Building Automation System,19300.0,3900.0,4.95,10.16,High,Medium
+REC_0153,BLDG_24624,LED Lighting Retrofit,14600.0,21300.0,0.69,9.57,Critical,Low
+REC_0154,BLDG_26118,Building Automation System,50100.0,14000.0,3.58,14.05,Critical,Medium
+REC_0155,BLDG_27100,HVAC Upgrade,676000.0,455800.0,1.48,23.79,Critical,Medium
+REC_0156,BLDG_578,Water Efficiency Upgrade,14600.0,4600.0,3.17,3.07,Critical,Low
+REC_0157,BLDG_50460,Solar Panel Installation,525000.0,36200.0,14.5,20.84,Low,Medium
+REC_0158,BLDG_627,Building Automation System,29600.0,11300.0,2.62,10.19,Critical,Medium
+REC_0159,BLDG_22650,LED Lighting Retrofit,14900.0,2200.0,6.77,9.56,High,Low
+REC_0160,BLDG_50017,Water Efficiency Upgrade,16600.0,8800.0,1.89,2.92,Critical,Low
+REC_0161,BLDG_633,LED Lighting Retrofit,60300.0,31500.0,1.91,9.93,Critical,Low
+REC_0162,BLDG_20390,Solar Panel Installation,268400.0,17600.0,15.25,26.25,Low,Medium
+REC_0163,BLDG_20898,Building Automation System,19900.0,3500.0,5.69,15.54,High,Medium
+REC_0164,BLDG_20496,Solar Panel Installation,122600.0,7100.0,17.27,27.46,Low,Medium
+REC_0165,BLDG_23006,Water Efficiency Upgrade,8400.0,3400.0,2.47,2.11,Critical,Low
+REC_0166,BLDG_23637,Building Automation System,16600.0,8600.0,1.93,11.32,Critical,Medium
+REC_0167,BLDG_21098,Solar Panel Installation,211200.0,13500.0,15.64,16.34,Low,Medium
+REC_0168,BLDG_27277,LED Lighting Retrofit,11800.0,2900.0,4.07,8.81,High,Low
+REC_0169,BLDG_22676,HVAC Upgrade,49100.0,12800.0,3.84,21.88,Critical,Medium
+REC_0170,BLDG_23323,LED Lighting Retrofit,27300.0,7900.0,3.46,10.59,Critical,Low
+REC_0171,BLDG_21178,Insulation Improvement,27600.0,4700.0,5.87,15.25,Critical,Medium
+REC_0172,BLDG_447,Water Efficiency Upgrade,23100.0,8400.0,2.75,4.87,Critical,Low
+REC_0173,BLDG_116,Building Automation System,53500.0,28500.0,1.88,12.27,Critical,Medium
+REC_0174,BLDG_23311,Solar Panel Installation,525000.0,36200.0,14.5,23.84,Low,Medium
+REC_0175,BLDG_22524,Deep Energy Retrofit,155400.0,34900.0,4.45,42.45,Critical,High
+REC_0176,BLDG_115,Insulation Improvement,61300.0,14200.0,4.32,15.24,High,Medium
+REC_0177,BLDG_20976,Deep Energy Retrofit,153700.0,27000.0,5.69,35.21,Critical,High
+REC_0178,BLDG_19472,Water Efficiency Upgrade,12000.0,2700.0,4.44,2.25,High,Low
+REC_0179,BLDG_138,Solar Panel Installation,352400.0,23700.0,14.87,26.53,Low,Medium
+REC_0180,BLDG_24289,Water Efficiency Upgrade,8700.0,3200.0,2.72,4.58,Critical,Low
+REC_0181,BLDG_19621,HVAC Upgrade,56300.0,14400.0,3.91,24.08,Critical,Medium
+REC_0182,BLDG_597,Solar Panel Installation,413200.0,28100.0,14.7,19.73,Low,Medium
+REC_0183,BLDG_50328,Solar Panel Installation,80400.0,4000.0,20.1,21.01,Low,Medium
+REC_0184,BLDG_24712,Solar Panel Installation,73000.0,3500.0,20.86,21.14,Low,Medium
+REC_0185,BLDG_26154,Window Replacement,59100.0,3400.0,17.38,12.18,Low,Medium
+REC_0186,BLDG_24515,Solar Panel Installation,97400.0,5200.0,18.73,22.97,Low,Medium
+REC_0187,BLDG_49712,Solar Panel Installation,295000.0,19600.0,15.05,23.53,Low,Medium
+REC_0188,BLDG_20480,LED Lighting Retrofit,27200.0,23300.0,1.17,11.07,Critical,Low
+REC_0189,BLDG_385,Solar Panel Installation,326400.0,21900.0,14.9,26.99,Low,Medium
+REC_0190,BLDG_19661,Solar Panel Installation,211800.0,13500.0,15.69,21.45,Low,Medium
+REC_0191,BLDG_292,Insulation Improvement,72700.0,21500.0,3.38,16.66,Critical,Medium
+REC_0192,BLDG_21495,Window Replacement,78900.0,9200.0,8.58,9.61,High,Medium
+REC_0193,BLDG_50946,Water Efficiency Upgrade,81000.0,57000.0,1.42,2.24,Critical,Low
+REC_0194,BLDG_24255,LED Lighting Retrofit,8800.0,3500.0,2.51,10.0,Critical,Low
+REC_0195,BLDG_19576,HVAC Upgrade,58500.0,24900.0,2.35,21.53,Critical,Medium
+REC_0196,BLDG_168,Solar Panel Installation,241200.0,15700.0,15.36,20.36,Low,Medium
+REC_0197,BLDG_20917,HVAC Upgrade,56800.0,26900.0,2.11,22.5,Critical,Medium
+REC_0198,BLDG_24391,Building Automation System,33500.0,12900.0,2.6,11.73,Critical,Medium
+REC_0199,BLDG_23752,Building Automation System,17500.0,2300.0,7.61,13.3,Medium,Medium
+REC_0200,BLDG_27235,Solar Panel Installation,65000.0,2900.0,22.41,20.05,Low,Medium
+REC_0201,BLDG_27203,LED Lighting Retrofit,14000.0,8300.0,1.69,9.61,Critical,Low
+REC_0202,BLDG_389,Solar Panel Installation,525000.0,36200.0,14.5,18.78,Low,Medium
+REC_0203,BLDG_26423,LED Lighting Retrofit,10200.0,5200.0,1.96,9.27,Critical,Low
+REC_0204,BLDG_21469,Solar Panel Installation,88600.0,4600.0,19.26,24.54,Low,Medium
+REC_0205,BLDG_23292,Deep Energy Retrofit,1457700.0,235700.0,6.18,43.75,High,High
+REC_0206,BLDG_26147,Water Efficiency Upgrade,8900.0,3600.0,2.47,4.99,Critical,Low
+REC_0207,BLDG_24657,Building Automation System,22300.0,10900.0,2.05,14.22,Critical,Medium
+REC_0208,BLDG_35436,Solar Panel Installation,71000.0,3300.0,21.52,21.9,Low,Medium
+REC_0209,BLDG_23187,Water Efficiency Upgrade,23800.0,14600.0,1.63,3.53,Critical,Low
+REC_0210,BLDG_25047,LED Lighting Retrofit,13200.0,5800.0,2.28,8.23,Critical,Low
+REC_0211,BLDG_23504,Deep Energy Retrofit,233500.0,29900.0,7.81,47.7,High,High
+REC_0212,BLDG_611,Building Automation System,34600.0,9500.0,3.64,15.62,Critical,Medium
+REC_0213,BLDG_19922,Window Replacement,141900.0,13600.0,10.43,11.87,Medium,Medium
+REC_0214,BLDG_26574,HVAC Upgrade,151900.0,37000.0,4.11,24.39,Critical,Medium
+REC_0215,BLDG_28067,Solar Panel Installation,82000.0,4100.0,20.0,20.41,Low,Medium
+REC_0216,BLDG_27204,LED Lighting Retrofit,19100.0,3200.0,5.97,9.45,High,Low
+REC_0217,BLDG_50903,Solar Panel Installation,89800.0,4700.0,19.11,15.92,Low,Medium
+REC_0218,BLDG_24033,Solar Panel Installation,65000.0,2900.0,22.41,19.1,Low,Medium
+REC_0219,BLDG_720,Deep Energy Retrofit,689500.0,175400.0,3.93,40.12,Critical,High
+REC_0220,BLDG_27381,HVAC Upgrade,53200.0,5000.0,10.64,23.39,Medium,Medium
+REC_0221,BLDG_50076,Solar Panel Installation,336600.0,22600.0,14.89,24.76,Low,Medium
+REC_0222,BLDG_784,LED Lighting Retrofit,23500.0,13600.0,1.73,11.55,Critical,Low
+REC_0223,BLDG_524,Solar Panel Installation,349400.0,23500.0,14.87,16.16,Low,Medium
+REC_0224,BLDG_21741,Water Efficiency Upgrade,134300.0,63200.0,2.12,3.47,Critical,Low
+REC_0225,BLDG_27245,HVAC Upgrade,50800.0,8200.0,6.2,24.14,High,Medium
+REC_0226,BLDG_637,HVAC Upgrade,429700.0,134700.0,3.19,20.62,Critical,Medium
+REC_0227,BLDG_50662,Building Automation System,23700.0,8900.0,2.66,12.47,Critical,Medium
+REC_0228,BLDG_49739,Water Efficiency Upgrade,11500.0,5800.0,1.98,2.41,Critical,Low
+REC_0229,BLDG_23449,Window Replacement,88100.0,10900.0,8.08,12.65,High,Medium
+REC_0230,BLDG_453,Water Efficiency Upgrade,21200.0,6200.0,3.42,4.62,Critical,Low
+REC_0231,BLDG_50722,Solar Panel Installation,87600.0,4500.0,19.47,23.14,Low,Medium
+REC_0232,BLDG_24418,Water Efficiency Upgrade,8600.0,1500.0,5.73,2.11,High,Low
+REC_0233,BLDG_25466,HVAC Upgrade,65800.0,15200.0,4.33,25.98,Critical,Medium
+REC_0234,BLDG_23268,LED Lighting Retrofit,20000.0,19800.0,1.01,11.23,Critical,Low
+REC_0235,BLDG_50257,Solar Panel Installation,262600.0,17200.0,15.27,23.25,Low,Medium
+REC_0236,BLDG_179,HVAC Upgrade,94400.0,32500.0,2.9,19.79,Critical,Medium
+REC_0237,BLDG_21532,Solar Panel Installation,486200.0,33400.0,14.56,24.0,Low,Medium
+REC_0238,BLDG_28734,LED Lighting Retrofit,36700.0,9300.0,3.95,10.15,Critical,Low
+REC_0239,BLDG_50717,LED Lighting Retrofit,57500.0,39000.0,1.47,9.42,Critical,Low
+REC_0240,BLDG_343,Solar Panel Installation,525000.0,36200.0,14.5,20.2,Low,Medium
+REC_0241,BLDG_425,Solar Panel Installation,179400.0,11200.0,16.02,15.41,Low,Medium
+REC_0242,BLDG_19740,Water Efficiency Upgrade,11000.0,5500.0,2.0,4.04,Critical,Low
+REC_0243,BLDG_27681,Solar Panel Installation,65000.0,2900.0,22.41,19.1,Low,Medium
+REC_0244,BLDG_95,HVAC Upgrade,126100.0,56600.0,2.23,24.42,Critical,Medium
+REC_0245,BLDG_27016,Building Automation System,21300.0,8800.0,2.42,11.88,Critical,Medium
+REC_0246,BLDG_19464,Solar Panel Installation,228600.0,14800.0,15.45,26.2,Low,Medium
+REC_0247,BLDG_23948,HVAC Upgrade,70400.0,33900.0,2.08,23.73,Critical,Medium
+REC_0248,BLDG_50741,Solar Panel Installation,162200.0,9900.0,16.38,25.98,Low,Medium
+REC_0249,BLDG_19451,Water Efficiency Upgrade,16000.0,5500.0,2.91,3.52,Critical,Low
+REC_0250,BLDG_538,Water Efficiency Upgrade,36700.0,12200.0,3.01,2.65,Critical,Low
+REC_0251,BLDG_20141,Solar Panel Installation,88400.0,4600.0,19.22,16.12,Low,Medium
+REC_0252,BLDG_20069,LED Lighting Retrofit,9600.0,5100.0,1.88,9.37,Critical,Low
+REC_0253,BLDG_599,Insulation Improvement,61400.0,18200.0,3.37,15.16,Critical,Medium
+REC_0254,BLDG_354,Building Automation System,377400.0,206700.0,1.83,13.41,Critical,Medium
+REC_0255,BLDG_23742,HVAC Upgrade,77400.0,34400.0,2.25,20.64,Critical,Medium
+REC_0256,BLDG_49996,Building Automation System,38200.0,15500.0,2.46,11.26,Critical,Medium
+REC_0257,BLDG_23680,LED Lighting Retrofit,14800.0,7000.0,2.11,10.31,Critical,Low
+REC_0258,BLDG_50071,Solar Panel Installation,80200.0,4000.0,20.05,17.23,Low,Medium
+REC_0259,BLDG_49729,Solar Panel Installation,184000.0,11500.0,16.0,16.44,Low,Medium
+REC_0260,BLDG_27659,Solar Panel Installation,100200.0,5500.0,18.22,24.74,Low,Medium
+REC_0261,BLDG_1,Insulation Improvement,69900.0,27900.0,2.51,17.64,Critical,Medium
+REC_0262,BLDG_20391,Water Efficiency Upgrade,24400.0,14800.0,1.65,3.0,Critical,Low
+REC_0263,BLDG_20325,Solar Panel Installation,125000.0,7200.0,17.36,25.94,Low,Medium
+REC_0264,BLDG_26909,Building Automation System,18600.0,4000.0,4.65,14.93,High,Medium
+REC_0265,BLDG_831,Solar Panel Installation,410800.0,28000.0,14.67,22.78,Low,Medium
+REC_0266,BLDG_50074,LED Lighting Retrofit,16900.0,3600.0,4.69,9.46,High,Low
+REC_0267,BLDG_562,Deep Energy Retrofit,1168800.0,175200.0,6.67,37.61,High,High
+REC_0268,BLDG_20264,Solar Panel Installation,65000.0,2900.0,22.41,24.0,Low,Medium
+REC_0269,BLDG_443,Solar Panel Installation,392600.0,26700.0,14.7,15.96,Low,Medium
+REC_0270,BLDG_49869,Solar Panel Installation,71200.0,3300.0,21.58,16.68,Low,Medium
+REC_0271,BLDG_22046,Water Efficiency Upgrade,71300.0,53000.0,1.35,4.17,Critical,Low
+REC_0272,BLDG_351,Water Efficiency Upgrade,143800.0,47100.0,3.05,3.51,Critical,Low
+REC_0273,BLDG_657,Solar Panel Installation,525000.0,36200.0,14.5,15.46,Low,Medium
+REC_0274,BLDG_19899,Solar Panel Installation,525000.0,36200.0,14.5,24.37,Low,Medium
+REC_0275,BLDG_26835,HVAC Upgrade,67200.0,10200.0,6.59,24.41,High,Medium
+REC_0276,BLDG_49858,Deep Energy Retrofit,210300.0,28700.0,7.33,43.88,High,High
+REC_0277,BLDG_21568,Building Automation System,40300.0,20600.0,1.96,11.88,Critical,Medium
+REC_0278,BLDG_50329,Water Efficiency Upgrade,22700.0,13500.0,1.68,3.06,Critical,Low
+REC_0279,BLDG_20630,Solar Panel Installation,182600.0,11400.0,16.02,18.39,Low,Medium
+REC_0280,BLDG_19534,HVAC Upgrade,81500.0,8000.0,10.19,18.51,Medium,Medium
+REC_0281,BLDG_25080,LED Lighting Retrofit,17700.0,7600.0,2.33,8.28,Critical,Low
+REC_0282,BLDG_25128,Window Replacement,58900.0,3800.0,15.5,12.03,Low,Medium
+REC_0283,BLDG_50482,Solar Panel Installation,133800.0,7900.0,16.94,19.61,Low,Medium
+REC_0284,BLDG_21181,HVAC Upgrade,64500.0,15100.0,4.27,20.41,Critical,Medium
+REC_0285,BLDG_610,Solar Panel Installation,157600.0,9600.0,16.42,17.74,Low,Medium
+REC_0286,BLDG_20577,LED Lighting Retrofit,19400.0,11100.0,1.75,11.6,Critical,Low
+REC_0287,BLDG_24541,Solar Panel Installation,90200.0,4700.0,19.19,26.32,Low,Medium
+REC_0288,BLDG_21182,Solar Panel Installation,71000.0,3300.0,21.52,26.54,Low,Medium
+REC_0289,BLDG_26708,Water Efficiency Upgrade,11500.0,2500.0,4.6,4.68,High,Low
+REC_0290,BLDG_20989,LED Lighting Retrofit,8700.0,3200.0,2.72,10.99,Critical,Low
+REC_0291,BLDG_21712,Water Efficiency Upgrade,8000.0,3200.0,2.5,3.02,Critical,Low
+REC_0292,BLDG_50745,LED Lighting Retrofit,24200.0,2400.0,10.08,8.76,Medium,Low
+REC_0293,BLDG_404,LED Lighting Retrofit,25400.0,13400.0,1.9,8.23,Critical,Low
+REC_0294,BLDG_50495,LED Lighting Retrofit,28400.0,13600.0,2.09,9.39,Critical,Low
+REC_0295,BLDG_27504,Water Efficiency Upgrade,8200.0,1900.0,4.32,4.36,High,Low
+REC_0296,BLDG_26881,Solar Panel Installation,217000.0,13900.0,15.61,18.77,Low,Medium
+REC_0297,BLDG_21180,LED Lighting Retrofit,17900.0,12000.0,1.49,9.35,Critical,Low
+REC_0298,BLDG_26731,Water Efficiency Upgrade,8800.0,1400.0,6.29,2.36,High,Low
+REC_0299,BLDG_22831,Insulation Improvement,25100.0,2900.0,8.66,17.67,High,Medium
+REC_0300,BLDG_560,HVAC Upgrade,112100.0,12100.0,9.26,22.12,Medium,Medium
+REC_0301,BLDG_677,HVAC Upgrade,478900.0,104900.0,4.57,21.66,Critical,Medium
+REC_0302,BLDG_49792,Solar Panel Installation,371000.0,25100.0,14.78,16.5,Low,Medium
+REC_0303,BLDG_514,Solar Panel Installation,200200.0,12700.0,15.76,27.1,Low,Medium
+REC_0304,BLDG_27231,LED Lighting Retrofit,28300.0,7100.0,3.99,10.98,Critical,Low
+REC_0305,BLDG_20710,Water Efficiency Upgrade,8500.0,3900.0,2.18,4.38,Critical,Low
+REC_0306,BLDG_25427,Building Automation System,21800.0,6500.0,3.35,13.97,Critical,Medium
+REC_0307,BLDG_650,Solar Panel Installation,147200.0,8900.0,16.54,23.2,Low,Medium
+REC_0308,BLDG_20007,Solar Panel Installation,90400.0,4700.0,19.23,24.24,Low,Medium
+REC_0309,BLDG_799,HVAC Upgrade,94600.0,24800.0,3.81,20.67,Critical,Medium
+REC_0310,BLDG_27928,Window Replacement,59800.0,7000.0,8.54,13.94,High,Medium
+REC_0311,BLDG_27301,Solar Panel Installation,216200.0,13900.0,15.55,24.1,Low,Medium
+REC_0312,BLDG_19988,Building Automation System,20000.0,6100.0,3.28,13.27,Critical,Medium
+REC_0313,BLDG_39673,LED Lighting Retrofit,10800.0,1300.0,8.31,10.42,Medium,Low
+REC_0314,BLDG_23284,Solar Panel Installation,309000.0,20600.0,15.0,21.94,Low,Medium
+REC_0315,BLDG_26246,HVAC Upgrade,112600.0,26600.0,4.23,22.07,Critical,Medium
+REC_0316,BLDG_25416,Solar Panel Installation,209200.0,13400.0,15.61,15.86,Low,Medium
+REC_0317,BLDG_20164,HVAC Upgrade,58800.0,19800.0,2.97,20.36,Critical,Medium
+REC_0318,BLDG_21537,LED Lighting Retrofit,11200.0,7300.0,1.53,11.85,Critical,Low
+REC_0319,BLDG_25866,Building Automation System,18200.0,5200.0,3.5,12.4,Critical,Medium
+REC_0320,BLDG_28048,LED Lighting Retrofit,17500.0,7800.0,2.24,9.71,Critical,Low
+REC_0321,BLDG_24430,Water Efficiency Upgrade,12800.0,5800.0,2.21,3.99,Critical,Low
+REC_0322,BLDG_50371,Solar Panel Installation,292800.0,19400.0,15.09,22.87,Low,Medium
+REC_0323,BLDG_658,Insulation Improvement,226800.0,64900.0,3.49,14.34,Critical,Medium
+REC_0324,BLDG_23805,Water Efficiency Upgrade,7600.0,2400.0,3.17,4.09,Critical,Low
+REC_0325,BLDG_386,LED Lighting Retrofit,97200.0,96100.0,1.01,11.18,Critical,Low
+REC_0326,BLDG_33254,Solar Panel Installation,372200.0,25200.0,14.77,24.09,Low,Medium
+REC_0327,BLDG_708,LED Lighting Retrofit,80700.0,53300.0,1.51,10.0,Critical,Low
+REC_0328,BLDG_27844,Building Automation System,17700.0,3700.0,4.78,11.13,High,Medium
+REC_0329,BLDG_26282,Building Automation System,24700.0,4700.0,5.26,11.7,High,Medium
+REC_0330,BLDG_25659,Solar Panel Installation,77000.0,3800.0,20.26,16.83,Low,Medium
+REC_0331,BLDG_21852,Solar Panel Installation,85400.0,4400.0,19.41,20.78,Low,Medium
+REC_0332,BLDG_50639,Solar Panel Installation,296000.0,19600.0,15.1,19.32,Low,Medium
+REC_0333,BLDG_25853,HVAC Upgrade,112000.0,32800.0,3.41,24.87,Critical,Medium
+REC_0334,BLDG_21438,Water Efficiency Upgrade,10800.0,2300.0,4.7,4.2,High,Low
+REC_0335,BLDG_50897,Water Efficiency Upgrade,9400.0,4600.0,2.04,2.37,Critical,Low
+REC_0336,BLDG_21745,Solar Panel Installation,216400.0,13900.0,15.57,24.63,Low,Medium
+REC_0337,BLDG_29214,Water Efficiency Upgrade,10700.0,3100.0,3.45,3.25,Critical,Low
+REC_0338,BLDG_25069,Building Automation System,25100.0,16000.0,1.57,13.2,Critical,Medium
+REC_0339,BLDG_23017,LED Lighting Retrofit,11100.0,1600.0,6.94,8.85,High,Low
+REC_0340,BLDG_50695,Building Automation System,30900.0,13800.0,2.24,15.11,Critical,Medium
+REC_0341,BLDG_50018,Building Automation System,37700.0,21900.0,1.72,12.71,Critical,Medium
+REC_0342,BLDG_20017,Water Efficiency Upgrade,9900.0,4500.0,2.2,3.01,Critical,Low
+REC_0343,BLDG_25617,Building Automation System,20300.0,4000.0,5.08,10.93,High,Medium
+REC_0344,BLDG_577,Window Replacement,172000.0,22800.0,7.54,9.28,High,Medium
+REC_0345,BLDG_50458,Solar Panel Installation,133600.0,7900.0,16.91,24.9,Low,Medium
+REC_0346,BLDG_607,Building Automation System,30400.0,68200.0,0.45,12.06,Critical,Medium
+REC_0347,BLDG_27042,Solar Panel Installation,418000.0,28500.0,14.67,20.37,Low,Medium
+REC_0348,BLDG_22681,Solar Panel Installation,73000.0,3500.0,20.86,24.8,Low,Medium
+REC_0349,BLDG_27260,Solar Panel Installation,258800.0,17000.0,15.22,26.11,Low,Medium
+REC_0350,BLDG_552,LED Lighting Retrofit,51800.0,76500.0,0.68,9.34,Critical,Low
+REC_0351,BLDG_24072,Building Automation System,17900.0,5200.0,3.44,14.85,Critical,Medium
+REC_0352,BLDG_413,Solar Panel Installation,208400.0,13300.0,15.67,27.87,Low,Medium
+REC_0353,BLDG_50158,Solar Panel Installation,439600.0,30100.0,14.6,23.04,Low,Medium
+REC_0354,BLDG_220,Solar Panel Installation,337200.0,22600.0,14.92,18.77,Low,Medium
+REC_0355,BLDG_575,Insulation Improvement,68500.0,32700.0,2.09,15.19,Critical,Medium
+REC_0356,BLDG_21719,Water Efficiency Upgrade,8800.0,3800.0,2.32,2.04,Critical,Low
+REC_0357,BLDG_50680,Solar Panel Installation,205600.0,13100.0,15.69,19.89,Low,Medium
+REC_0358,BLDG_50169,Solar Panel Installation,67600.0,3100.0,21.81,24.23,Low,Medium
+REC_0359,BLDG_27431,Solar Panel Installation,102800.0,5600.0,18.36,19.3,Low,Medium
+REC_0360,BLDG_27625,Water Efficiency Upgrade,9800.0,4600.0,2.13,4.37,Critical,Low
+REC_0361,BLDG_27299,Building Automation System,26100.0,9300.0,2.81,11.43,Critical,Medium
+REC_0362,BLDG_21244,LED Lighting Retrofit,16000.0,19900.0,0.8,9.88,Critical,Low
+REC_0363,BLDG_26523,Solar Panel Installation,83200.0,4200.0,19.81,20.43,Low,Medium
+REC_0364,BLDG_19510,Building Automation System,41600.0,20400.0,2.04,12.0,Critical,Medium
+REC_0365,BLDG_51,Solar Panel Installation,259000.0,17000.0,15.24,15.04,Low,Medium
+REC_0366,BLDG_50325,Solar Panel Installation,525000.0,36200.0,14.5,19.09,Low,Medium
+REC_0367,BLDG_22166,Building Automation System,28700.0,14000.0,2.05,11.24,Critical,Medium
+REC_0368,BLDG_27266,Water Efficiency Upgrade,20800.0,12700.0,1.64,3.14,Critical,Low
+REC_0369,BLDG_50037,Solar Panel Installation,525000.0,36200.0,14.5,27.12,Low,Medium
+REC_0370,BLDG_21314,Building Automation System,32600.0,13800.0,2.36,13.45,Critical,Medium
+REC_0371,BLDG_49725,HVAC Upgrade,402800.0,462200.0,0.87,25.46,Critical,Medium
+REC_0372,BLDG_26730,Solar Panel Installation,82800.0,4200.0,19.71,18.49,Low,Medium
+REC_0373,BLDG_20921,Solar Panel Installation,80000.0,4000.0,20.0,20.38,Low,Medium
+REC_0374,BLDG_25856,Solar Panel Installation,90800.0,4800.0,18.92,25.87,Low,Medium
+REC_0375,BLDG_21897,Deep Energy Retrofit,153100.0,28500.0,5.37,39.94,Critical,High
+REC_0376,BLDG_19890,Water Efficiency Upgrade,12800.0,6800.0,1.88,4.93,Critical,Low
+REC_0377,BLDG_49785,Building Automation System,38600.0,16700.0,2.31,10.08,Critical,Medium
+REC_0378,BLDG_49687,Window Replacement,185900.0,38400.0,4.84,10.46,Critical,Medium
+REC_0379,BLDG_26425,Water Efficiency Upgrade,8900.0,3400.0,2.62,3.16,Critical,Low
+REC_0380,BLDG_21278,HVAC Upgrade,61300.0,11900.0,5.15,24.96,Critical,Medium
+REC_0381,BLDG_144,LED Lighting Retrofit,54000.0,29900.0,1.81,9.94,Critical,Low
+REC_0382,BLDG_24351,LED Lighting Retrofit,23000.0,2400.0,9.58,10.56,Medium,Low
+REC_0383,BLDG_23595,Building Automation System,21100.0,4900.0,4.31,11.69,High,Medium
+REC_0384,BLDG_26746,Building Automation System,16700.0,2800.0,5.96,10.25,High,Medium
+REC_0385,BLDG_62,Window Replacement,194500.0,33100.0,5.88,10.97,High,Medium
+REC_0386,BLDG_20564,Water Efficiency Upgrade,19100.0,11800.0,1.62,4.4,Critical,Low
+REC_0387,BLDG_50188,LED Lighting Retrofit,29800.0,13900.0,2.14,8.34,Critical,Low
+REC_0388,BLDG_50048,Solar Panel Installation,271800.0,17900.0,15.18,20.12,Low,Medium
+REC_0389,BLDG_50272,Solar Panel Installation,65000.0,2900.0,22.41,20.39,Low,Medium
+REC_0390,BLDG_50338,Solar Panel Installation,82600.0,4200.0,19.67,17.29,Low,Medium
+REC_0391,BLDG_19884,Solar Panel Installation,453000.0,31000.0,14.61,21.64,Low,Medium
+REC_0392,BLDG_122,Insulation Improvement,50500.0,7700.0,6.56,12.55,High,Medium
+REC_0393,BLDG_37248,Deep Energy Retrofit,366000.0,41500.0,8.82,42.6,High,High
+REC_0394,BLDG_702,Water Efficiency Upgrade,14800.0,4000.0,3.7,3.49,Critical,Low
+REC_0395,BLDG_50887,LED Lighting Retrofit,60400.0,59900.0,1.01,11.27,Critical,Low
+REC_0396,BLDG_20073,Water Efficiency Upgrade,9800.0,2200.0,4.45,3.76,High,Low
+REC_0397,BLDG_371,Building Automation System,142100.0,54900.0,2.59,12.46,Critical,Medium
+REC_0398,BLDG_314,Deep Energy Retrofit,573700.0,341100.0,1.68,32.18,Critical,High
+REC_0399,BLDG_26252,LED Lighting Retrofit,9400.0,2400.0,3.92,8.61,Critical,Low
+REC_0400,BLDG_50010,Water Efficiency Upgrade,22000.0,8900.0,2.47,4.42,Critical,Low
+REC_0401,BLDG_839,Solar Panel Installation,225800.0,14600.0,15.47,24.7,Low,Medium
+REC_0402,BLDG_24194,LED Lighting Retrofit,9200.0,3900.0,2.36,8.47,Critical,Low
+REC_0403,BLDG_49986,Water Efficiency Upgrade,16600.0,3800.0,4.37,2.24,High,Low
+REC_0404,BLDG_19839,LED Lighting Retrofit,9100.0,3200.0,2.84,11.94,Critical,Low
+REC_0405,BLDG_24488,LED Lighting Retrofit,8700.0,4400.0,1.98,8.19,Critical,Low
+REC_0406,BLDG_26232,LED Lighting Retrofit,14200.0,6400.0,2.22,9.0,Critical,Low
+REC_0407,BLDG_25360,Solar Panel Installation,336400.0,22600.0,14.88,17.48,Low,Medium
+REC_0408,BLDG_21690,Solar Panel Installation,65000.0,2900.0,22.41,15.05,Low,Medium
+REC_0409,BLDG_50778,Building Automation System,37700.0,21200.0,1.78,14.35,Critical,Medium
+REC_0410,BLDG_29148,Deep Energy Retrofit,243700.0,59500.0,4.1,46.45,Critical,High
+REC_0411,BLDG_25882,Building Automation System,27600.0,10600.0,2.6,14.56,Critical,Medium
+REC_0412,BLDG_24564,LED Lighting Retrofit,41400.0,10500.0,3.94,8.09,Critical,Low
+REC_0413,BLDG_19911,Water Efficiency Upgrade,11500.0,5400.0,2.13,3.1,Critical,Low
+REC_0414,BLDG_27089,LED Lighting Retrofit,10700.0,7600.0,1.41,10.99,Critical,Low
+REC_0415,BLDG_20834,LED Lighting Retrofit,18300.0,10600.0,1.73,10.24,Critical,Low
+REC_0416,BLDG_387,Solar Panel Installation,525000.0,36200.0,14.5,18.12,Low,Medium
+REC_0417,BLDG_26116,Water Efficiency Upgrade,8900.0,3700.0,2.41,4.84,Critical,Low
+REC_0418,BLDG_26008,Window Replacement,60600.0,9600.0,6.31,10.01,High,Medium
+REC_0419,BLDG_50653,Solar Panel Installation,210800.0,13500.0,15.61,17.7,Low,Medium
+REC_0420,BLDG_27117,Building Automation System,16400.0,2200.0,7.45,10.61,Medium,Medium
+REC_0421,BLDG_22135,HVAC Upgrade,51500.0,7000.0,7.36,24.48,High,Medium
+REC_0422,BLDG_26479,Water Efficiency Upgrade,8200.0,3600.0,2.28,4.29,Critical,Low
+REC_0423,BLDG_26019,Solar Panel Installation,65000.0,2900.0,22.41,16.88,Low,Medium
+REC_0424,BLDG_23510,HVAC Upgrade,72800.0,19700.0,3.7,18.22,Critical,Medium
+REC_0425,BLDG_190,LED Lighting Retrofit,20900.0,17600.0,1.19,11.44,Critical,Low
+REC_0426,BLDG_23789,Water Efficiency Upgrade,15900.0,9200.0,1.73,4.27,Critical,Low
+REC_0427,BLDG_23400,LED Lighting Retrofit,10600.0,18600.0,0.57,9.87,Critical,Low
+REC_0428,BLDG_27880,Solar Panel Installation,92200.0,4900.0,18.82,24.42,Low,Medium
+REC_0429,BLDG_24244,HVAC Upgrade,67000.0,13300.0,5.04,20.74,Critical,Medium
+REC_0430,BLDG_27243,LED Lighting Retrofit,17600.0,9700.0,1.81,9.18,Critical,Low
+REC_0431,BLDG_22957,LED Lighting Retrofit,19000.0,8900.0,2.13,9.17,Critical,Low
+REC_0432,BLDG_22955,Building Automation System,27900.0,11400.0,2.45,11.86,Critical,Medium
+REC_0433,BLDG_22943,Solar Panel Installation,190200.0,12000.0,15.85,23.28,Low,Medium
+REC_0434,BLDG_26855,Solar Panel Installation,71000.0,3300.0,21.52,20.59,Low,Medium
+REC_0435,BLDG_32454,Insulation Improvement,34500.0,10700.0,3.22,13.54,Critical,Medium
+REC_0436,BLDG_22118,LED Lighting Retrofit,25400.0,8400.0,3.02,8.75,Critical,Low
+REC_0437,BLDG_21830,LED Lighting Retrofit,10700.0,5600.0,1.91,11.37,Critical,Low
+REC_0438,BLDG_27294,Water Efficiency Upgrade,7900.0,3000.0,2.63,3.48,Critical,Low
+REC_0439,BLDG_755,Solar Panel Installation,510200.0,35200.0,14.49,24.98,Low,Medium
+REC_0440,BLDG_815,Solar Panel Installation,525000.0,36200.0,14.5,24.76,Low,Medium
+REC_0441,BLDG_50678,Insulation Improvement,52900.0,19700.0,2.69,17.66,Critical,Medium
+REC_0442,BLDG_20246,Solar Panel Installation,65000.0,2900.0,22.41,15.49,Low,Medium
+REC_0443,BLDG_20988,HVAC Upgrade,52500.0,17800.0,2.95,23.63,Critical,Medium
+REC_0444,BLDG_49999,LED Lighting Retrofit,29600.0,16800.0,1.76,9.94,Critical,Low
+REC_0445,BLDG_50719,Solar Panel Installation,272000.0,17900.0,15.2,21.22,Low,Medium
+REC_0446,BLDG_27033,LED Lighting Retrofit,13500.0,9200.0,1.47,9.02,Critical,Low
+REC_0447,BLDG_27656,Solar Panel Installation,65000.0,2900.0,22.41,22.57,Low,Medium
+REC_0448,BLDG_19699,Water Efficiency Upgrade,8400.0,3500.0,2.4,3.47,Critical,Low
+REC_0449,BLDG_19969,Building Automation System,28800.0,10700.0,2.69,14.89,Critical,Medium
+REC_0450,BLDG_23577,Water Efficiency Upgrade,9300.0,4300.0,2.16,4.42,Critical,Low
+REC_0451,BLDG_20037,HVAC Upgrade,46200.0,5700.0,8.11,22.98,High,Medium
+REC_0452,BLDG_340,LED Lighting Retrofit,28000.0,16400.0,1.71,9.77,Critical,Low
+REC_0453,BLDG_23679,Deep Energy Retrofit,159400.0,21900.0,7.28,44.13,High,High
+REC_0454,BLDG_25634,Solar Panel Installation,65200.0,2900.0,22.48,15.27,Low,Medium
+REC_0455,BLDG_20082,LED Lighting Retrofit,20100.0,21700.0,0.93,9.69,Critical,Low
+REC_0456,BLDG_28733,LED Lighting Retrofit,37900.0,106600.0,0.36,9.44,Critical,Low
+REC_0457,BLDG_23515,Solar Panel Installation,66200.0,3000.0,22.07,15.66,Low,Medium
+REC_0458,BLDG_26980,Water Efficiency Upgrade,13800.0,7400.0,1.86,5.0,Critical,Low
+REC_0459,BLDG_23174,Building Automation System,18800.0,6800.0,2.76,12.79,Critical,Medium
+REC_0460,BLDG_50356,Solar Panel Installation,525000.0,36200.0,14.5,23.66,Low,Medium
+REC_0461,BLDG_21115,LED Lighting Retrofit,14100.0,16800.0,0.84,10.45,Critical,Low
+REC_0462,BLDG_23410,Solar Panel Installation,89000.0,4600.0,19.35,16.43,Low,Medium
+REC_0463,BLDG_518,LED Lighting Retrofit,34900.0,93200.0,0.37,11.8,Critical,Low
+REC_0464,BLDG_50708,Water Efficiency Upgrade,11700.0,5900.0,1.98,4.52,Critical,Low
+REC_0465,BLDG_49735,HVAC Upgrade,94400.0,36100.0,2.61,22.11,Critical,Medium
+REC_0466,BLDG_29312,Building Automation System,16400.0,2900.0,5.66,15.4,High,Medium
+REC_0467,BLDG_25149,Building Automation System,23700.0,9000.0,2.63,10.21,Critical,Medium
+REC_0468,BLDG_24640,Building Automation System,18200.0,6200.0,2.94,12.16,Critical,Medium
+REC_0469,BLDG_859,Solar Panel Installation,124000.0,7200.0,17.22,19.8,Low,Medium
+REC_0470,BLDG_388,Building Automation System,175900.0,191900.0,0.92,11.19,Critical,Medium
+REC_0471,BLDG_22454,Window Replacement,53500.0,7000.0,7.64,12.98,High,Medium
+REC_0472,BLDG_21106,Deep Energy Retrofit,467300.0,93700.0,4.99,45.37,Critical,High
+REC_0473,BLDG_22397,Water Efficiency Upgrade,10400.0,4300.0,2.42,4.45,Critical,Low
+REC_0474,BLDG_25317,Building Automation System,34800.0,17300.0,2.01,15.41,Critical,Medium
+REC_0475,BLDG_26553,Solar Panel Installation,75800.0,3700.0,20.49,25.56,Low,Medium
+REC_0476,BLDG_21208,HVAC Upgrade,148500.0,55100.0,2.7,21.13,Critical,Medium
+REC_0477,BLDG_21862,Building Automation System,177300.0,116300.0,1.52,10.04,Critical,Medium
+REC_0478,BLDG_50157,Solar Panel Installation,241000.0,15700.0,15.35,20.23,Low,Medium
+REC_0479,BLDG_395,LED Lighting Retrofit,17700.0,4100.0,4.32,10.9,High,Low
+REC_0480,BLDG_23170,Solar Panel Installation,206200.0,13100.0,15.74,23.38,Low,Medium
+REC_0481,BLDG_23671,LED Lighting Retrofit,17100.0,3000.0,5.7,8.14,High,Low
+REC_0482,BLDG_28476,Solar Panel Installation,66000.0,3000.0,22.0,27.45,Low,Medium
+REC_0483,BLDG_26176,Building Automation System,21500.0,4700.0,4.57,14.36,High,Medium
+REC_0484,BLDG_23633,Water Efficiency Upgrade,7600.0,2900.0,2.62,4.03,Critical,Low
+REC_0485,BLDG_22983,Solar Panel Installation,65000.0,2900.0,22.41,15.34,Low,Medium
+REC_0486,BLDG_50715,Water Efficiency Upgrade,20400.0,7600.0,2.68,2.77,Critical,Low
+REC_0487,BLDG_19790,Solar Panel Installation,84600.0,4300.0,19.67,19.11,Low,Medium
+REC_0488,BLDG_19736,Solar Panel Installation,65000.0,2900.0,22.41,19.49,Low,Medium
+REC_0489,BLDG_50075,Solar Panel Installation,371800.0,25100.0,14.81,21.51,Low,Medium
+REC_0490,BLDG_22574,Building Automation System,16000.0,5200.0,3.08,11.13,Critical,Medium
+REC_0491,BLDG_20021,HVAC Upgrade,99800.0,20600.0,4.84,23.41,Critical,Medium
+REC_0492,BLDG_800,Solar Panel Installation,161600.0,9900.0,16.32,16.25,Low,Medium
+REC_0493,BLDG_50516,Building Automation System,207600.0,123800.0,1.68,11.53,Critical,Medium
+REC_0494,BLDG_24909,Insulation Improvement,24900.0,2600.0,9.58,14.33,Medium,Medium
+REC_0495,BLDG_20765,Deep Energy Retrofit,860600.0,250000.0,3.44,35.42,Critical,High
+REC_0496,BLDG_19509,Solar Panel Installation,406800.0,27700.0,14.69,24.81,Low,Medium
+REC_0497,BLDG_366,Window Replacement,195200.0,33500.0,5.83,11.54,High,Medium
+REC_0498,BLDG_25386,Water Efficiency Upgrade,9300.0,4200.0,2.21,3.58,Critical,Low
+REC_0499,BLDG_24538,Building Automation System,25800.0,10200.0,2.53,13.38,Critical,Medium
+REC_0500,BLDG_21958,LED Lighting Retrofit,45500.0,47900.0,0.95,10.1,Critical,Low
+REC_0501,BLDG_23125,Solar Panel Installation,525000.0,36200.0,14.5,26.96,Low,Medium
+REC_0502,BLDG_40388,LED Lighting Retrofit,9800.0,3700.0,2.65,11.08,Critical,Low
+REC_0503,BLDG_27600,LED Lighting Retrofit,20500.0,8100.0,2.53,8.51,Critical,Low
+REC_0504,BLDG_24132,Window Replacement,59200.0,4700.0,12.6,10.27,Low,Medium
+REC_0505,BLDG_26243,Water Efficiency Upgrade,22400.0,13000.0,1.72,3.94,Critical,Low
+REC_0506,BLDG_23826,Solar Panel Installation,65000.0,2900.0,22.41,27.48,Low,Medium
+REC_0507,BLDG_22315,Building Automation System,17200.0,5600.0,3.07,15.85,Critical,Medium
+REC_0508,BLDG_21389,Solar Panel Installation,101400.0,5500.0,18.44,17.85,Low,Medium
+REC_0509,BLDG_52006,Solar Panel Installation,241000.0,15700.0,15.35,27.52,Low,Medium
+REC_0510,BLDG_21909,Building Automation System,22600.0,14000.0,1.61,14.35,Critical,Medium
+REC_0511,BLDG_61,LED Lighting Retrofit,17100.0,30300.0,0.56,11.32,Critical,Low
+REC_0512,BLDG_26125,LED Lighting Retrofit,19500.0,13400.0,1.46,10.77,Critical,Low
+REC_0513,BLDG_22470,Building Automation System,24000.0,7000.0,3.43,11.74,Critical,Medium
+REC_0514,BLDG_25163,HVAC Upgrade,58500.0,23200.0,2.52,24.24,Critical,Medium
+REC_0515,BLDG_27673,Solar Panel Installation,525000.0,36200.0,14.5,21.12,Low,Medium
+REC_0516,BLDG_23611,Solar Panel Installation,66800.0,3000.0,22.27,25.51,Low,Medium
+REC_0517,BLDG_651,Deep Energy Retrofit,602200.0,316600.0,1.9,47.48,Critical,High
+REC_0518,BLDG_49902,Solar Panel Installation,189000.0,11900.0,15.88,22.63,Low,Medium
+REC_0519,BLDG_25277,LED Lighting Retrofit,9300.0,1700.0,5.47,11.04,High,Low
+REC_0520,BLDG_20258,Water Efficiency Upgrade,9200.0,4500.0,2.04,2.02,Critical,Low
+REC_0521,BLDG_176,Insulation Improvement,63200.0,13100.0,4.82,13.72,High,Medium
+REC_0522,BLDG_102,Solar Panel Installation,402200.0,27300.0,14.73,15.2,Low,Medium
+REC_0523,BLDG_24880,Building Automation System,27200.0,10500.0,2.59,10.43,Critical,Medium
+REC_0524,BLDG_20217,Water Efficiency Upgrade,11000.0,1800.0,6.11,4.26,High,Low
+REC_0525,BLDG_25324,Water Efficiency Upgrade,9900.0,4500.0,2.2,4.2,Critical,Low
+REC_0526,BLDG_25582,Building Automation System,19900.0,5300.0,3.75,14.97,Critical,Medium
+REC_0527,BLDG_22804,Solar Panel Installation,75000.0,3600.0,20.83,15.98,Low,Medium
+REC_0528,BLDG_27984,Building Automation System,24300.0,7900.0,3.08,14.13,Critical,Medium
+REC_0529,BLDG_28050,Building Automation System,24100.0,5300.0,4.55,12.71,High,Medium
+REC_0530,BLDG_20875,HVAC Upgrade,374900.0,160300.0,2.34,23.8,Critical,Medium
+REC_0531,BLDG_24037,Water Efficiency Upgrade,10400.0,5100.0,2.04,3.59,Critical,Low
+REC_0532,BLDG_26514,Solar Panel Installation,65000.0,2900.0,22.41,24.7,Low,Medium
+REC_0533,BLDG_49892,LED Lighting Retrofit,41400.0,20000.0,2.07,9.69,Critical,Low
+REC_0534,BLDG_20519,Deep Energy Retrofit,168900.0,25000.0,6.76,37.12,High,High
+REC_0535,BLDG_49737,Solar Panel Installation,83400.0,4200.0,19.86,26.8,Low,Medium
+REC_0536,BLDG_23297,Deep Energy Retrofit,245200.0,70300.0,3.49,37.22,Critical,High
+REC_0537,BLDG_26618,Building Automation System,31800.0,13800.0,2.3,10.93,Critical,Medium
+REC_0538,BLDG_21401,LED Lighting Retrofit,10300.0,7300.0,1.41,8.77,Critical,Low
+REC_0539,BLDG_41928,LED Lighting Retrofit,17400.0,70700.0,0.25,8.33,Critical,Low
+REC_0540,BLDG_50341,Building Automation System,17100.0,7800.0,2.19,12.64,Critical,Medium
+REC_0541,BLDG_50461,LED Lighting Retrofit,9800.0,5000.0,1.96,8.03,Critical,Low
+REC_0542,BLDG_49990,Insulation Improvement,22100.0,1000.0,22.1,16.19,Low,Medium
+REC_0543,BLDG_23335,Solar Panel Installation,246200.0,16000.0,15.39,23.05,Low,Medium
+REC_0544,BLDG_51958,Solar Panel Installation,232200.0,15000.0,15.48,27.29,Low,Medium
+REC_0545,BLDG_50679,Solar Panel Installation,79800.0,4000.0,19.95,20.81,Low,Medium
+REC_0546,BLDG_22550,LED Lighting Retrofit,11000.0,1700.0,6.47,8.27,High,Low
+REC_0547,BLDG_50028,Water Efficiency Upgrade,11800.0,5600.0,2.11,2.51,Critical,Low
+REC_0548,BLDG_617,Insulation Improvement,46400.0,9400.0,4.94,12.15,High,Medium
+REC_0549,BLDG_20494,Building Automation System,20400.0,7600.0,2.68,14.23,Critical,Medium
+REC_0550,BLDG_25798,Deep Energy Retrofit,220300.0,69700.0,3.16,43.05,Critical,High
+REC_0551,BLDG_24493,Deep Energy Retrofit,162400.0,136600.0,1.19,40.75,Critical,High
+REC_0552,BLDG_27687,Solar Panel Installation,65000.0,2900.0,22.41,16.27,Low,Medium
+REC_0553,BLDG_22361,Water Efficiency Upgrade,9400.0,4200.0,2.24,2.62,Critical,Low
+REC_0554,BLDG_27885,Building Automation System,31500.0,6900.0,4.57,11.36,High,Medium
+REC_0555,BLDG_20170,Solar Panel Installation,525000.0,36200.0,14.5,21.75,Low,Medium
+REC_0556,BLDG_50725,LED Lighting Retrofit,14700.0,3100.0,4.74,11.56,High,Low
+REC_0557,BLDG_50746,LED Lighting Retrofit,10900.0,5500.0,1.98,9.07,Critical,Low
+REC_0558,BLDG_276,LED Lighting Retrofit,542500.0,1353200.0,0.4,10.63,Critical,Low
+REC_0559,BLDG_50519,Solar Panel Installation,288800.0,19100.0,15.12,26.23,Low,Medium
+REC_0560,BLDG_27736,HVAC Upgrade,55600.0,5300.0,10.49,22.83,Medium,Medium
+REC_0561,BLDG_641,Water Efficiency Upgrade,23400.0,4900.0,4.78,3.63,High,Low
+REC_0562,BLDG_21515,HVAC Upgrade,88200.0,24000.0,3.68,24.07,Critical,Medium
+REC_0563,BLDG_21687,Solar Panel Installation,65000.0,2900.0,22.41,20.57,Low,Medium
+REC_0564,BLDG_22894,Solar Panel Installation,118200.0,6800.0,17.38,15.06,Low,Medium
+REC_0565,BLDG_23462,Insulation Improvement,36300.0,3900.0,9.31,17.86,Medium,Medium
+REC_0566,BLDG_50072,Solar Panel Installation,186600.0,11700.0,15.95,18.43,Low,Medium
+REC_0567,BLDG_20186,Solar Panel Installation,66600.0,3000.0,22.2,23.37,Low,Medium
+REC_0568,BLDG_23858,Water Efficiency Upgrade,9800.0,1800.0,5.44,3.74,High,Low
+REC_0569,BLDG_24750,Water Efficiency Upgrade,10900.0,5500.0,1.98,2.84,Critical,Low
+REC_0570,BLDG_24249,LED Lighting Retrofit,12200.0,4600.0,2.65,8.33,Critical,Low
+REC_0571,BLDG_313,Deep Energy Retrofit,858000.0,418100.0,2.05,33.99,Critical,High
+REC_0572,BLDG_21610,Solar Panel Installation,79000.0,3900.0,20.26,18.45,Low,Medium
+REC_0573,BLDG_25401,Solar Panel Installation,65000.0,2900.0,22.41,27.0,Low,Medium
+REC_0574,BLDG_50046,Solar Panel Installation,214400.0,13700.0,15.65,26.36,Low,Medium
+REC_0575,BLDG_23508,Building Automation System,21900.0,17300.0,1.27,10.03,Critical,Medium
+REC_0576,BLDG_25187,HVAC Upgrade,47300.0,3400.0,13.91,25.16,Low,Medium
+REC_0577,BLDG_120,Solar Panel Installation,249400.0,16300.0,15.3,23.37,Low,Medium
+REC_0578,BLDG_26357,LED Lighting Retrofit,8900.0,9300.0,0.96,8.36,Critical,Low
+REC_0579,BLDG_50485,Water Efficiency Upgrade,7900.0,2500.0,3.16,2.74,Critical,Low
+REC_0580,BLDG_28035,Building Automation System,18300.0,5700.0,3.21,14.97,Critical,Medium
+REC_0581,BLDG_20223,Building Automation System,16500.0,4000.0,4.12,11.04,High,Medium
+REC_0582,BLDG_19690,Building Automation System,39900.0,17400.0,2.29,11.41,Critical,Medium
+REC_0583,BLDG_26907,Solar Panel Installation,94600.0,5000.0,18.92,20.34,Low,Medium
+REC_0584,BLDG_50864,Water Efficiency Upgrade,38900.0,27700.0,1.4,3.88,Critical,Low
+REC_0585,BLDG_19906,Building Automation System,75100.0,32000.0,2.35,14.55,Critical,Medium
+REC_0586,BLDG_50464,Water Efficiency Upgrade,9800.0,4300.0,2.28,4.47,Critical,Low
+REC_0587,BLDG_22919,Building Automation System,21200.0,4200.0,5.05,13.83,High,Medium
+REC_0588,BLDG_21676,Water Efficiency Upgrade,11500.0,6100.0,1.89,3.04,Critical,Low
+REC_0589,BLDG_49736,HVAC Upgrade,55500.0,27300.0,2.03,19.54,Critical,Medium
+REC_0590,BLDG_27821,Building Automation System,24700.0,49800.0,0.5,13.99,Critical,Medium
+REC_0591,BLDG_20768,Solar Panel Installation,65000.0,2900.0,22.41,19.09,Low,Medium
+REC_0592,BLDG_148,Water Efficiency Upgrade,14000.0,3000.0,4.67,2.93,High,Low
+REC_0593,BLDG_49829,Solar Panel Installation,131400.0,7700.0,17.06,21.65,Low,Medium
+REC_0594,BLDG_24720,Building Automation System,16900.0,6200.0,2.73,14.54,Critical,Medium
+REC_0595,BLDG_26139,LED Lighting Retrofit,11500.0,3500.0,3.29,8.12,Critical,Low
+REC_0596,BLDG_19501,Insulation Improvement,34900.0,7600.0,4.59,14.15,High,Medium
+REC_0597,BLDG_28006,HVAC Upgrade,50300.0,17300.0,2.91,25.35,Critical,Medium
+REC_0598,BLDG_622,LED Lighting Retrofit,24400.0,8700.0,2.8,8.78,Critical,Low
+REC_0599,BLDG_433,Solar Panel Installation,525000.0,36200.0,14.5,20.59,Low,Medium
+REC_0600,BLDG_24626,LED Lighting Retrofit,39700.0,19000.0,2.09,8.77,Critical,Low
+REC_0601,BLDG_20009,LED Lighting Retrofit,13400.0,5600.0,2.39,8.25,Critical,Low
+REC_0602,BLDG_632,Solar Panel Installation,125400.0,7300.0,17.18,24.89,Low,Medium
+REC_0603,BLDG_20169,LED Lighting Retrofit,10100.0,4100.0,2.46,8.23,Critical,Low
+REC_0604,BLDG_475,Solar Panel Installation,525000.0,36200.0,14.5,21.08,Low,Medium
+REC_0605,BLDG_498,HVAC Upgrade,524700.0,367700.0,1.43,20.83,Critical,Medium
+REC_0606,BLDG_21883,HVAC Upgrade,47000.0,10700.0,4.39,24.58,Critical,Medium
+REC_0607,BLDG_26713,Water Efficiency Upgrade,20400.0,13700.0,1.49,4.57,Critical,Low
+REC_0608,BLDG_21920,HVAC Upgrade,63700.0,34400.0,1.85,22.53,Critical,Medium
+REC_0609,BLDG_282,Solar Panel Installation,167400.0,10300.0,16.25,15.26,Low,Medium
+REC_0610,BLDG_49730,Building Automation System,126200.0,56900.0,2.22,13.52,Critical,Medium
+REC_0611,BLDG_25220,Solar Panel Installation,82600.0,4200.0,19.67,15.9,Low,Medium
+REC_0612,BLDG_50184,Water Efficiency Upgrade,44400.0,29300.0,1.52,2.97,Critical,Low
+REC_0613,BLDG_24332,HVAC Upgrade,49400.0,10700.0,4.62,24.13,Critical,Medium
+REC_0614,BLDG_24288,LED Lighting Retrofit,10500.0,900.0,11.67,9.54,Medium,Low
+REC_0615,BLDG_19704,Water Efficiency Upgrade,23400.0,15100.0,1.55,4.38,Critical,Low
+REC_0616,BLDG_24556,Building Automation System,46100.0,15300.0,3.01,12.94,Critical,Medium
+REC_0617,BLDG_50674,LED Lighting Retrofit,31100.0,22600.0,1.38,8.0,Critical,Low
+REC_0618,BLDG_50869,Solar Panel Installation,525000.0,36200.0,14.5,19.6,Low,Medium
+REC_0619,BLDG_27234,Solar Panel Installation,65000.0,2900.0,22.41,18.54,Low,Medium
+REC_0620,BLDG_51995,LED Lighting Retrofit,9500.0,1700.0,5.59,11.27,High,Low
+REC_0621,BLDG_26603,Water Efficiency Upgrade,8100.0,2700.0,3.0,2.07,Critical,Low
+REC_0622,BLDG_20747,Solar Panel Installation,65000.0,2900.0,22.41,20.27,Low,Medium
+REC_0623,BLDG_22163,Water Efficiency Upgrade,8600.0,1700.0,5.06,4.68,High,Low
+REC_0624,BLDG_26123,Water Efficiency Upgrade,8200.0,3600.0,2.28,3.0,Critical,Low
+REC_0625,BLDG_23874,Solar Panel Installation,215200.0,13800.0,15.59,27.38,Low,Medium
+REC_0626,BLDG_739,Solar Panel Installation,295200.0,19600.0,15.06,25.61,Low,Medium
+REC_0627,BLDG_332,Building Automation System,34700.0,18600.0,1.87,14.31,Critical,Medium
+REC_0628,BLDG_24248,Deep Energy Retrofit,358200.0,65800.0,5.44,33.45,Critical,High
+REC_0629,BLDG_50006,LED Lighting Retrofit,14000.0,3900.0,3.59,9.51,Critical,Low
+REC_0630,BLDG_50739,Solar Panel Installation,525000.0,36200.0,14.5,15.38,Low,Medium
+REC_0631,BLDG_50186,Solar Panel Installation,310000.0,20700.0,14.98,23.87,Low,Medium
+REC_0632,BLDG_750,Water Efficiency Upgrade,53400.0,15500.0,3.45,2.15,Critical,Low
+REC_0633,BLDG_26825,LED Lighting Retrofit,9900.0,3900.0,2.54,10.39,Critical,Low
+REC_0634,BLDG_57,Building Automation System,40100.0,33700.0,1.19,13.03,Critical,Medium
+REC_0635,BLDG_50885,Solar Panel Installation,329400.0,22100.0,14.9,16.41,Low,Medium
+REC_0636,BLDG_37,Solar Panel Installation,93800.0,5000.0,18.76,26.8,Low,Medium
+REC_0637,BLDG_23459,Solar Panel Installation,101200.0,5500.0,18.4,18.53,Low,Medium
+REC_0638,BLDG_21946,Building Automation System,24400.0,10700.0,2.28,14.63,Critical,Medium
+REC_0639,BLDG_25185,LED Lighting Retrofit,20800.0,5700.0,3.65,9.77,Critical,Low
+REC_0640,BLDG_23065,Water Efficiency Upgrade,10300.0,6200.0,1.66,2.29,Critical,Low
+REC_0641,BLDG_1281,HVAC Upgrade,180200.0,164000.0,1.1,25.26,Critical,Medium
+REC_0642,BLDG_50045,LED Lighting Retrofit,138400.0,72600.0,1.91,11.35,Critical,Low
+REC_0643,BLDG_19668,Water Efficiency Upgrade,10900.0,5900.0,1.85,2.8,Critical,Low
+REC_0644,BLDG_86,Solar Panel Installation,137200.0,8100.0,16.94,21.51,Low,Medium
+REC_0645,BLDG_217,LED Lighting Retrofit,47900.0,30600.0,1.57,10.85,Critical,Low
+REC_0646,BLDG_50253,LED Lighting Retrofit,55400.0,12600.0,4.4,9.24,High,Low
+REC_0647,BLDG_21793,Water Efficiency Upgrade,8300.0,1600.0,5.19,3.6,High,Low
+REC_0648,BLDG_27701,Water Efficiency Upgrade,9800.0,3900.0,2.51,3.27,Critical,Low
+REC_0649,BLDG_20000,Building Automation System,25100.0,9700.0,2.59,11.74,Critical,Medium
+REC_0650,BLDG_581,Solar Panel Installation,240800.0,15600.0,15.44,23.23,Low,Medium
+REC_0651,BLDG_26218,Water Efficiency Upgrade,11500.0,6300.0,1.83,2.37,Critical,Low
+REC_0652,BLDG_49733,Solar Panel Installation,284000.0,18800.0,15.11,25.37,Low,Medium
+REC_0653,BLDG_21345,Solar Panel Installation,128000.0,7500.0,17.07,22.98,Low,Medium
+REC_0654,BLDG_23857,HVAC Upgrade,119300.0,51900.0,2.3,21.93,Critical,Medium
+REC_0655,BLDG_26056,Solar Panel Installation,65000.0,2900.0,22.41,27.79,Low,Medium
+REC_0656,BLDG_19903,Window Replacement,87900.0,7000.0,12.56,12.42,Low,Medium
+REC_0657,BLDG_24886,Building Automation System,23000.0,12100.0,1.9,15.6,Critical,Medium
+REC_0658,BLDG_21398,Insulation Improvement,27900.0,5000.0,5.58,13.56,High,Medium
+REC_0659,BLDG_21299,Water Efficiency Upgrade,8600.0,3800.0,2.26,4.92,Critical,Low
+REC_0660,BLDG_50471,Building Automation System,20600.0,4200.0,4.9,15.41,High,Medium
+REC_0661,BLDG_50513,Solar Panel Installation,109000.0,6100.0,17.87,21.53,Low,Medium
+REC_0662,BLDG_20059,Building Automation System,18200.0,4100.0,4.44,12.86,High,Medium
+REC_0663,BLDG_52016,Water Efficiency Upgrade,11900.0,5700.0,2.09,3.12,Critical,Low
+REC_0664,BLDG_27882,LED Lighting Retrofit,10800.0,2600.0,4.15,8.15,High,Low
+REC_0665,BLDG_24725,Insulation Improvement,22000.0,2500.0,8.8,12.11,High,Medium
+REC_0666,BLDG_19920,HVAC Upgrade,79900.0,31300.0,2.55,18.42,Critical,Medium
+REC_0667,BLDG_23301,Building Automation System,24900.0,16900.0,1.47,12.91,Critical,Medium
+REC_0668,BLDG_20316,Building Automation System,22800.0,7400.0,3.08,11.28,Critical,Medium
+REC_0669,BLDG_21265,LED Lighting Retrofit,10400.0,1700.0,6.12,10.65,High,Low
+REC_0670,BLDG_793,Insulation Improvement,117300.0,29800.0,3.94,15.57,Critical,Medium
+REC_0671,BLDG_23295,Solar Panel Installation,70200.0,3300.0,21.27,16.58,Low,Medium
+REC_0672,BLDG_50026,Insulation Improvement,34500.0,8800.0,3.92,17.19,Critical,Medium
+REC_0673,BLDG_50040,LED Lighting Retrofit,35600.0,9100.0,3.91,11.33,Critical,Low
+REC_0674,BLDG_21196,Solar Panel Installation,272200.0,17900.0,15.21,15.54,Low,Medium
+REC_0675,BLDG_24868,HVAC Upgrade,44200.0,7200.0,6.14,24.38,High,Medium
+REC_0676,BLDG_22486,Building Automation System,18100.0,4700.0,3.85,12.51,Critical,Medium
+REC_0677,BLDG_458,LED Lighting Retrofit,24000.0,17400.0,1.38,9.06,Critical,Low
+REC_0678,BLDG_19921,Water Efficiency Upgrade,8000.0,2900.0,2.76,4.76,Critical,Low
+REC_0679,BLDG_24136,Solar Panel Installation,104800.0,5800.0,18.07,16.96,Low,Medium
+REC_0680,BLDG_49895,LED Lighting Retrofit,33600.0,15300.0,2.2,11.63,Critical,Low
+REC_0681,BLDG_25076,Water Efficiency Upgrade,13300.0,6900.0,1.93,2.71,Critical,Low
+REC_0682,BLDG_24270,Building Automation System,23600.0,10800.0,2.19,10.85,Critical,Medium
+REC_0683,BLDG_26821,Solar Panel Installation,93400.0,5000.0,18.68,18.15,Low,Medium
+REC_0684,BLDG_26724,Building Automation System,16100.0,5500.0,2.93,12.89,Critical,Medium
+REC_0685,BLDG_50870,Solar Panel Installation,476200.0,32700.0,14.56,17.23,Low,Medium
+REC_0686,BLDG_21341,LED Lighting Retrofit,34300.0,14600.0,2.35,11.77,Critical,Low
+REC_0687,BLDG_20613,LED Lighting Retrofit,9700.0,5800.0,1.67,10.53,Critical,Low
+REC_0688,BLDG_23108,LED Lighting Retrofit,12300.0,4000.0,3.08,8.04,Critical,Low
+REC_0689,BLDG_26007,LED Lighting Retrofit,11800.0,3200.0,3.69,8.71,Critical,Low
+REC_0690,BLDG_26401,LED Lighting Retrofit,10300.0,4000.0,2.58,11.99,Critical,Low
+REC_0691,BLDG_563,Solar Panel Installation,144800.0,8700.0,16.64,25.49,Low,Medium
+REC_0692,BLDG_19864,Insulation Improvement,28200.0,1400.0,20.14,15.35,Low,Medium
+REC_0693,BLDG_19870,LED Lighting Retrofit,13300.0,5100.0,2.61,9.26,Critical,Low
+REC_0694,BLDG_50167,LED Lighting Retrofit,35500.0,19000.0,1.87,8.33,Critical,Low
+REC_0695,BLDG_20586,LED Lighting Retrofit,12600.0,12700.0,0.99,10.21,Critical,Low
+REC_0696,BLDG_22347,LED Lighting Retrofit,12800.0,4100.0,3.12,11.99,Critical,Low
+REC_0697,BLDG_715,Solar Panel Installation,175000.0,10900.0,16.06,22.68,Low,Medium
+REC_0698,BLDG_23531,LED Lighting Retrofit,9900.0,1700.0,5.82,8.69,High,Low
+REC_0699,BLDG_27655,LED Lighting Retrofit,16200.0,4400.0,3.68,8.95,Critical,Low
+REC_0700,BLDG_26705,Solar Panel Installation,73800.0,3500.0,21.09,25.91,Low,Medium
+REC_0701,BLDG_50337,Building Automation System,21100.0,5800.0,3.64,14.58,Critical,Medium
+REC_0702,BLDG_20383,Solar Panel Installation,186400.0,11700.0,15.93,18.36,Low,Medium
+REC_0703,BLDG_50306,Water Efficiency Upgrade,20500.0,5200.0,3.94,4.45,Critical,Low
+REC_0704,BLDG_21448,Building Automation System,44700.0,10900.0,4.1,11.77,High,Medium
+REC_0705,BLDG_19947,Solar Panel Installation,193600.0,12200.0,15.87,16.21,Low,Medium
+REC_0706,BLDG_50023,Solar Panel Installation,268200.0,17600.0,15.24,19.51,Low,Medium
+REC_0707,BLDG_27569,Solar Panel Installation,155400.0,9500.0,16.36,19.67,Low,Medium
+REC_0708,BLDG_22670,Deep Energy Retrofit,888900.0,117100.0,7.59,35.91,High,High
+REC_0709,BLDG_26140,Building Automation System,20900.0,6000.0,3.48,15.16,Critical,Medium
+REC_0710,BLDG_373,Solar Panel Installation,525000.0,36200.0,14.5,24.03,Low,Medium
+REC_0711,BLDG_50889,Solar Panel Installation,525000.0,36200.0,14.5,25.14,Low,Medium
+REC_0712,BLDG_27888,Water Efficiency Upgrade,10000.0,4500.0,2.22,3.9,Critical,Low
+REC_0713,BLDG_24461,Building Automation System,24300.0,5900.0,4.12,12.04,High,Medium
+REC_0714,BLDG_24144,Solar Panel Installation,65000.0,2900.0,22.41,27.59,Low,Medium
+REC_0715,BLDG_26269,LED Lighting Retrofit,10200.0,18800.0,0.54,10.35,Critical,Low
+REC_0716,BLDG_50160,Solar Panel Installation,525000.0,36200.0,14.5,19.1,Low,Medium
+REC_0717,BLDG_25241,LED Lighting Retrofit,49700.0,26500.0,1.88,9.87,Critical,Low
+REC_0718,BLDG_40067,Solar Panel Installation,147000.0,8800.0,16.7,18.12,Low,Medium
+REC_0719,BLDG_49923,Solar Panel Installation,336400.0,22600.0,14.88,25.51,Low,Medium
+REC_0720,BLDG_50155,Water Efficiency Upgrade,8500.0,3600.0,2.36,4.9,Critical,Low
+REC_0721,BLDG_455,Building Automation System,146000.0,63700.0,2.29,10.42,Critical,Medium
+REC_0722,BLDG_751,LED Lighting Retrofit,108800.0,62500.0,1.74,9.63,Critical,Low
+REC_0723,BLDG_756,Solar Panel Installation,130200.0,7600.0,17.13,17.27,Low,Medium
+REC_0724,BLDG_21884,Solar Panel Installation,179800.0,11200.0,16.05,26.45,Low,Medium
+REC_0725,BLDG_50260,Solar Panel Installation,376000.0,25400.0,14.8,21.02,Low,Medium
+REC_0726,BLDG_49873,HVAC Upgrade,358900.0,91700.0,3.91,20.55,Critical,Medium
+REC_0727,BLDG_24664,Solar Panel Installation,218400.0,14000.0,15.6,24.06,Low,Medium
+REC_0728,BLDG_716,Building Automation System,39200.0,11700.0,3.35,14.98,Critical,Medium
+REC_0729,BLDG_22896,Building Automation System,26000.0,7100.0,3.66,11.22,Critical,Medium
+REC_0730,BLDG_27145,Solar Panel Installation,525000.0,36200.0,14.5,26.38,Low,Medium
+REC_0731,BLDG_27417,Water Efficiency Upgrade,18800.0,11300.0,1.66,4.96,Critical,Low
+REC_0732,BLDG_19758,Building Automation System,48400.0,21200.0,2.28,12.2,Critical,Medium
+REC_0733,BLDG_19924,HVAC Upgrade,64100.0,60300.0,1.06,21.63,Critical,Medium
+REC_0734,BLDG_50487,Solar Panel Installation,72000.0,3400.0,21.18,23.88,Low,Medium
+REC_0735,BLDG_19781,Solar Panel Installation,82600.0,4200.0,19.67,15.71,Low,Medium
+REC_0736,BLDG_40027,Solar Panel Installation,309200.0,20600.0,15.01,21.13,Low,Medium
+REC_0737,BLDG_442,Building Automation System,336000.0,208800.0,1.61,14.84,Critical,Medium
+REC_0738,BLDG_22261,LED Lighting Retrofit,14600.0,5300.0,2.75,9.86,Critical,Low
+REC_0739,BLDG_21665,Solar Panel Installation,65800.0,3000.0,21.93,19.76,Low,Medium
+REC_0740,BLDG_20377,LED Lighting Retrofit,19400.0,26000.0,0.75,10.03,Critical,Low
+REC_0741,BLDG_465,Deep Energy Retrofit,1268800.0,779100.0,1.63,42.95,Critical,High
+REC_0742,BLDG_749,Solar Panel Installation,225000.0,14500.0,15.52,18.64,Low,Medium
+REC_0743,BLDG_24765,Insulation Improvement,22100.0,2800.0,7.89,14.44,High,Medium
+REC_0744,BLDG_571,Building Automation System,43300.0,17600.0,2.46,14.44,Critical,Medium
+REC_0745,BLDG_49732,Solar Panel Installation,465000.0,31900.0,14.58,17.89,Low,Medium
+REC_0746,BLDG_21298,Building Automation System,32000.0,11900.0,2.69,13.13,Critical,Medium
+REC_0747,BLDG_49467,Solar Panel Installation,101600.0,5600.0,18.14,25.55,Low,Medium
+REC_0748,BLDG_22577,LED Lighting Retrofit,13200.0,1400.0,9.43,11.91,Medium,Low
+REC_0749,BLDG_711,Building Automation System,42400.0,15000.0,2.83,10.61,Critical,Medium
+REC_0750,BLDG_828,LED Lighting Retrofit,585600.0,1006900.0,0.58,9.87,Critical,Low
+REC_0751,BLDG_50307,LED Lighting Retrofit,75200.0,22400.0,3.36,8.17,Critical,Low
+REC_0752,BLDG_22334,Solar Panel Installation,507400.0,35000.0,14.5,21.09,Low,Medium
+REC_0753,BLDG_50377,Solar Panel Installation,248200.0,16200.0,15.32,17.03,Low,Medium
+REC_0754,BLDG_21524,Water Efficiency Upgrade,10700.0,4800.0,2.23,2.8,Critical,Low
+REC_0755,BLDG_20890,Deep Energy Retrofit,157400.0,36100.0,4.36,36.86,Critical,High
+REC_0756,BLDG_50539,Solar Panel Installation,525000.0,36200.0,14.5,27.71,Low,Medium
+REC_0757,BLDG_49707,Building Automation System,24300.0,6300.0,3.86,11.53,Critical,Medium
+REC_0758,BLDG_13,Solar Panel Installation,110000.0,6200.0,17.74,17.38,Low,Medium
+REC_0759,BLDG_21367,Insulation Improvement,34500.0,7300.0,4.73,13.42,High,Medium
+REC_0760,BLDG_26013,Water Efficiency Upgrade,9900.0,3900.0,2.54,2.19,Critical,Low
+REC_0761,BLDG_26504,Solar Panel Installation,205800.0,13100.0,15.71,22.27,Low,Medium
+REC_0762,BLDG_857,Solar Panel Installation,228200.0,14700.0,15.52,21.68,Low,Medium
+REC_0763,BLDG_24854,LED Lighting Retrofit,56600.0,37300.0,1.52,8.96,Critical,Low
+REC_0764,BLDG_25726,Building Automation System,36200.0,17600.0,2.06,14.52,Critical,Medium
+REC_0765,BLDG_681,Building Automation System,75400.0,18200.0,4.14,10.78,High,Medium
+REC_0766,BLDG_42168,LED Lighting Retrofit,11300.0,6900.0,1.64,10.13,Critical,Low
+REC_0767,BLDG_417,LED Lighting Retrofit,39700.0,28900.0,1.37,9.76,Critical,Low
+REC_0768,BLDG_52023,Building Automation System,21200.0,8500.0,2.49,15.72,Critical,Medium
+REC_0769,BLDG_49871,Solar Panel Installation,304400.0,20300.0,15.0,22.8,Low,Medium
+REC_0770,BLDG_418,Solar Panel Installation,131600.0,7700.0,17.09,17.09,Low,Medium
+REC_0771,BLDG_582,Insulation Improvement,52700.0,17400.0,3.03,12.52,Critical,Medium
+REC_0772,BLDG_471,Solar Panel Installation,210800.0,13500.0,15.61,19.17,Low,Medium
+REC_0773,BLDG_21631,LED Lighting Retrofit,18800.0,6600.0,2.85,11.86,Critical,Low
+REC_0774,BLDG_22678,LED Lighting Retrofit,9200.0,2300.0,4.0,8.41,High,Low
+REC_0775,BLDG_235,Building Automation System,81700.0,59100.0,1.38,10.41,Critical,Medium
+REC_0776,BLDG_49872,Solar Panel Installation,101000.0,5500.0,18.36,19.36,Low,Medium
+REC_0777,BLDG_52018,LED Lighting Retrofit,17400.0,5500.0,3.16,11.61,Critical,Low
+REC_0778,BLDG_25181,Solar Panel Installation,65000.0,2900.0,22.41,26.2,Low,Medium
+REC_0779,BLDG_24823,HVAC Upgrade,53100.0,5000.0,10.62,19.05,Medium,Medium
+REC_0780,BLDG_26465,Solar Panel Installation,69400.0,3200.0,21.69,20.0,Low,Medium
+REC_0781,BLDG_700,HVAC Upgrade,108800.0,83900.0,1.3,25.1,Critical,Medium
+REC_0782,BLDG_59,HVAC Upgrade,101100.0,28600.0,3.53,25.95,Critical,Medium
+REC_0783,BLDG_744,Water Efficiency Upgrade,47500.0,13200.0,3.6,3.45,Critical,Low
+REC_0784,BLDG_25242,Water Efficiency Upgrade,8900.0,3900.0,2.28,4.68,Critical,Low
+REC_0785,BLDG_25770,LED Lighting Retrofit,14100.0,6300.0,2.24,8.31,Critical,Low
+REC_0786,BLDG_260,Solar Panel Installation,346400.0,23300.0,14.87,23.35,Low,Medium
+REC_0787,BLDG_50150,Insulation Improvement,108000.0,24300.0,4.44,17.68,High,Medium
+REC_0788,BLDG_23454,Water Efficiency Upgrade,11100.0,4700.0,2.36,4.04,Critical,Low
+REC_0789,BLDG_21108,Building Automation System,18100.0,10700.0,1.69,12.55,Critical,Medium
+REC_0790,BLDG_50930,LED Lighting Retrofit,28900.0,15200.0,1.9,9.69,Critical,Low
+REC_0791,BLDG_22351,Solar Panel Installation,293800.0,19500.0,15.07,15.59,Low,Medium
+REC_0792,BLDG_22553,LED Lighting Retrofit,8900.0,3300.0,2.7,11.22,Critical,Low
+REC_0793,BLDG_21619,Water Efficiency Upgrade,11500.0,5800.0,1.98,4.44,Critical,Low
+REC_0794,BLDG_50721,Solar Panel Installation,83800.0,4300.0,19.49,22.45,Low,Medium
+REC_0795,BLDG_20811,Solar Panel Installation,152400.0,9200.0,16.57,15.31,Low,Medium
+REC_0796,BLDG_464,Solar Panel Installation,236200.0,15300.0,15.44,20.78,Low,Medium
+REC_0797,BLDG_25847,Building Automation System,18600.0,6100.0,3.05,12.62,Critical,Medium
+REC_0798,BLDG_21730,Building Automation System,39800.0,9100.0,4.37,14.51,High,Medium
+REC_0799,BLDG_21417,Building Automation System,23100.0,6300.0,3.67,12.66,Critical,Medium
+REC_0800,BLDG_50312,Solar Panel Installation,93600.0,5000.0,18.72,21.19,Low,Medium
+REC_0801,BLDG_25956,Deep Energy Retrofit,220800.0,44000.0,5.02,33.09,Critical,High
+REC_0802,BLDG_26211,Building Automation System,18100.0,6100.0,2.97,15.11,Critical,Medium
+REC_0803,BLDG_22279,Building Automation System,24200.0,6400.0,3.78,15.49,Critical,Medium
+REC_0804,BLDG_21295,Water Efficiency Upgrade,8000.0,2700.0,2.96,2.89,Critical,Low
+REC_0805,BLDG_50881,Solar Panel Installation,187600.0,11800.0,15.9,27.51,Low,Medium
+REC_0806,BLDG_23110,LED Lighting Retrofit,22300.0,4900.0,4.55,9.3,High,Low
+REC_0807,BLDG_23708,LED Lighting Retrofit,8700.0,1800.0,4.83,9.8,High,Low
+REC_0808,BLDG_25791,Solar Panel Installation,65000.0,2900.0,22.41,16.63,Low,Medium
+REC_0809,BLDG_23437,Water Efficiency Upgrade,8300.0,3200.0,2.59,3.11,Critical,Low
+REC_0810,BLDG_27982,Water Efficiency Upgrade,8500.0,1600.0,5.31,2.06,High,Low
+REC_0811,BLDG_50177,Solar Panel Installation,400000.0,27200.0,14.71,22.8,Low,Medium
+REC_0812,BLDG_50321,Solar Panel Installation,196000.0,12400.0,15.81,19.15,Low,Medium
+REC_0813,BLDG_49868,LED Lighting Retrofit,43800.0,10500.0,4.17,8.89,High,Low
+REC_0814,BLDG_19677,Insulation Improvement,68600.0,13500.0,5.08,13.06,High,Medium
+REC_0815,BLDG_27297,Water Efficiency Upgrade,9200.0,4100.0,2.24,2.8,Critical,Low
+REC_0816,BLDG_23963,LED Lighting Retrofit,13800.0,1200.0,11.5,9.93,Medium,Low
+REC_0817,BLDG_26716,Insulation Improvement,132200.0,31600.0,4.18,15.1,High,Medium
+REC_0818,BLDG_24531,Solar Panel Installation,67600.0,3100.0,21.81,15.43,Low,Medium
+REC_0819,BLDG_416,LED Lighting Retrofit,20800.0,5900.0,3.53,10.4,Critical,Low
+REC_0820,BLDG_24603,Solar Panel Installation,73800.0,3500.0,21.09,19.79,Low,Medium
+REC_0821,BLDG_26241,Solar Panel Installation,212400.0,13600.0,15.62,17.6,Low,Medium
+REC_0822,BLDG_23212,Solar Panel Installation,74200.0,3600.0,20.61,26.09,Low,Medium
+REC_0823,BLDG_444,HVAC Upgrade,193400.0,30800.0,6.28,21.48,High,Medium
+REC_0824,BLDG_19,Water Efficiency Upgrade,16100.0,10800.0,1.49,3.87,Critical,Low
+REC_0825,BLDG_19851,LED Lighting Retrofit,9500.0,12900.0,0.74,9.56,Critical,Low
+REC_0826,BLDG_19445,Solar Panel Installation,149200.0,9000.0,16.58,24.16,Low,Medium
+REC_0827,BLDG_28008,Solar Panel Installation,135000.0,8000.0,16.88,19.78,Low,Medium
+REC_0828,BLDG_27584,HVAC Upgrade,123900.0,27200.0,4.56,24.37,Critical,Medium
+REC_0829,BLDG_23451,Solar Panel Installation,65000.0,2900.0,22.41,23.27,Low,Medium
+REC_0830,BLDG_22482,LED Lighting Retrofit,73200.0,33800.0,2.17,11.21,Critical,Low
+REC_0831,BLDG_27830,Solar Panel Installation,65000.0,2900.0,22.41,18.05,Low,Medium
+REC_0832,BLDG_20805,LED Lighting Retrofit,33300.0,26700.0,1.25,9.81,Critical,Low
+REC_0833,BLDG_26741,Water Efficiency Upgrade,15400.0,8100.0,1.9,3.84,Critical,Low
+REC_0834,BLDG_27759,LED Lighting Retrofit,20700.0,2800.0,7.39,11.46,Medium,Low
+REC_0835,BLDG_21183,Building Automation System,33600.0,19400.0,1.73,11.25,Critical,Medium
+REC_0836,BLDG_25967,Water Efficiency Upgrade,10600.0,5900.0,1.8,3.14,Critical,Low
+REC_0837,BLDG_325,Water Efficiency Upgrade,24000.0,8900.0,2.7,4.68,Critical,Low
+REC_0838,BLDG_358,Insulation Improvement,225300.0,76700.0,2.94,14.41,Critical,Medium
+REC_0839,BLDG_19832,Building Automation System,23300.0,4800.0,4.85,14.31,High,Medium
+REC_0840,BLDG_20340,Solar Panel Installation,66200.0,3000.0,22.07,21.1,Low,Medium
+REC_0841,BLDG_20162,Insulation Improvement,55200.0,16900.0,3.27,17.37,Critical,Medium
+REC_0842,BLDG_553,Deep Energy Retrofit,484600.0,272800.0,1.78,32.2,Critical,High
+REC_0843,BLDG_27966,Water Efficiency Upgrade,8200.0,3100.0,2.65,3.18,Critical,Low
+REC_0844,BLDG_26163,Building Automation System,27700.0,5100.0,5.43,10.69,High,Medium
+REC_0845,BLDG_22034,Solar Panel Installation,65000.0,2900.0,22.41,25.02,Low,Medium
+REC_0846,BLDG_50755,Solar Panel Installation,65000.0,2900.0,22.41,20.02,Low,Medium
+REC_0847,BLDG_19856,Solar Panel Installation,65000.0,2900.0,22.41,19.09,Low,Medium
+REC_0848,BLDG_21611,Deep Energy Retrofit,152200.0,19100.0,7.97,45.97,High,High
+REC_0849,BLDG_21672,Solar Panel Installation,82600.0,4200.0,19.67,23.19,Low,Medium
+REC_0850,BLDG_20045,Solar Panel Installation,128200.0,7500.0,17.09,26.05,Low,Medium
+REC_0851,BLDG_24173,HVAC Upgrade,54600.0,6200.0,8.81,25.81,High,Medium
+REC_0852,BLDG_50194,LED Lighting Retrofit,13400.0,7000.0,1.91,11.41,Critical,Low
+REC_0853,BLDG_50956,Solar Panel Installation,80800.0,4000.0,20.2,20.57,Low,Medium
+REC_0854,BLDG_27947,HVAC Upgrade,69700.0,26600.0,2.62,20.9,Critical,Medium
+REC_0855,BLDG_23438,LED Lighting Retrofit,33800.0,13500.0,2.5,8.23,Critical,Low
+REC_0856,BLDG_132,Solar Panel Installation,329600.0,22100.0,14.91,16.32,Low,Medium
+REC_0857,BLDG_25358,Building Automation System,19600.0,3000.0,6.53,12.82,High,Medium
+REC_0858,BLDG_300,Water Efficiency Upgrade,40900.0,10600.0,3.86,3.42,Critical,Low
+REC_0859,BLDG_23906,HVAC Upgrade,46300.0,14500.0,3.19,24.62,Critical,Medium
+REC_0860,BLDG_50027,Building Automation System,30700.0,5900.0,5.2,13.47,High,Medium
+REC_0861,BLDG_456,Solar Panel Installation,329600.0,22100.0,14.91,20.24,Low,Medium
+REC_0862,BLDG_21213,LED Lighting Retrofit,14100.0,13000.0,1.08,8.24,Critical,Low
+REC_0863,BLDG_20228,LED Lighting Retrofit,9400.0,3700.0,2.54,11.4,Critical,Low
+REC_0864,BLDG_729,LED Lighting Retrofit,34300.0,7600.0,4.51,9.5,High,Low
+REC_0865,BLDG_27195,Insulation Improvement,74900.0,33200.0,2.26,14.45,Critical,Medium
+REC_0866,BLDG_50491,Building Automation System,15800.0,5600.0,2.82,11.7,Critical,Medium
+REC_0867,BLDG_19946,LED Lighting Retrofit,11500.0,11400.0,1.01,11.26,Critical,Low
+REC_0868,BLDG_26396,Water Efficiency Upgrade,32700.0,19000.0,1.72,3.08,Critical,Low
+REC_0869,BLDG_25954,Water Efficiency Upgrade,8600.0,1500.0,5.73,2.19,High,Low
+REC_0870,BLDG_540,Water Efficiency Upgrade,8100.0,1600.0,5.06,2.78,High,Low
+REC_0871,BLDG_26939,Window Replacement,53300.0,4800.0,11.1,11.53,Medium,Medium
+REC_0872,BLDG_50305,Solar Panel Installation,150200.0,9100.0,16.51,16.29,Low,Medium
+REC_0873,BLDG_25965,Deep Energy Retrofit,1007600.0,383400.0,2.63,35.82,Critical,High
+REC_0874,BLDG_50515,Water Efficiency Upgrade,13700.0,7400.0,1.85,2.67,Critical,Low
+REC_0875,BLDG_50645,Solar Panel Installation,525000.0,36200.0,14.5,27.02,Low,Medium
+REC_0876,BLDG_26789,Building Automation System,37600.0,8400.0,4.48,12.75,High,Medium
+REC_0877,BLDG_50542,Water Efficiency Upgrade,16900.0,6000.0,2.82,2.68,Critical,Low
+REC_0878,BLDG_25713,Solar Panel Installation,72000.0,3400.0,21.18,23.74,Low,Medium
+REC_0879,BLDG_50054,Solar Panel Installation,525000.0,36200.0,14.5,24.65,Low,Medium
+REC_0880,BLDG_21916,LED Lighting Retrofit,9200.0,9800.0,0.94,8.81,Critical,Low
+REC_0881,BLDG_26759,Building Automation System,23000.0,8500.0,2.71,14.51,Critical,Medium
+REC_0882,BLDG_22509,LED Lighting Retrofit,14700.0,3300.0,4.45,9.83,High,Low
+REC_0883,BLDG_19653,LED Lighting Retrofit,17000.0,11900.0,1.43,8.57,Critical,Low
+REC_0884,BLDG_19670,Solar Panel Installation,71400.0,3400.0,21.0,23.72,Low,Medium
+REC_0885,BLDG_50097,Solar Panel Installation,65000.0,2900.0,22.41,21.9,Low,Medium
+REC_0886,BLDG_474,Solar Panel Installation,369000.0,24900.0,14.82,22.81,Low,Medium
+REC_0887,BLDG_25756,Solar Panel Installation,65000.0,2900.0,22.41,27.72,Low,Medium
+REC_0888,BLDG_24484,Window Replacement,49700.0,2900.0,17.14,9.98,Low,Medium
+REC_0889,BLDG_772,Solar Panel Installation,525000.0,36200.0,14.5,16.26,Low,Medium
+REC_0890,BLDG_20266,Deep Energy Retrofit,261600.0,39500.0,6.62,37.5,High,High
+REC_0891,BLDG_23977,HVAC Upgrade,75200.0,20100.0,3.74,25.96,Critical,Medium
+REC_0892,BLDG_26598,LED Lighting Retrofit,13900.0,3900.0,3.56,9.58,Critical,Low
+REC_0893,BLDG_50926,Water Efficiency Upgrade,24600.0,9300.0,2.65,2.65,Critical,Low
+REC_0894,BLDG_23109,Water Efficiency Upgrade,10000.0,4800.0,2.08,3.69,Critical,Low
+REC_0895,BLDG_23559,Solar Panel Installation,147000.0,8800.0,16.7,18.81,Low,Medium
+REC_0896,BLDG_25200,Solar Panel Installation,81200.0,4100.0,19.8,20.39,Low,Medium
+REC_0897,BLDG_26839,Water Efficiency Upgrade,10300.0,4300.0,2.4,2.93,Critical,Low
+REC_0898,BLDG_127,Building Automation System,30000.0,12800.0,2.34,15.34,Critical,Medium
+REC_0899,BLDG_41987,Building Automation System,110700.0,52500.0,2.11,12.0,Critical,Medium
+REC_0900,BLDG_27166,Insulation Improvement,27600.0,4000.0,6.9,13.88,High,Medium
+REC_0901,BLDG_26997,Water Efficiency Upgrade,20400.0,4900.0,4.16,3.57,High,Low
+REC_0902,BLDG_43867,Deep Energy Retrofit,225900.0,82500.0,2.74,32.5,Critical,High
+REC_0903,BLDG_25322,LED Lighting Retrofit,9900.0,5300.0,1.87,8.69,Critical,Low
+REC_0904,BLDG_50473,Solar Panel Installation,138400.0,8200.0,16.88,15.61,Low,Medium
+REC_0905,BLDG_50299,Water Efficiency Upgrade,24200.0,15800.0,1.53,2.78,Critical,Low
+REC_0906,BLDG_22883,HVAC Upgrade,72300.0,11000.0,6.57,19.76,High,Medium
+REC_0907,BLDG_20396,Building Automation System,20700.0,4300.0,4.81,15.53,High,Medium
+REC_0908,BLDG_23936,HVAC Upgrade,52500.0,4800.0,10.94,19.89,Medium,Medium
+REC_0909,BLDG_21318,Water Efficiency Upgrade,10300.0,1900.0,5.42,2.96,High,Low
+REC_0910,BLDG_19919,Solar Panel Installation,238600.0,15500.0,15.39,25.16,Low,Medium
+REC_0911,BLDG_50475,LED Lighting Retrofit,11800.0,11200.0,1.05,8.09,Critical,Low
+REC_0912,BLDG_24435,Solar Panel Installation,73000.0,3500.0,20.86,16.03,Low,Medium
+REC_0913,BLDG_23909,LED Lighting Retrofit,20500.0,14200.0,1.44,10.4,Critical,Low
+REC_0914,BLDG_27378,Insulation Improvement,61600.0,44400.0,1.39,14.6,Critical,Medium
+REC_0915,BLDG_22113,HVAC Upgrade,82000.0,11700.0,7.01,22.08,High,Medium
+REC_0916,BLDG_23101,Building Automation System,31900.0,17100.0,1.87,11.89,Critical,Medium
+REC_0917,BLDG_50656,Solar Panel Installation,525000.0,36200.0,14.5,21.37,Low,Medium
+REC_0918,BLDG_25723,Solar Panel Installation,198800.0,12600.0,15.78,24.31,Low,Medium
+REC_0919,BLDG_24948,Solar Panel Installation,65000.0,2900.0,22.41,15.72,Low,Medium
+REC_0920,BLDG_23303,Solar Panel Installation,78400.0,3900.0,20.1,27.0,Low,Medium
+REC_0921,BLDG_50710,Solar Panel Installation,525000.0,36200.0,14.5,17.42,Low,Medium
+REC_0922,BLDG_49776,Solar Panel Installation,525000.0,36200.0,14.5,26.18,Low,Medium
+REC_0923,BLDG_26911,Water Efficiency Upgrade,8300.0,1900.0,4.37,4.25,High,Low
+REC_0924,BLDG_50031,Water Efficiency Upgrade,96500.0,26200.0,3.68,3.01,Critical,Low
+REC_0925,BLDG_50654,Building Automation System,148000.0,80400.0,1.84,11.55,Critical,Medium
+REC_0926,BLDG_26844,LED Lighting Retrofit,24300.0,23400.0,1.04,9.35,Critical,Low
+REC_0927,BLDG_50159,Solar Panel Installation,203600.0,12900.0,15.78,21.55,Low,Medium
+REC_0928,BLDG_25182,HVAC Upgrade,128400.0,32400.0,3.96,20.6,Critical,Medium
+REC_0929,BLDG_26706,Water Efficiency Upgrade,8800.0,1700.0,5.18,2.75,High,Low
+REC_0930,BLDG_19484,HVAC Upgrade,194700.0,55100.0,3.53,21.43,Critical,Medium
+REC_0931,BLDG_22170,LED Lighting Retrofit,21600.0,11100.0,1.95,8.06,Critical,Low
+REC_0932,BLDG_489,Building Automation System,39800.0,18500.0,2.15,14.82,Critical,Medium
+REC_0933,BLDG_21661,LED Lighting Retrofit,16000.0,2900.0,5.52,10.97,High,Low
+REC_0934,BLDG_23010,Solar Panel Installation,142800.0,8500.0,16.8,22.66,Low,Medium
+REC_0935,BLDG_279,Solar Panel Installation,303600.0,20200.0,15.03,24.09,Low,Medium
+REC_0936,BLDG_27692,LED Lighting Retrofit,12400.0,5000.0,2.48,8.81,Critical,Low
+REC_0937,BLDG_21088,Insulation Improvement,30000.0,4800.0,6.25,14.87,High,Medium
+REC_0938,BLDG_36087,Solar Panel Installation,100800.0,5500.0,18.33,21.05,Low,Medium
+REC_0939,BLDG_367,Building Automation System,56300.0,19400.0,2.9,14.37,Critical,Medium
+REC_0940,BLDG_596,Water Efficiency Upgrade,13000.0,2800.0,4.64,4.61,High,Low
+REC_0941,BLDG_23220,LED Lighting Retrofit,12200.0,12300.0,0.99,10.56,Critical,Low
+REC_0942,BLDG_526,Water Efficiency Upgrade,74300.0,20100.0,3.7,3.78,Critical,Low
+REC_0943,BLDG_50669,Water Efficiency Upgrade,16800.0,4100.0,4.1,3.24,High,Low
+REC_0944,BLDG_28022,Water Efficiency Upgrade,9100.0,4100.0,2.22,4.6,Critical,Low
+REC_0945,BLDG_26138,Water Efficiency Upgrade,13700.0,6500.0,2.11,3.76,Critical,Low
+REC_0946,BLDG_20928,HVAC Upgrade,55400.0,16400.0,3.38,20.09,Critical,Medium
+REC_0947,BLDG_21103,LED Lighting Retrofit,20300.0,16800.0,1.21,8.93,Critical,Low
+REC_0948,BLDG_24614,Solar Panel Installation,74000.0,3600.0,20.56,25.65,Low,Medium
+REC_0949,BLDG_44187,Solar Panel Installation,212000.0,13600.0,15.59,25.68,Low,Medium
+REC_0950,BLDG_21622,Insulation Improvement,28600.0,3000.0,9.53,14.7,Medium,Medium
+REC_0951,BLDG_23713,Water Efficiency Upgrade,7900.0,2800.0,2.82,2.55,Critical,Low
+REC_0952,BLDG_22585,LED Lighting Retrofit,11400.0,2100.0,5.43,8.86,High,Low
+REC_0953,BLDG_21838,LED Lighting Retrofit,11500.0,2200.0,5.23,10.57,High,Low
+REC_0954,BLDG_49821,Water Efficiency Upgrade,13000.0,6700.0,1.94,4.03,Critical,Low
+REC_0955,BLDG_50375,Solar Panel Installation,132000.0,7800.0,16.92,17.4,Low,Medium
+REC_0956,BLDG_26383,Water Efficiency Upgrade,24500.0,16600.0,1.48,4.3,Critical,Low
+REC_0957,BLDG_22299,LED Lighting Retrofit,128400.0,55900.0,2.3,9.09,Critical,Low
+REC_0958,BLDG_50732,Solar Panel Installation,67600.0,3100.0,21.81,18.08,Low,Medium
+REC_0959,BLDG_25046,Solar Panel Installation,123600.0,7100.0,17.41,15.75,Low,Medium
+REC_0960,BLDG_24235,LED Lighting Retrofit,103500.0,89500.0,1.16,8.34,Critical,Low
+REC_0961,BLDG_21326,Solar Panel Installation,65000.0,2900.0,22.41,16.95,Low,Medium
+REC_0962,BLDG_22210,LED Lighting Retrofit,14900.0,6100.0,2.44,8.81,Critical,Low
+REC_0963,BLDG_19532,Insulation Improvement,49600.0,6400.0,7.75,12.38,High,Medium
+REC_0964,BLDG_19669,Water Efficiency Upgrade,11300.0,5600.0,2.02,4.61,Critical,Low
+REC_0965,BLDG_22058,HVAC Upgrade,318900.0,48400.0,6.59,19.42,High,Medium
+REC_0966,BLDG_49697,Building Automation System,35000.0,9100.0,3.85,13.31,Critical,Medium
+REC_0967,BLDG_360,Solar Panel Installation,521400.0,36000.0,14.48,25.5,Low,Medium
+REC_0968,BLDG_21140,HVAC Upgrade,53500.0,7200.0,7.43,25.79,High,Medium
+REC_0969,BLDG_27838,Solar Panel Installation,95200.0,5100.0,18.67,18.0,Low,Medium
+REC_0970,BLDG_26450,Solar Panel Installation,309800.0,20600.0,15.04,15.09,Low,Medium
+REC_0971,BLDG_20490,Solar Panel Installation,452600.0,31000.0,14.6,20.57,Low,Medium
+REC_0972,BLDG_26845,LED Lighting Retrofit,10700.0,5300.0,2.02,9.67,Critical,Low
+REC_0973,BLDG_50173,LED Lighting Retrofit,22500.0,11100.0,2.03,10.55,Critical,Low
+REC_0974,BLDG_490,Building Automation System,39500.0,20800.0,1.9,10.59,Critical,Medium
+REC_0975,BLDG_25660,Solar Panel Installation,65000.0,2900.0,22.41,22.49,Low,Medium
+REC_0976,BLDG_23501,Solar Panel Installation,160400.0,9800.0,16.37,17.48,Low,Medium
+REC_0977,BLDG_499,Solar Panel Installation,127200.0,7400.0,17.19,17.34,Low,Medium
+REC_0978,BLDG_241,LED Lighting Retrofit,21200.0,20200.0,1.05,9.27,Critical,Low
+REC_0979,BLDG_635,HVAC Upgrade,108500.0,86600.0,1.25,24.23,Critical,Medium
+REC_0980,BLDG_19788,Water Efficiency Upgrade,41500.0,32800.0,1.27,4.27,Critical,Low
+REC_0981,BLDG_23377,Water Efficiency Upgrade,7700.0,3100.0,2.48,2.15,Critical,Low
+REC_0982,BLDG_26017,Water Efficiency Upgrade,8200.0,3500.0,2.34,3.4,Critical,Low
+REC_0983,BLDG_26460,HVAC Upgrade,129100.0,32800.0,3.94,19.83,Critical,Medium
+REC_0984,BLDG_22460,Solar Panel Installation,65000.0,2900.0,22.41,27.49,Low,Medium
+REC_0985,BLDG_544,LED Lighting Retrofit,17300.0,7600.0,2.28,10.83,Critical,Low
+REC_0986,BLDG_22110,Solar Panel Installation,145000.0,8700.0,16.67,17.59,Low,Medium
+REC_0987,BLDG_50858,Water Efficiency Upgrade,13100.0,5600.0,2.34,4.1,Critical,Low
+REC_0988,BLDG_412,Solar Panel Installation,105800.0,5900.0,17.93,18.32,Low,Medium
+REC_0989,BLDG_20430,Building Automation System,38000.0,20700.0,1.84,15.69,Critical,Medium
+REC_0990,BLDG_382,Solar Panel Installation,92000.0,4900.0,18.78,27.96,Low,Medium
+REC_0991,BLDG_27212,Building Automation System,36300.0,22400.0,1.62,12.79,Critical,Medium
+REC_0992,BLDG_390,Solar Panel Installation,414200.0,28200.0,14.69,21.7,Low,Medium
+REC_0993,BLDG_21285,LED Lighting Retrofit,67000.0,21300.0,3.15,10.78,Critical,Low
+REC_0994,BLDG_21310,Water Efficiency Upgrade,10200.0,1600.0,6.38,3.05,High,Low
+REC_0995,BLDG_50340,LED Lighting Retrofit,13100.0,3700.0,3.54,11.49,Critical,Low
+REC_0996,BLDG_24539,Solar Panel Installation,65000.0,2900.0,22.41,23.66,Low,Medium
+REC_0997,BLDG_25327,Solar Panel Installation,120400.0,6900.0,17.45,21.8,Low,Medium
+REC_0998,BLDG_23322,LED Lighting Retrofit,29100.0,10300.0,2.83,11.88,Critical,Low
+REC_0999,BLDG_49793,LED Lighting Retrofit,34300.0,6700.0,5.12,11.62,High,Low
+REC_1000,BLDG_693,Solar Panel Installation,156600.0,9500.0,16.48,27.56,Low,Medium
+REC_1001,BLDG_26677,Water Efficiency Upgrade,13400.0,7100.0,1.89,4.99,Critical,Low
+REC_1002,BLDG_23892,Solar Panel Installation,231600.0,15000.0,15.44,16.79,Low,Medium
+REC_1003,BLDG_20836,Building Automation System,30500.0,12600.0,2.42,12.84,Critical,Medium
+REC_1004,BLDG_23355,Solar Panel Installation,65000.0,2900.0,22.41,18.11,Low,Medium
+REC_1005,BLDG_20415,Solar Panel Installation,69600.0,3200.0,21.75,20.5,Low,Medium
+REC_1006,BLDG_19741,LED Lighting Retrofit,24800.0,16500.0,1.5,10.76,Critical,Low
+REC_1007,BLDG_21149,LED Lighting Retrofit,9900.0,3500.0,2.83,8.17,Critical,Low
+REC_1008,BLDG_49874,LED Lighting Retrofit,29100.0,12300.0,2.37,10.64,Critical,Low
+REC_1009,BLDG_25978,LED Lighting Retrofit,10500.0,4900.0,2.14,10.13,Critical,Low
+REC_1010,BLDG_24893,HVAC Upgrade,45700.0,11200.0,4.08,25.87,Critical,Medium
+REC_1011,BLDG_50676,Solar Panel Installation,233400.0,15100.0,15.46,23.42,Low,Medium
+REC_1012,BLDG_19932,Solar Panel Installation,108400.0,6000.0,18.07,17.42,Low,Medium
+REC_1013,BLDG_49770,Solar Panel Installation,525000.0,36200.0,14.5,21.86,Low,Medium
+REC_1014,BLDG_21096,Solar Panel Installation,222600.0,14300.0,15.57,21.55,Low,Medium
+REC_1015,BLDG_216,Solar Panel Installation,270600.0,17800.0,15.2,19.66,Low,Medium
+REC_1016,BLDG_23928,Solar Panel Installation,66800.0,3000.0,22.27,23.27,Low,Medium
+REC_1017,BLDG_27707,LED Lighting Retrofit,11000.0,1700.0,6.47,10.44,High,Low
+REC_1018,BLDG_20807,Insulation Improvement,30200.0,3800.0,7.95,15.42,High,Medium
+REC_1019,BLDG_50640,Solar Panel Installation,415600.0,28300.0,14.69,22.44,Low,Medium
+REC_1020,BLDG_24162,Building Automation System,39000.0,17100.0,2.28,10.22,Critical,Medium
+REC_1021,BLDG_27039,Solar Panel Installation,72600.0,3500.0,20.74,21.78,Low,Medium
+REC_1022,BLDG_21722,Building Automation System,16000.0,4600.0,3.48,13.8,Critical,Medium
+REC_1023,BLDG_24764,Solar Panel Installation,194600.0,12300.0,15.82,22.37,Low,Medium
+REC_1024,BLDG_22230,Window Replacement,66000.0,41900.0,1.58,11.32,Critical,Medium
+REC_1025,BLDG_28019,HVAC Upgrade,61100.0,14100.0,4.33,19.29,Critical,Medium
+REC_1026,BLDG_50034,Solar Panel Installation,362400.0,24500.0,14.79,24.66,Low,Medium
+REC_1027,BLDG_50733,Water Efficiency Upgrade,11000.0,4900.0,2.24,3.14,Critical,Low
+REC_1028,BLDG_23641,HVAC Upgrade,155900.0,30700.0,5.08,24.86,Critical,Medium
+REC_1029,BLDG_20279,Water Efficiency Upgrade,10300.0,4400.0,2.34,4.02,Critical,Low
+REC_1030,BLDG_709,Solar Panel Installation,274600.0,18100.0,15.17,24.19,Low,Medium
+REC_1031,BLDG_20011,Building Automation System,17200.0,8600.0,2.0,11.5,Critical,Medium
+REC_1032,BLDG_24181,Solar Panel Installation,110600.0,6200.0,17.84,23.98,Low,Medium
+REC_1033,BLDG_21762,Water Efficiency Upgrade,9700.0,4600.0,2.11,3.55,Critical,Low
+REC_1034,BLDG_21688,Building Automation System,18600.0,7800.0,2.38,10.52,Critical,Medium
+REC_1035,BLDG_21550,Building Automation System,25100.0,13300.0,1.89,14.48,Critical,Medium
+REC_1036,BLDG_23952,LED Lighting Retrofit,13200.0,8200.0,1.61,11.0,Critical,Low
+REC_1037,BLDG_20307,Water Efficiency Upgrade,16500.0,9900.0,1.67,2.23,Critical,Low
+REC_1038,BLDG_27829,Solar Panel Installation,65000.0,2900.0,22.41,20.25,Low,Medium
+REC_1039,BLDG_19550,Solar Panel Installation,223000.0,14400.0,15.49,23.31,Low,Medium
+REC_1040,BLDG_20242,LED Lighting Retrofit,8800.0,4500.0,1.96,8.11,Critical,Low
+REC_1041,BLDG_24219,Water Efficiency Upgrade,11100.0,2900.0,3.83,4.12,Critical,Low
+REC_1042,BLDG_23484,Insulation Improvement,33100.0,4700.0,7.04,13.13,High,Medium
+REC_1043,BLDG_24589,LED Lighting Retrofit,8700.0,4300.0,2.02,8.33,Critical,Low
+REC_1044,BLDG_49780,Building Automation System,37800.0,225400.0,0.17,13.76,Critical,Medium
+REC_1045,BLDG_864,LED Lighting Retrofit,25500.0,5000.0,5.1,8.11,High,Low
+REC_1046,BLDG_50479,Water Efficiency Upgrade,8300.0,900.0,9.22,4.35,Medium,Low
+REC_1047,BLDG_24906,Water Efficiency Upgrade,23800.0,12900.0,1.84,3.77,Critical,Low
+REC_1048,BLDG_719,Solar Panel Installation,172400.0,10700.0,16.11,24.28,Low,Medium
+REC_1049,BLDG_20224,Water Efficiency Upgrade,13000.0,7500.0,1.73,3.92,Critical,Low
+REC_1050,BLDG_22418,Building Automation System,17700.0,5300.0,3.34,13.33,Critical,Medium
+REC_1051,BLDG_25842,Water Efficiency Upgrade,8500.0,2000.0,4.25,3.94,High,Low
+REC_1052,BLDG_27298,Building Automation System,29100.0,10900.0,2.67,13.15,Critical,Medium
+REC_1053,BLDG_121,Deep Energy Retrofit,477600.0,54500.0,8.76,42.2,High,High
+REC_1054,BLDG_50915,Water Efficiency Upgrade,14100.0,6800.0,2.07,3.27,Critical,Low
+REC_1055,BLDG_24784,Building Automation System,22500.0,5000.0,4.5,15.66,High,Medium
+REC_1056,BLDG_27704,Building Automation System,20500.0,10100.0,2.03,13.53,Critical,Medium
+REC_1057,BLDG_50898,Solar Panel Installation,245200.0,16000.0,15.32,21.56,Low,Medium
+REC_1058,BLDG_27131,Window Replacement,59400.0,4800.0,12.38,9.94,Low,Medium
+REC_1059,BLDG_25743,Window Replacement,57500.0,2900.0,19.83,12.13,Low,Medium
+REC_1060,BLDG_24333,Building Automation System,24200.0,6400.0,3.78,10.79,Critical,Medium
+REC_1061,BLDG_50652,HVAC Upgrade,252900.0,81500.0,3.1,25.87,Critical,Medium
+REC_1062,BLDG_50677,Water Efficiency Upgrade,21900.0,13900.0,1.58,2.37,Critical,Low
+REC_1063,BLDG_23189,LED Lighting Retrofit,13600.0,4700.0,2.89,11.45,Critical,Low
+REC_1064,BLDG_19992,Solar Panel Installation,65000.0,2900.0,22.41,27.86,Low,Medium
+REC_1065,BLDG_20644,Solar Panel Installation,114200.0,6500.0,17.57,18.11,Low,Medium
+REC_1066,BLDG_22354,LED Lighting Retrofit,15100.0,5900.0,2.56,8.53,Critical,Low
+REC_1067,BLDG_19453,LED Lighting Retrofit,24400.0,10800.0,2.26,10.53,Critical,Low
+REC_1068,BLDG_20367,Solar Panel Installation,118600.0,6800.0,17.44,26.65,Low,Medium
+REC_1069,BLDG_26898,Solar Panel Installation,73400.0,3500.0,20.97,24.77,Low,Medium
+REC_1070,BLDG_23975,LED Lighting Retrofit,9400.0,6000.0,1.57,8.19,Critical,Low
+REC_1071,BLDG_23327,Window Replacement,250000.0,16500.0,15.15,10.0,Low,Medium
+REC_1072,BLDG_23251,Building Automation System,17500.0,4700.0,3.72,13.9,Critical,Medium
+REC_1073,BLDG_21860,Solar Panel Installation,455400.0,31200.0,14.6,25.54,Low,Medium
+REC_1074,BLDG_20252,LED Lighting Retrofit,11700.0,1900.0,6.16,11.55,High,Low
+REC_1075,BLDG_24091,Deep Energy Retrofit,252500.0,66300.0,3.81,35.94,Critical,High
+REC_1076,BLDG_19967,LED Lighting Retrofit,13000.0,5900.0,2.2,10.25,Critical,Low
+REC_1077,BLDG_27059,Water Efficiency Upgrade,19900.0,12700.0,1.57,4.41,Critical,Low
+REC_1078,BLDG_25223,Water Efficiency Upgrade,7700.0,3100.0,2.48,4.43,Critical,Low
+REC_1079,BLDG_21826,LED Lighting Retrofit,11200.0,4400.0,2.55,8.96,Critical,Low
+REC_1080,BLDG_24230,Water Efficiency Upgrade,10400.0,4600.0,2.26,4.23,Critical,Low
+REC_1081,BLDG_23846,HVAC Upgrade,64300.0,6300.0,10.21,21.77,Medium,Medium
+REC_1082,BLDG_19826,LED Lighting Retrofit,14200.0,5100.0,2.78,10.31,Critical,Low
+REC_1083,BLDG_23735,HVAC Upgrade,45900.0,24500.0,1.87,21.51,Critical,Medium
+REC_1084,BLDG_25652,LED Lighting Retrofit,35400.0,20100.0,1.76,10.09,Critical,Low
+REC_1085,BLDG_19520,Building Automation System,16400.0,3600.0,4.56,13.98,High,Medium
+REC_1086,BLDG_19831,LED Lighting Retrofit,19700.0,9200.0,2.14,10.91,Critical,Low
+REC_1087,BLDG_20120,HVAC Upgrade,72700.0,11000.0,6.61,20.85,High,Medium
+REC_1088,BLDG_25433,Solar Panel Installation,67600.0,3100.0,21.81,15.4,Low,Medium
+REC_1089,BLDG_20372,LED Lighting Retrofit,32100.0,52100.0,0.62,8.84,Critical,Low
+REC_1090,BLDG_50130,LED Lighting Retrofit,59600.0,44200.0,1.35,8.86,Critical,Low
+REC_1091,BLDG_25758,Insulation Improvement,48000.0,6000.0,8.0,17.22,High,Medium
+REC_1092,BLDG_656,HVAC Upgrade,342700.0,180900.0,1.89,21.33,Critical,Medium
+REC_1093,BLDG_24795,Solar Panel Installation,93800.0,5000.0,18.76,22.83,Low,Medium
+REC_1094,BLDG_49870,Water Efficiency Upgrade,13900.0,7100.0,1.96,3.66,Critical,Low
+REC_1095,BLDG_20297,Building Automation System,34100.0,15500.0,2.2,11.36,Critical,Medium
+REC_1096,BLDG_24432,Solar Panel Installation,77400.0,3800.0,20.37,24.32,Low,Medium
+REC_1097,BLDG_19748,Solar Panel Installation,525000.0,36200.0,14.5,25.84,Low,Medium
+REC_1098,BLDG_50633,Water Efficiency Upgrade,18900.0,12000.0,1.58,4.62,Critical,Low
+REC_1099,BLDG_52001,Water Efficiency Upgrade,56200.0,38100.0,1.48,4.8,Critical,Low
+REC_1100,BLDG_27258,LED Lighting Retrofit,17000.0,6200.0,2.74,9.28,Critical,Low
+REC_1101,BLDG_49717,Water Efficiency Upgrade,11800.0,5600.0,2.11,2.37,Critical,Low
+REC_1102,BLDG_50030,LED Lighting Retrofit,82400.0,81000.0,1.02,11.58,Critical,Low
+REC_1103,BLDG_26089,Water Efficiency Upgrade,9900.0,4400.0,2.25,3.15,Critical,Low
+REC_1104,BLDG_21340,Building Automation System,38000.0,12300.0,3.09,11.83,Critical,Medium
+REC_1105,BLDG_50660,Solar Panel Installation,525000.0,36200.0,14.5,19.19,Low,Medium
+REC_1106,BLDG_19889,LED Lighting Retrofit,9000.0,4100.0,2.2,11.45,Critical,Low
+REC_1107,BLDG_27047,Building Automation System,45400.0,20400.0,2.23,13.91,Critical,Medium
+REC_1108,BLDG_107,Solar Panel Installation,525000.0,36200.0,14.5,25.85,Low,Medium
+REC_1109,BLDG_21344,HVAC Upgrade,315200.0,131000.0,2.41,18.49,Critical,Medium
+REC_1110,BLDG_22323,Building Automation System,23300.0,4800.0,4.85,14.0,High,Medium
+REC_1111,BLDG_20714,Window Replacement,57800.0,7600.0,7.61,9.35,High,Medium
+REC_1112,BLDG_23925,LED Lighting Retrofit,23000.0,3800.0,6.05,11.21,High,Low
+REC_1113,BLDG_50259,Solar Panel Installation,525000.0,36200.0,14.5,22.09,Low,Medium
+REC_1114,BLDG_50175,Solar Panel Installation,389800.0,26400.0,14.77,19.67,Low,Medium
+REC_1115,BLDG_24630,Deep Energy Retrofit,242600.0,63400.0,3.83,44.27,Critical,High
+REC_1116,BLDG_19654,HVAC Upgrade,79700.0,110300.0,0.72,25.44,Critical,Medium
+REC_1117,BLDG_49857,Solar Panel Installation,331400.0,22200.0,14.93,21.07,Low,Medium
+REC_1118,BLDG_27213,Building Automation System,19100.0,6500.0,2.94,10.94,Critical,Medium
+REC_1119,BLDG_50171,Solar Panel Installation,65200.0,2900.0,22.48,21.73,Low,Medium
+REC_1120,BLDG_26773,LED Lighting Retrofit,9100.0,3100.0,2.94,9.92,Critical,Low
+REC_1121,BLDG_24344,Deep Energy Retrofit,208700.0,49200.0,4.24,46.37,Critical,High
+REC_1122,BLDG_24180,HVAC Upgrade,56200.0,19200.0,2.93,19.26,Critical,Medium
+REC_1123,BLDG_50503,Solar Panel Installation,211200.0,13500.0,15.64,16.9,Low,Medium
+REC_1124,BLDG_50165,Solar Panel Installation,164400.0,10100.0,16.28,24.95,Low,Medium
+REC_1125,BLDG_27304,Solar Panel Installation,274600.0,18100.0,15.17,23.06,Low,Medium
+REC_1126,BLDG_27593,LED Lighting Retrofit,16300.0,14700.0,1.11,10.33,Critical,Low
+REC_1127,BLDG_25696,Water Efficiency Upgrade,12400.0,5900.0,2.1,3.34,Critical,Low
+REC_1128,BLDG_608,Water Efficiency Upgrade,38700.0,11900.0,3.25,3.65,Critical,Low
+REC_1129,BLDG_21578,LED Lighting Retrofit,14500.0,8600.0,1.69,10.75,Critical,Low
+REC_1130,BLDG_27189,HVAC Upgrade,216700.0,49100.0,4.41,22.42,High,Medium
+REC_1131,BLDG_21703,Building Automation System,28500.0,18900.0,1.51,13.05,Critical,Medium
+REC_1132,BLDG_23953,Building Automation System,19300.0,3900.0,4.95,14.02,High,Medium
+REC_1133,BLDG_24153,Water Efficiency Upgrade,7700.0,2600.0,2.96,3.76,Critical,Low
+REC_1134,BLDG_50935,Solar Panel Installation,388800.0,26400.0,14.73,19.63,Low,Medium
+REC_1135,BLDG_26236,Insulation Improvement,30000.0,2500.0,12.0,14.47,Low,Medium
+REC_1136,BLDG_712,Solar Panel Installation,181200.0,11300.0,16.04,27.0,Low,Medium
+REC_1137,BLDG_24359,Solar Panel Installation,121800.0,7000.0,17.4,18.35,Low,Medium
+REC_1138,BLDG_20330,Solar Panel Installation,212800.0,13600.0,15.65,23.48,Low,Medium
+REC_1139,BLDG_50535,Building Automation System,60500.0,20900.0,2.89,11.21,Critical,Medium
+REC_1140,BLDG_23518,Solar Panel Installation,71000.0,3300.0,21.52,24.93,Low,Medium
+REC_1141,BLDG_20441,Building Automation System,17400.0,3200.0,5.44,15.32,High,Medium
+REC_1142,BLDG_27597,Building Automation System,24800.0,16700.0,1.49,14.46,Critical,Medium
+REC_1143,BLDG_23177,HVAC Upgrade,70000.0,9600.0,7.29,20.71,High,Medium
+REC_1144,BLDG_27007,LED Lighting Retrofit,8600.0,2000.0,4.3,10.62,High,Low
+REC_1145,BLDG_50726,LED Lighting Retrofit,13200.0,9400.0,1.4,10.89,Critical,Low
+REC_1146,BLDG_50493,Building Automation System,30100.0,11400.0,2.64,15.05,Critical,Medium
+REC_1147,BLDG_25215,Building Automation System,20000.0,5100.0,3.92,12.36,Critical,Medium
+REC_1148,BLDG_26025,Building Automation System,33900.0,12900.0,2.63,15.96,Critical,Medium
+REC_1149,BLDG_21102,LED Lighting Retrofit,10300.0,4100.0,2.51,10.69,Critical,Low
+REC_1150,BLDG_20871,Building Automation System,16200.0,3000.0,5.4,15.51,High,Medium
+REC_1151,BLDG_339,Solar Panel Installation,144400.0,8700.0,16.6,16.58,Low,Medium
+REC_1152,BLDG_21104,LED Lighting Retrofit,12200.0,6700.0,1.82,10.55,Critical,Low
+REC_1153,BLDG_25992,Solar Panel Installation,525000.0,36200.0,14.5,19.19,Low,Medium
+REC_1154,BLDG_28874,Building Automation System,19800.0,6100.0,3.25,14.67,Critical,Medium
+REC_1155,BLDG_20668,Water Efficiency Upgrade,12700.0,6900.0,1.84,3.01,Critical,Low
+REC_1156,BLDG_24600,LED Lighting Retrofit,15200.0,19600.0,0.78,10.07,Critical,Low
+REC_1157,BLDG_26052,Water Efficiency Upgrade,8000.0,2700.0,2.96,3.56,Critical,Low
+REC_1158,BLDG_32429,Water Efficiency Upgrade,13000.0,2200.0,5.91,4.28,High,Low
+REC_1159,BLDG_23896,Building Automation System,19400.0,7900.0,2.46,12.11,Critical,Medium
+REC_1160,BLDG_25428,Solar Panel Installation,84400.0,4300.0,19.63,15.28,Low,Medium
+REC_1161,BLDG_25175,LED Lighting Retrofit,14600.0,8300.0,1.76,9.16,Critical,Low
+REC_1162,BLDG_20243,Solar Panel Installation,65000.0,2900.0,22.41,19.03,Low,Medium
+REC_1163,BLDG_822,LED Lighting Retrofit,19900.0,10100.0,1.97,11.62,Critical,Low
+REC_1164,BLDG_25462,Solar Panel Installation,65000.0,2900.0,22.41,17.61,Low,Medium
+REC_1165,BLDG_23960,Window Replacement,51500.0,3100.0,16.61,13.94,Low,Medium
+REC_1166,BLDG_23360,Solar Panel Installation,65000.0,2900.0,22.41,18.85,Low,Medium
+REC_1167,BLDG_23691,Building Automation System,17300.0,4100.0,4.22,14.77,High,Medium
+REC_1168,BLDG_441,Deep Energy Retrofit,517900.0,134400.0,3.85,43.35,Critical,High
+REC_1169,BLDG_19780,HVAC Upgrade,53800.0,22600.0,2.38,18.02,Critical,Medium
+REC_1170,BLDG_701,Solar Panel Installation,92600.0,4900.0,18.9,21.42,Low,Medium
+REC_1171,BLDG_27657,LED Lighting Retrofit,30100.0,21900.0,1.37,8.73,Critical,Low
+REC_1172,BLDG_50243,LED Lighting Retrofit,54300.0,24800.0,2.19,9.67,Critical,Low
+REC_1173,BLDG_21091,HVAC Upgrade,96000.0,47500.0,2.02,21.23,Critical,Medium
+REC_1174,BLDG_25574,Water Efficiency Upgrade,9800.0,5000.0,1.96,2.28,Critical,Low
+REC_1175,BLDG_616,Solar Panel Installation,239200.0,15500.0,15.43,23.66,Low,Medium
+REC_1176,BLDG_50723,Insulation Improvement,42800.0,8400.0,5.1,16.0,High,Medium
+REC_1177,BLDG_25635,LED Lighting Retrofit,9600.0,4000.0,2.4,10.43,Critical,Low
+REC_1178,BLDG_20425,Window Replacement,82000.0,4800.0,17.08,11.5,Low,Medium
+REC_1179,BLDG_23107,LED Lighting Retrofit,22200.0,11500.0,1.93,8.11,Critical,Low
+REC_1180,BLDG_50185,Solar Panel Installation,525000.0,36200.0,14.5,27.0,Low,Medium
+REC_1181,BLDG_25540,Building Automation System,24900.0,16500.0,1.51,10.81,Critical,Medium
+REC_1182,BLDG_19441,Building Automation System,25700.0,8300.0,3.1,14.47,Critical,Medium
+REC_1183,BLDG_197,Window Replacement,242000.0,29700.0,8.15,12.07,High,Medium
+REC_1184,BLDG_212,Solar Panel Installation,256000.0,16700.0,15.33,18.35,Low,Medium
+REC_1185,BLDG_50082,Deep Energy Retrofit,214100.0,25500.0,8.4,47.54,High,High
+REC_1186,BLDG_21663,Solar Panel Installation,94800.0,5100.0,18.59,16.3,Low,Medium
+REC_1187,BLDG_21711,LED Lighting Retrofit,17300.0,6500.0,2.66,10.95,Critical,Low
+REC_1188,BLDG_21300,Water Efficiency Upgrade,7700.0,3300.0,2.33,3.64,Critical,Low
+REC_1189,BLDG_50523,Solar Panel Installation,525000.0,36200.0,14.5,16.15,Low,Medium
+REC_1190,BLDG_515,Insulation Improvement,74100.0,3400.0,21.79,16.67,Low,Medium
+REC_1191,BLDG_23816,LED Lighting Retrofit,107000.0,66600.0,1.61,10.95,Critical,Low
+REC_1192,BLDG_24489,Insulation Improvement,22700.0,4200.0,5.4,15.7,Critical,Medium
+REC_1193,BLDG_598,HVAC Upgrade,88700.0,21400.0,4.14,22.89,Critical,Medium
+REC_1194,BLDG_564,Insulation Improvement,57500.0,10400.0,5.53,16.31,High,Medium
+REC_1195,BLDG_50472,Building Automation System,27500.0,11800.0,2.33,12.87,Critical,Medium
+REC_1196,BLDG_20182,Insulation Improvement,26500.0,2500.0,10.6,13.08,Medium,Medium
+REC_1197,BLDG_49894,Solar Panel Installation,525000.0,36200.0,14.5,19.29,Low,Medium
+REC_1198,BLDG_21569,LED Lighting Retrofit,17400.0,6900.0,2.52,11.05,Critical,Low
+REC_1199,BLDG_26672,Building Automation System,21900.0,3500.0,6.26,13.81,High,Medium
+REC_1200,BLDG_26593,Insulation Improvement,24000.0,2400.0,10.0,16.02,Medium,Medium
+REC_1201,BLDG_22521,LED Lighting Retrofit,14800.0,5400.0,2.74,9.96,Critical,Low
+REC_1202,BLDG_22446,LED Lighting Retrofit,10000.0,400.0,25.0,8.5,Low,Low
+REC_1203,BLDG_24668,LED Lighting Retrofit,10200.0,4200.0,2.43,10.31,Critical,Low
+REC_1204,BLDG_24607,LED Lighting Retrofit,12300.0,6600.0,1.86,9.96,Critical,Low
+REC_1205,BLDG_21219,Solar Panel Installation,89200.0,4700.0,18.98,25.11,Low,Medium
+REC_1206,BLDG_50740,Water Efficiency Upgrade,23500.0,11900.0,1.97,3.15,Critical,Low
+REC_1207,BLDG_21836,Water Efficiency Upgrade,15000.0,9400.0,1.6,4.61,Critical,Low
+REC_1208,BLDG_24883,Solar Panel Installation,78000.0,3800.0,20.53,17.4,Low,Medium
+REC_1209,BLDG_33,Water Efficiency Upgrade,34900.0,28500.0,1.22,4.43,Critical,Low
+REC_1210,BLDG_19773,LED Lighting Retrofit,9500.0,3200.0,2.97,9.73,Critical,Low
+REC_1211,BLDG_22805,Building Automation System,22900.0,9200.0,2.49,10.79,Critical,Medium
+REC_1212,BLDG_24164,LED Lighting Retrofit,14600.0,15000.0,0.97,9.15,Critical,Low
+REC_1213,BLDG_50777,Building Automation System,21600.0,11800.0,1.83,15.88,Critical,Medium
+REC_1214,BLDG_33289,Water Efficiency Upgrade,25500.0,6200.0,4.11,2.49,High,Low
+REC_1215,BLDG_24406,HVAC Upgrade,65900.0,12700.0,5.19,22.52,High,Medium
+REC_1216,BLDG_19680,Solar Panel Installation,214400.0,13700.0,15.65,17.23,Low,Medium
+REC_1217,BLDG_25412,Water Efficiency Upgrade,21200.0,14100.0,1.5,3.0,Critical,Low
+REC_1218,BLDG_26506,Deep Energy Retrofit,232700.0,48100.0,4.84,47.66,Critical,High
+REC_1219,BLDG_25725,LED Lighting Retrofit,23700.0,10600.0,2.24,8.12,Critical,Low
+REC_1220,BLDG_23905,LED Lighting Retrofit,12800.0,7100.0,1.8,10.54,Critical,Low
+REC_1221,BLDG_50326,Water Efficiency Upgrade,10000.0,3700.0,2.7,2.98,Critical,Low
+REC_1222,BLDG_25061,Water Efficiency Upgrade,24400.0,14900.0,1.64,4.32,Critical,Low
+REC_1223,BLDG_21880,Solar Panel Installation,405000.0,27600.0,14.67,24.91,Low,Medium
+REC_1224,BLDG_735,Insulation Improvement,47400.0,9300.0,5.1,12.95,High,Medium
+REC_1225,BLDG_51990,LED Lighting Retrofit,31500.0,6500.0,4.85,8.72,High,Low
+REC_1226,BLDG_27554,Insulation Improvement,32500.0,4600.0,7.07,13.65,High,Medium
+REC_1227,BLDG_24134,Solar Panel Installation,65000.0,2900.0,22.41,18.19,Low,Medium
+REC_1228,BLDG_27436,Water Efficiency Upgrade,11900.0,5100.0,2.33,3.13,Critical,Low
+REC_1229,BLDG_24412,LED Lighting Retrofit,13700.0,2700.0,5.07,10.14,High,Low
+REC_1230,BLDG_26166,Water Efficiency Upgrade,8900.0,4200.0,2.12,2.44,Critical,Low
+REC_1231,BLDG_706,LED Lighting Retrofit,54500.0,24200.0,2.25,8.03,Critical,Low
+REC_1232,BLDG_21783,Water Efficiency Upgrade,7800.0,1800.0,4.33,4.79,High,Low
+REC_1233,BLDG_24473,LED Lighting Retrofit,13100.0,2600.0,5.04,9.6,High,Low
+REC_1234,BLDG_23331,LED Lighting Retrofit,12400.0,1100.0,11.27,8.22,Medium,Low
+REC_1235,BLDG_24769,Solar Panel Installation,351000.0,23600.0,14.87,25.16,Low,Medium
+REC_1236,BLDG_26076,Building Automation System,17000.0,8200.0,2.07,14.82,Critical,Medium
+REC_1237,BLDG_284,Deep Energy Retrofit,298400.0,57800.0,5.16,32.29,Critical,High
+REC_1238,BLDG_25186,LED Lighting Retrofit,13000.0,3800.0,3.42,10.28,Critical,Low
+REC_1239,BLDG_22934,Water Efficiency Upgrade,8400.0,2900.0,2.9,3.43,Critical,Low
+REC_1240,BLDG_26681,LED Lighting Retrofit,18900.0,2100.0,9.0,10.86,Medium,Low
+REC_1241,BLDG_23287,Solar Panel Installation,525000.0,36200.0,14.5,16.78,Low,Medium
+REC_1242,BLDG_23196,LED Lighting Retrofit,12800.0,3700.0,3.46,9.63,Critical,Low
+REC_1243,BLDG_214,LED Lighting Retrofit,43700.0,37000.0,1.18,10.47,Critical,Low
+REC_1244,BLDG_41070,Water Efficiency Upgrade,10400.0,5400.0,1.93,2.3,Critical,Low
+REC_1245,BLDG_20437,Solar Panel Installation,309000.0,20600.0,15.0,20.85,Low,Medium
+REC_1246,BLDG_21893,HVAC Upgrade,60800.0,14600.0,4.16,23.88,Critical,Medium
+REC_1247,BLDG_322,Deep Energy Retrofit,483100.0,148400.0,3.26,34.71,Critical,High
+REC_1248,BLDG_50492,Water Efficiency Upgrade,9600.0,4300.0,2.23,3.8,Critical,Low
+REC_1249,BLDG_23768,Water Efficiency Upgrade,9700.0,1800.0,5.39,3.3,High,Low
+REC_1250,BLDG_21502,Water Efficiency Upgrade,13800.0,8500.0,1.62,2.86,Critical,Low
+REC_1251,BLDG_19695,Building Automation System,22200.0,9200.0,2.41,10.34,Critical,Medium
+REC_1252,BLDG_625,Solar Panel Installation,197000.0,12500.0,15.76,19.71,Low,Medium
+REC_1253,BLDG_775,Solar Panel Installation,525000.0,36200.0,14.5,21.11,Low,Medium
+REC_1254,BLDG_352,Water Efficiency Upgrade,37600.0,12300.0,3.06,4.39,Critical,Low
+REC_1255,BLDG_25435,Insulation Improvement,70700.0,12400.0,5.7,15.74,High,Medium
+REC_1256,BLDG_27693,Building Automation System,21700.0,8100.0,2.68,13.54,Critical,Medium
+REC_1257,BLDG_19456,Solar Panel Installation,141000.0,8400.0,16.79,18.66,Low,Medium
+REC_1258,BLDG_19774,LED Lighting Retrofit,16500.0,6500.0,2.54,10.19,Critical,Low
+REC_1259,BLDG_23231,Building Automation System,16000.0,4000.0,4.0,12.53,High,Medium
+REC_1260,BLDG_46427,Building Automation System,44900.0,20800.0,2.16,12.03,Critical,Medium
+REC_1261,BLDG_22138,Insulation Improvement,23400.0,3100.0,7.55,17.4,High,Medium
+REC_1262,BLDG_23240,LED Lighting Retrofit,10700.0,6000.0,1.78,10.17,Critical,Low
+REC_1263,BLDG_50671,Solar Panel Installation,250800.0,16400.0,15.29,26.94,Low,Medium
+REC_1264,BLDG_50050,Water Efficiency Upgrade,19600.0,10900.0,1.8,4.67,Critical,Low
+REC_1265,BLDG_23367,LED Lighting Retrofit,23200.0,13900.0,1.67,10.84,Critical,Low
+REC_1266,BLDG_50065,LED Lighting Retrofit,29100.0,56500.0,0.52,10.9,Critical,Low
+REC_1267,BLDG_24631,Window Replacement,56600.0,3900.0,14.51,12.86,Low,Medium
+REC_1268,BLDG_570,LED Lighting Retrofit,26900.0,25900.0,1.04,11.14,Critical,Low
+REC_1269,BLDG_19757,Water Efficiency Upgrade,14200.0,6600.0,2.15,4.87,Critical,Low
+REC_1270,BLDG_24160,Deep Energy Retrofit,342700.0,54300.0,6.31,32.23,High,High
+REC_1271,BLDG_23307,LED Lighting Retrofit,19000.0,3600.0,5.28,9.6,High,Low
+REC_1272,BLDG_20543,HVAC Upgrade,47100.0,7300.0,6.45,21.71,High,Medium
+REC_1273,BLDG_23181,Water Efficiency Upgrade,8000.0,3000.0,2.67,3.95,Critical,Low
+REC_1274,BLDG_29550,Solar Panel Installation,382600.0,25900.0,14.77,25.09,Low,Medium
+REC_1275,BLDG_24673,LED Lighting Retrofit,11300.0,8600.0,1.31,10.96,Critical,Low
+REC_1276,BLDG_50634,Solar Panel Installation,214000.0,13700.0,15.62,23.45,Low,Medium
+REC_1277,BLDG_50067,LED Lighting Retrofit,13000.0,8700.0,1.49,11.87,Critical,Low
+REC_1278,BLDG_49698,Solar Panel Installation,257800.0,16900.0,15.25,22.14,Low,Medium
+REC_1279,BLDG_22238,Water Efficiency Upgrade,9700.0,4200.0,2.31,3.16,Critical,Low
+REC_1280,BLDG_290,Solar Panel Installation,246400.0,16100.0,15.3,26.24,Low,Medium
+REC_1281,BLDG_21937,Water Efficiency Upgrade,16200.0,9900.0,1.64,3.22,Critical,Low
+REC_1282,BLDG_24861,Solar Panel Installation,65000.0,2900.0,22.41,27.04,Low,Medium
+REC_1283,BLDG_580,Solar Panel Installation,230400.0,14900.0,15.46,23.1,Low,Medium
+REC_1284,BLDG_25784,Solar Panel Installation,65000.0,2900.0,22.41,18.76,Low,Medium
+REC_1285,BLDG_50378,Solar Panel Installation,525000.0,36200.0,14.5,18.36,Low,Medium
+REC_1286,BLDG_21729,HVAC Upgrade,67800.0,15700.0,4.32,20.64,Critical,Medium
+REC_1287,BLDG_23774,LED Lighting Retrofit,63800.0,40600.0,1.57,10.74,Critical,Low
+REC_1288,BLDG_26737,Building Automation System,34400.0,9000.0,3.82,15.24,Critical,Medium
+REC_1289,BLDG_25547,Building Automation System,23900.0,14700.0,1.63,10.67,Critical,Medium
+REC_1290,BLDG_26359,Solar Panel Installation,65000.0,2900.0,22.41,15.17,Low,Medium
+REC_1291,BLDG_357,Solar Panel Installation,525000.0,36200.0,14.5,19.42,Low,Medium
+REC_1292,BLDG_618,LED Lighting Retrofit,23600.0,19600.0,1.2,11.08,Critical,Low
+REC_1293,BLDG_27679,Solar Panel Installation,72800.0,3500.0,20.8,17.5,Low,Medium
+REC_1294,BLDG_51966,Building Automation System,45300.0,17500.0,2.59,15.71,Critical,Medium
+REC_1295,BLDG_25056,Water Efficiency Upgrade,11400.0,5100.0,2.24,2.56,Critical,Low
+REC_1296,BLDG_25895,LED Lighting Retrofit,9000.0,3900.0,2.31,9.89,Critical,Low
+REC_1297,BLDG_50163,HVAC Upgrade,57800.0,11200.0,5.16,25.91,High,Medium
+REC_1298,BLDG_25447,LED Lighting Retrofit,36500.0,17500.0,2.09,10.91,Critical,Low
+REC_1299,BLDG_20056,Solar Panel Installation,453400.0,31100.0,14.58,26.5,Low,Medium
+REC_1300,BLDG_27691,Building Automation System,20400.0,6500.0,3.14,15.49,Critical,Medium
+REC_1301,BLDG_52029,LED Lighting Retrofit,17500.0,2600.0,6.73,10.72,High,Low
+REC_1302,BLDG_50237,LED Lighting Retrofit,70400.0,38200.0,1.84,9.86,Critical,Low
+REC_1303,BLDG_23605,Solar Panel Installation,99800.0,5400.0,18.48,21.8,Low,Medium
+REC_1304,BLDG_25338,Water Efficiency Upgrade,11600.0,5400.0,2.15,4.11,Critical,Low
+REC_1305,BLDG_24746,Solar Panel Installation,110400.0,6200.0,17.81,20.97,Low,Medium
+REC_1306,BLDG_23956,Deep Energy Retrofit,160500.0,26400.0,6.08,38.2,High,High
+REC_1307,BLDG_21313,HVAC Upgrade,123800.0,28300.0,4.37,19.08,Critical,Medium
+REC_1308,BLDG_24458,Deep Energy Retrofit,286100.0,60100.0,4.76,45.81,Critical,High
+REC_1309,BLDG_558,LED Lighting Retrofit,19400.0,48200.0,0.4,9.42,Critical,Low
+REC_1310,BLDG_20296,LED Lighting Retrofit,9900.0,3800.0,2.61,11.84,Critical,Low
+REC_1311,BLDG_21964,LED Lighting Retrofit,9100.0,1500.0,6.07,9.8,High,Low
+REC_1312,BLDG_590,Solar Panel Installation,164800.0,10100.0,16.32,17.8,Low,Medium
+REC_1313,BLDG_50078,Solar Panel Installation,225000.0,14500.0,15.52,24.15,Low,Medium
+REC_1314,BLDG_612,Water Efficiency Upgrade,16600.0,4600.0,3.61,2.0,Critical,Low
+REC_1315,BLDG_25006,Window Replacement,50400.0,3000.0,16.8,11.15,Low,Medium
+REC_1316,BLDG_49850,LED Lighting Retrofit,20800.0,8000.0,2.6,8.8,Critical,Low
+REC_1317,BLDG_49830,LED Lighting Retrofit,9600.0,4800.0,2.0,9.29,Critical,Low
+REC_1318,BLDG_28039,Building Automation System,19000.0,6000.0,3.17,13.59,Critical,Medium
+REC_1319,BLDG_140,Solar Panel Installation,113800.0,6400.0,17.78,19.0,Low,Medium
+REC_1320,BLDG_50092,LED Lighting Retrofit,94000.0,118600.0,0.79,11.83,Critical,Low
+REC_1321,BLDG_21501,LED Lighting Retrofit,22200.0,4500.0,4.93,8.68,High,Low
+REC_1322,BLDG_25751,Solar Panel Installation,65000.0,2900.0,22.41,19.21,Low,Medium
+REC_1323,BLDG_19519,Insulation Improvement,54800.0,7600.0,7.21,15.23,High,Medium
+REC_1324,BLDG_27688,LED Lighting Retrofit,14200.0,5200.0,2.73,11.8,Critical,Low
+REC_1325,BLDG_21530,Water Efficiency Upgrade,7800.0,1200.0,6.5,4.99,High,Low
+REC_1326,BLDG_468,LED Lighting Retrofit,54700.0,17400.0,3.14,10.82,Critical,Low
+REC_1327,BLDG_19794,Water Efficiency Upgrade,14200.0,8000.0,1.78,4.68,Critical,Low
+REC_1328,BLDG_460,Solar Panel Installation,194800.0,12300.0,15.84,22.63,Low,Medium
+REC_1329,BLDG_25028,LED Lighting Retrofit,10000.0,3900.0,2.56,10.63,Critical,Low
+REC_1330,BLDG_51996,LED Lighting Retrofit,12400.0,7700.0,1.61,8.1,Critical,Low
+REC_1331,BLDG_24272,Solar Panel Installation,107400.0,6000.0,17.9,18.72,Low,Medium
+REC_1332,BLDG_21859,Building Automation System,32000.0,13000.0,2.46,12.91,Critical,Medium
+REC_1333,BLDG_21290,LED Lighting Retrofit,27100.0,15600.0,1.74,8.06,Critical,Low
+REC_1334,BLDG_27873,LED Lighting Retrofit,23900.0,20100.0,1.19,9.58,Critical,Low
+REC_1335,BLDG_763,LED Lighting Retrofit,17300.0,13200.0,1.31,8.16,Critical,Low
+REC_1336,BLDG_24426,Building Automation System,17200.0,9200.0,1.87,11.03,Critical,Medium
+REC_1337,BLDG_21262,Window Replacement,67100.0,10600.0,6.33,9.22,High,Medium
+REC_1338,BLDG_50086,Building Automation System,26900.0,20200.0,1.33,10.68,Critical,Medium
+REC_1339,BLDG_21659,Deep Energy Retrofit,199400.0,27100.0,7.36,46.62,High,High
+REC_1340,BLDG_23695,Water Efficiency Upgrade,8900.0,3300.0,2.7,2.2,Critical,Low
+REC_1341,BLDG_43247,Solar Panel Installation,65000.0,2900.0,22.41,18.54,Low,Medium
+REC_1342,BLDG_20846,Building Automation System,22300.0,5000.0,4.46,11.75,High,Medium
+REC_1343,BLDG_239,LED Lighting Retrofit,19300.0,9900.0,1.95,11.23,Critical,Low
+REC_1344,BLDG_49709,HVAC Upgrade,92700.0,197700.0,0.47,19.13,Critical,Medium
+REC_1345,BLDG_21388,LED Lighting Retrofit,10700.0,5200.0,2.06,9.87,Critical,Low
+REC_1346,BLDG_21548,Building Automation System,23000.0,4800.0,4.79,12.86,High,Medium
+REC_1347,BLDG_26266,LED Lighting Retrofit,14800.0,8600.0,1.72,9.5,Critical,Low
+REC_1348,BLDG_19887,Solar Panel Installation,297000.0,19700.0,15.08,19.49,Low,Medium
+REC_1349,BLDG_23458,HVAC Upgrade,47100.0,2400.0,19.62,20.76,Low,Medium
+REC_1350,BLDG_27198,Solar Panel Installation,274400.0,18100.0,15.16,19.21,Low,Medium
+REC_1351,BLDG_20312,Solar Panel Installation,66200.0,3000.0,22.07,26.08,Low,Medium
+REC_1352,BLDG_23502,Solar Panel Installation,66200.0,3000.0,22.07,19.01,Low,Medium
+REC_1353,BLDG_400,Solar Panel Installation,525000.0,36200.0,14.5,15.18,Low,Medium
+REC_1354,BLDG_26717,HVAC Upgrade,51300.0,20200.0,2.54,20.23,Critical,Medium
+REC_1355,BLDG_25716,Solar Panel Installation,65000.0,2900.0,22.41,15.85,Low,Medium
+REC_1356,BLDG_21627,LED Lighting Retrofit,20300.0,15600.0,1.3,8.94,Critical,Low
+REC_1357,BLDG_25931,LED Lighting Retrofit,25100.0,13200.0,1.9,9.42,Critical,Low
+REC_1358,BLDG_50310,Solar Panel Installation,209600.0,13400.0,15.64,15.03,Low,Medium
+REC_1359,BLDG_25235,HVAC Upgrade,76400.0,11200.0,6.82,20.78,High,Medium
+REC_1360,BLDG_50943,Solar Panel Installation,525000.0,36200.0,14.5,20.59,Low,Medium
+REC_1361,BLDG_23517,Water Efficiency Upgrade,9100.0,4300.0,2.12,4.62,Critical,Low
+REC_1362,BLDG_49827,Solar Panel Installation,65000.0,2900.0,22.41,25.55,Low,Medium
+REC_1363,BLDG_20198,LED Lighting Retrofit,15300.0,8700.0,1.76,9.42,Critical,Low
+REC_1364,BLDG_25761,Solar Panel Installation,200000.0,12700.0,15.75,18.59,Low,Medium
+REC_1365,BLDG_353,Solar Panel Installation,525000.0,36200.0,14.5,20.32,Low,Medium
+REC_1366,BLDG_24587,HVAC Upgrade,57600.0,12100.0,4.76,18.52,Critical,Medium
+REC_1367,BLDG_49896,Water Efficiency Upgrade,12500.0,6900.0,1.81,3.98,Critical,Low
+REC_1368,BLDG_20758,Building Automation System,19000.0,7400.0,2.57,11.04,Critical,Medium
+REC_1369,BLDG_24029,Water Efficiency Upgrade,8100.0,2200.0,3.68,2.64,Critical,Low
+REC_1370,BLDG_50664,Solar Panel Installation,95000.0,5100.0,18.63,19.1,Low,Medium
+REC_1371,BLDG_20376,Insulation Improvement,46600.0,8600.0,5.42,13.16,High,Medium
+REC_1372,BLDG_40,Water Efficiency Upgrade,18700.0,12500.0,1.5,3.76,Critical,Low
+REC_1373,BLDG_27264,Building Automation System,18200.0,5700.0,3.19,10.74,Critical,Medium
+REC_1374,BLDG_361,Water Efficiency Upgrade,24600.0,6200.0,3.97,4.76,Critical,Low
+REC_1375,BLDG_21353,Window Replacement,148100.0,18800.0,7.88,11.94,High,Medium
+REC_1376,BLDG_25632,Building Automation System,34000.0,16600.0,2.05,11.39,Critical,Medium
+REC_1377,BLDG_21527,Water Efficiency Upgrade,8100.0,3300.0,2.45,4.07,Critical,Low
+REC_1378,BLDG_26857,Building Automation System,29200.0,10100.0,2.89,15.05,Critical,Medium
+REC_1379,BLDG_23319,HVAC Upgrade,126400.0,20400.0,6.2,25.51,High,Medium
+REC_1380,BLDG_50182,Water Efficiency Upgrade,11700.0,5200.0,2.25,2.13,Critical,Low
+REC_1381,BLDG_19536,Solar Panel Installation,76600.0,3700.0,20.7,25.98,Low,Medium
+REC_1382,BLDG_24846,HVAC Upgrade,44100.0,7300.0,6.04,23.86,High,Medium
+REC_1383,BLDG_20868,Solar Panel Installation,299800.0,19900.0,15.07,23.36,Low,Medium
+REC_1384,BLDG_21601,Building Automation System,35500.0,17800.0,1.99,15.55,Critical,Medium
+REC_1385,BLDG_50038,Building Automation System,17900.0,2900.0,6.17,15.63,High,Medium
+REC_1386,BLDG_49775,Water Efficiency Upgrade,15000.0,3100.0,4.84,3.81,High,Low
+REC_1387,BLDG_629,Building Automation System,25400.0,5700.0,4.46,10.4,High,Medium
+REC_1388,BLDG_23958,Deep Energy Retrofit,147300.0,32300.0,4.56,45.6,Critical,High
+REC_1389,BLDG_19931,Solar Panel Installation,324600.0,21700.0,14.96,24.04,Low,Medium
+REC_1390,BLDG_50921,LED Lighting Retrofit,13500.0,8700.0,1.55,10.69,Critical,Low
+REC_1391,BLDG_25541,HVAC Upgrade,70600.0,12400.0,5.69,20.98,Critical,Medium
+REC_1392,BLDG_624,Solar Panel Installation,192400.0,12100.0,15.9,16.86,Low,Medium
+REC_1393,BLDG_595,Water Efficiency Upgrade,13700.0,3400.0,4.03,3.89,High,Low
+REC_1394,BLDG_20585,LED Lighting Retrofit,11400.0,6400.0,1.78,9.11,Critical,Low
+REC_1395,BLDG_626,Solar Panel Installation,130000.0,7600.0,17.11,19.69,Low,Medium
+REC_1396,BLDG_50344,Building Automation System,21700.0,8800.0,2.47,15.13,Critical,Medium
+REC_1397,BLDG_27363,HVAC Upgrade,53900.0,8200.0,6.57,25.65,High,Medium
+REC_1398,BLDG_20837,Solar Panel Installation,245400.0,16000.0,15.34,15.34,Low,Medium
+REC_1399,BLDG_50929,Building Automation System,74900.0,33800.0,2.22,11.58,Critical,Medium
+REC_1400,BLDG_24356,Solar Panel Installation,88200.0,4600.0,19.17,26.96,Low,Medium
+REC_1401,BLDG_609,Water Efficiency Upgrade,18200.0,5000.0,3.64,2.11,Critical,Low
+REC_1402,BLDG_25196,Water Efficiency Upgrade,10400.0,4500.0,2.31,4.75,Critical,Low
+REC_1403,BLDG_21539,Solar Panel Installation,105400.0,5800.0,18.17,19.26,Low,Medium
+REC_1404,BLDG_215,Solar Panel Installation,147800.0,8900.0,16.61,15.96,Low,Medium
+REC_1405,BLDG_50499,Building Automation System,21400.0,4700.0,4.55,10.08,High,Medium
+REC_1406,BLDG_25708,HVAC Upgrade,64100.0,19100.0,3.36,18.2,Critical,Medium
+REC_1407,BLDG_50874,Building Automation System,68000.0,35400.0,1.92,14.41,Critical,Medium
+REC_1408,BLDG_21731,LED Lighting Retrofit,25200.0,12700.0,1.98,11.08,Critical,Low
+REC_1409,BLDG_23,Solar Panel Installation,525000.0,36200.0,14.5,15.43,Low,Medium
+REC_1410,BLDG_21424,HVAC Upgrade,48700.0,6500.0,7.49,20.87,High,Medium
+REC_1411,BLDG_21179,HVAC Upgrade,51600.0,12300.0,4.2,22.56,Critical,Medium
+REC_1412,BLDG_334,Solar Panel Installation,525000.0,36200.0,14.5,20.09,Low,Medium
+REC_1413,BLDG_19848,Solar Panel Installation,91600.0,4800.0,19.08,17.2,Low,Medium
+REC_1414,BLDG_50638,Solar Panel Installation,199400.0,12600.0,15.83,18.72,Low,Medium
+REC_1415,BLDG_832,Solar Panel Installation,145400.0,8700.0,16.71,24.63,Low,Medium
+REC_1416,BLDG_19895,HVAC Upgrade,78900.0,17400.0,4.53,24.86,Critical,Medium
+REC_1417,BLDG_23782,Water Efficiency Upgrade,10100.0,4000.0,2.52,3.16,Critical,Low
+REC_1418,BLDG_24191,Solar Panel Installation,137600.0,8200.0,16.78,23.0,Low,Medium
+REC_1419,BLDG_50192,Solar Panel Installation,525000.0,36200.0,14.5,20.51,Low,Medium
+REC_1420,BLDG_43,HVAC Upgrade,2953200.0,3452600.0,0.86,19.01,Critical,Medium
+REC_1421,BLDG_24250,HVAC Upgrade,44700.0,6600.0,6.77,25.02,High,Medium
+REC_1422,BLDG_24921,Building Automation System,25300.0,7800.0,3.24,13.0,Critical,Medium
+REC_1423,BLDG_25354,Solar Panel Installation,280200.0,18500.0,15.15,21.13,Low,Medium
+REC_1424,BLDG_774,Solar Panel Installation,328400.0,22000.0,14.93,23.33,Low,Medium
+REC_1425,BLDG_26204,Water Efficiency Upgrade,10100.0,4600.0,2.2,4.22,Critical,Low
+REC_1426,BLDG_50033,Solar Panel Installation,134400.0,7900.0,17.01,15.03,Low,Medium
+REC_1427,BLDG_50174,Water Efficiency Upgrade,19800.0,12700.0,1.56,3.13,Critical,Low
+REC_1428,BLDG_19845,Solar Panel Installation,65000.0,2900.0,22.41,23.33,Low,Medium
+REC_1429,BLDG_26728,Insulation Improvement,31100.0,17900.0,1.74,12.74,Critical,Medium
+REC_1430,BLDG_27684,Building Automation System,28600.0,7600.0,3.76,14.66,Critical,Medium
+REC_1431,BLDG_25054,Solar Panel Installation,186000.0,11700.0,15.9,20.06,Low,Medium
+REC_1432,BLDG_24102,HVAC Upgrade,44800.0,10200.0,4.39,20.35,Critical,Medium
+REC_1433,BLDG_19956,LED Lighting Retrofit,20300.0,23800.0,0.85,10.77,Critical,Low
+REC_1434,BLDG_459,Water Efficiency Upgrade,20000.0,5600.0,3.57,4.95,Critical,Low
+REC_1435,BLDG_50668,Building Automation System,28800.0,24300.0,1.19,15.82,Critical,Medium
+REC_1436,BLDG_22511,Water Efficiency Upgrade,14200.0,5200.0,2.73,2.48,Critical,Low
+REC_1437,BLDG_21651,Insulation Improvement,100600.0,45000.0,2.24,12.8,Critical,Medium
+REC_1438,BLDG_15,Solar Panel Installation,229200.0,14800.0,15.49,23.69,Low,Medium
+REC_1439,BLDG_25679,Insulation Improvement,33300.0,11100.0,3.0,17.92,Critical,Medium
+REC_1440,BLDG_639,Solar Panel Installation,105800.0,5900.0,17.93,22.07,Low,Medium
+REC_1441,BLDG_23730,LED Lighting Retrofit,16200.0,3300.0,4.91,11.93,High,Low
+REC_1442,BLDG_19459,Building Automation System,18500.0,4800.0,3.85,11.91,Critical,Medium
+REC_1443,BLDG_24862,Building Automation System,19500.0,8700.0,2.24,11.01,Critical,Medium
+REC_1444,BLDG_266,Water Efficiency Upgrade,13400.0,7000.0,1.91,2.64,Critical,Low
+REC_1445,BLDG_25184,LED Lighting Retrofit,9000.0,6200.0,1.45,11.52,Critical,Low
+REC_1446,BLDG_341,Solar Panel Installation,525000.0,36200.0,14.5,19.1,Low,Medium
+REC_1447,BLDG_294,LED Lighting Retrofit,33100.0,9200.0,3.6,9.81,Critical,Low
+REC_1448,BLDG_50716,Building Automation System,32700.0,13500.0,2.42,11.77,Critical,Medium
+REC_1449,BLDG_274,Solar Panel Installation,125600.0,7300.0,17.21,26.31,Low,Medium
+REC_1450,BLDG_23173,Water Efficiency Upgrade,7900.0,3300.0,2.39,4.97,Critical,Low
+REC_1451,BLDG_27799,LED Lighting Retrofit,33700.0,28800.0,1.17,8.89,Critical,Low
+REC_1452,BLDG_21662,Insulation Improvement,22700.0,3900.0,5.82,14.85,Critical,Medium
+REC_1453,BLDG_25127,Building Automation System,19700.0,3800.0,5.18,14.33,High,Medium
+REC_1454,BLDG_286,Solar Panel Installation,384000.0,26000.0,14.77,23.68,Low,Medium
+REC_1455,BLDG_50763,LED Lighting Retrofit,12400.0,500.0,24.8,10.91,Low,Low
+REC_1456,BLDG_27107,LED Lighting Retrofit,33600.0,7100.0,4.73,8.17,High,Low
+REC_1457,BLDG_24494,LED Lighting Retrofit,29800.0,15600.0,1.91,10.18,Critical,Low
+REC_1458,BLDG_20815,Solar Panel Installation,65000.0,2900.0,22.41,23.25,Low,Medium
+REC_1459,BLDG_26842,Water Efficiency Upgrade,8200.0,3000.0,2.73,3.58,Critical,Low
+REC_1460,BLDG_49779,Solar Panel Installation,76200.0,3700.0,20.59,23.75,Low,Medium
+REC_1461,BLDG_26922,Building Automation System,20700.0,8200.0,2.52,11.03,Critical,Medium
+REC_1462,BLDG_20447,Building Automation System,17900.0,9800.0,1.83,15.18,Critical,Medium
+REC_1463,BLDG_25426,Solar Panel Installation,86800.0,4500.0,19.29,16.65,Low,Medium
+REC_1464,BLDG_50882,Solar Panel Installation,525000.0,36200.0,14.5,18.32,Low,Medium
+REC_1465,BLDG_25914,LED Lighting Retrofit,15500.0,80400.0,0.19,11.06,Critical,Low
+REC_1466,BLDG_20132,Window Replacement,51600.0,2900.0,17.79,12.63,Low,Medium
+REC_1467,BLDG_50014,Solar Panel Installation,525000.0,36200.0,14.5,17.19,Low,Medium
+REC_1468,BLDG_21488,Building Automation System,37700.0,10600.0,3.56,11.73,Critical,Medium
+REC_1469,BLDG_27302,Solar Panel Installation,84000.0,4300.0,19.53,24.79,Low,Medium
+REC_1470,BLDG_26738,Building Automation System,18100.0,4900.0,3.69,11.48,Critical,Medium
+REC_1471,BLDG_27683,Water Efficiency Upgrade,10700.0,4800.0,2.23,2.25,Critical,Low
+REC_1472,BLDG_446,LED Lighting Retrofit,19500.0,9400.0,2.07,10.25,Critical,Low
+REC_1473,BLDG_21049,Water Efficiency Upgrade,8000.0,2600.0,3.08,3.25,Critical,Low
+REC_1474,BLDG_49946,Building Automation System,23400.0,29500.0,0.79,13.26,Critical,Medium
+REC_1475,BLDG_24363,HVAC Upgrade,45300.0,13800.0,3.28,18.04,Critical,Medium
+REC_1476,BLDG_26761,HVAC Upgrade,79500.0,13000.0,6.12,18.97,High,Medium
+REC_1477,BLDG_21134,LED Lighting Retrofit,66000.0,19800.0,3.33,9.09,Critical,Low
+REC_1478,BLDG_50776,Building Automation System,18500.0,8500.0,2.18,14.82,Critical,Medium
+REC_1479,BLDG_25513,Water Efficiency Upgrade,7900.0,1800.0,4.39,3.35,High,Low
+REC_1480,BLDG_49920,Solar Panel Installation,525000.0,36200.0,14.5,22.79,Low,Medium
+REC_1481,BLDG_50313,Building Automation System,34900.0,17500.0,1.99,14.36,Critical,Medium
+REC_1482,BLDG_23689,Deep Energy Retrofit,161700.0,701200.0,0.23,46.3,Critical,High
+REC_1483,BLDG_25898,Water Efficiency Upgrade,11800.0,5900.0,2.0,4.96,Critical,Low
+REC_1484,BLDG_25000,Solar Panel Installation,65000.0,2900.0,22.41,17.04,Low,Medium
+REC_1485,BLDG_23815,Solar Panel Installation,141000.0,8400.0,16.79,25.82,Low,Medium
+REC_1486,BLDG_568,Solar Panel Installation,456800.0,31300.0,14.59,28.0,Low,Medium
+REC_1487,BLDG_169,Solar Panel Installation,411200.0,28000.0,14.69,21.57,Low,Medium
+REC_1488,BLDG_20724,Building Automation System,18100.0,7300.0,2.48,15.22,Critical,Medium
+REC_1489,BLDG_22440,Water Efficiency Upgrade,8200.0,1100.0,7.45,3.33,Medium,Low
+REC_1490,BLDG_803,Solar Panel Installation,138600.0,8200.0,16.9,17.01,Low,Medium
+REC_1491,BLDG_20087,Window Replacement,92500.0,6600.0,14.02,13.96,Low,Medium
+REC_1492,BLDG_27252,Water Efficiency Upgrade,25900.0,17900.0,1.45,2.24,Critical,Low
+REC_1493,BLDG_28014,LED Lighting Retrofit,13000.0,5600.0,2.32,8.88,Critical,Low
+REC_1494,BLDG_28033,Solar Panel Installation,65000.0,2900.0,22.41,18.66,Low,Medium
+REC_1495,BLDG_19787,Insulation Improvement,23000.0,3900.0,5.9,14.85,High,Medium
+REC_1496,BLDG_50262,Solar Panel Installation,452400.0,31000.0,14.59,26.28,Low,Medium
+REC_1497,BLDG_50096,Solar Panel Installation,525000.0,36200.0,14.5,19.33,Low,Medium
+REC_1498,BLDG_22340,LED Lighting Retrofit,8700.0,1400.0,6.21,9.28,High,Low
+REC_1499,BLDG_27903,Deep Energy Retrofit,290900.0,48200.0,6.04,32.1,High,High
+REC_1500,BLDG_703,Window Replacement,317500.0,45500.0,6.98,13.33,High,Medium
+REC_1501,BLDG_23457,Solar Panel Installation,65000.0,2900.0,22.41,25.22,Low,Medium
+REC_1502,BLDG_26393,LED Lighting Retrofit,12500.0,10400.0,1.2,10.3,Critical,Low
+REC_1503,BLDG_50294,LED Lighting Retrofit,450800.0,349900.0,1.29,8.47,Critical,Low
+REC_1504,BLDG_427,Building Automation System,140000.0,71200.0,1.97,12.55,Critical,Medium
+REC_1505,BLDG_20764,Window Replacement,148400.0,14900.0,9.96,12.66,Medium,Medium
+REC_1506,BLDG_50298,HVAC Upgrade,657500.0,360700.0,1.82,23.93,Critical,Medium
+REC_1507,BLDG_19881,Water Efficiency Upgrade,16500.0,10000.0,1.65,4.53,Critical,Low
+REC_1508,BLDG_25160,Solar Panel Installation,120200.0,6900.0,17.42,26.07,Low,Medium
+REC_1509,BLDG_21520,LED Lighting Retrofit,18300.0,7900.0,2.32,11.48,Critical,Low
+REC_1510,BLDG_767,Solar Panel Installation,416400.0,28400.0,14.66,18.46,Low,Medium
+REC_1511,BLDG_50366,Building Automation System,50200.0,48000.0,1.05,10.78,Critical,Medium
+REC_1512,BLDG_714,Solar Panel Installation,347200.0,23400.0,14.84,15.91,Low,Medium
+REC_1513,BLDG_26667,HVAC Upgrade,45600.0,12000.0,3.8,23.51,Critical,Medium
+REC_1514,BLDG_783,Deep Energy Retrofit,322000.0,73400.0,4.39,37.13,High,High
+REC_1515,BLDG_415,Solar Panel Installation,525000.0,36200.0,14.5,21.9,Low,Medium
+REC_1516,BLDG_22150,Building Automation System,27000.0,12100.0,2.23,11.25,Critical,Medium
+REC_1517,BLDG_20130,LED Lighting Retrofit,9700.0,2900.0,3.34,11.04,Critical,Low
+REC_1518,BLDG_19860,HVAC Upgrade,53900.0,10600.0,5.08,25.34,Critical,Medium
+REC_1519,BLDG_27387,Building Automation System,17600.0,3000.0,5.87,14.35,High,Medium
+REC_1520,BLDG_29788,LED Lighting Retrofit,18100.0,17500.0,1.03,9.4,Critical,Low
+REC_1521,BLDG_19462,Insulation Improvement,40700.0,11400.0,3.57,12.75,Critical,Medium
+REC_1522,BLDG_22395,Window Replacement,67900.0,4600.0,14.76,10.88,Low,Medium
+REC_1523,BLDG_430,Window Replacement,109700.0,17900.0,6.13,11.14,High,Medium
+REC_1524,BLDG_19766,Solar Panel Installation,65000.0,2900.0,22.41,20.12,Low,Medium
+REC_1525,BLDG_27574,Water Efficiency Upgrade,7800.0,3000.0,2.6,3.66,Critical,Low
+REC_1526,BLDG_20720,Insulation Improvement,36400.0,5300.0,6.87,13.21,High,Medium
+REC_1527,BLDG_21112,Water Efficiency Upgrade,20400.0,12600.0,1.62,4.36,Critical,Low
+REC_1528,BLDG_50871,LED Lighting Retrofit,10200.0,25100.0,0.41,8.03,Critical,Low
+REC_1529,BLDG_23167,Solar Panel Installation,84400.0,4300.0,19.63,15.73,Low,Medium
+REC_1530,BLDG_23164,LED Lighting Retrofit,22700.0,11500.0,1.97,9.7,Critical,Low
+REC_1531,BLDG_27359,LED Lighting Retrofit,27600.0,12200.0,2.26,11.56,Critical,Low
+REC_1532,BLDG_24911,LED Lighting Retrofit,13000.0,6400.0,2.03,8.96,Critical,Low
+REC_1533,BLDG_50153,LED Lighting Retrofit,42000.0,18700.0,2.25,11.63,Critical,Low
+REC_1534,BLDG_26948,LED Lighting Retrofit,9800.0,1800.0,5.44,9.24,High,Low
+REC_1535,BLDG_24179,Water Efficiency Upgrade,15500.0,8700.0,1.78,2.34,Critical,Low
+REC_1536,BLDG_24492,HVAC Upgrade,133100.0,34800.0,3.82,18.61,Critical,Medium
+REC_1537,BLDG_205,Solar Panel Installation,348800.0,23500.0,14.84,22.09,Low,Medium
+REC_1538,BLDG_50742,Solar Panel Installation,185800.0,11700.0,15.88,21.89,Low,Medium
+REC_1539,BLDG_50682,Deep Energy Retrofit,165000.0,23500.0,7.02,47.52,High,High
+REC_1540,BLDG_35,Solar Panel Installation,116200.0,6600.0,17.61,15.7,Low,Medium
+REC_1541,BLDG_49791,Solar Panel Installation,93600.0,5000.0,18.72,21.04,Low,Medium
+REC_1542,BLDG_26004,LED Lighting Retrofit,12300.0,2400.0,5.12,11.89,High,Low
+REC_1543,BLDG_26152,LED Lighting Retrofit,10000.0,9300.0,1.08,11.66,Critical,Low
+REC_1544,BLDG_24161,Solar Panel Installation,65000.0,2900.0,22.41,22.24,Low,Medium
+REC_1545,BLDG_26075,LED Lighting Retrofit,10900.0,5800.0,1.88,10.37,Critical,Low
+REC_1546,BLDG_26849,Solar Panel Installation,65000.0,2900.0,22.41,24.79,Low,Medium
+REC_1547,BLDG_20565,Window Replacement,58500.0,30500.0,1.92,12.16,Critical,Medium
+REC_1548,BLDG_27924,LED Lighting Retrofit,13200.0,6100.0,2.16,9.14,Critical,Low
+REC_1549,BLDG_21735,Solar Panel Installation,374400.0,25300.0,14.8,26.36,Low,Medium
+REC_1550,BLDG_792,LED Lighting Retrofit,29200.0,37600.0,0.78,11.92,Critical,Low
+REC_1551,BLDG_21476,Solar Panel Installation,525000.0,36200.0,14.5,24.04,Low,Medium
+REC_1552,BLDG_22519,HVAC Upgrade,62600.0,68100.0,0.92,19.24,Critical,Medium
+REC_1553,BLDG_359,Insulation Improvement,147700.0,52100.0,2.83,14.26,Critical,Medium
+REC_1554,BLDG_50261,Solar Panel Installation,197400.0,12500.0,15.79,21.04,Low,Medium
+REC_1555,BLDG_21483,Insulation Improvement,36500.0,10200.0,3.58,17.41,Critical,Medium
+REC_1556,BLDG_40348,HVAC Upgrade,219200.0,104600.0,2.1,19.99,Critical,Medium
+REC_1557,BLDG_26281,Water Efficiency Upgrade,9500.0,4500.0,2.11,4.33,Critical,Low
+REC_1558,BLDG_24643,Water Efficiency Upgrade,22100.0,12600.0,1.75,4.91,Critical,Low
+REC_1559,BLDG_50770,LED Lighting Retrofit,18600.0,7500.0,2.48,11.81,Critical,Low
+REC_1560,BLDG_25789,Building Automation System,17100.0,3200.0,5.34,10.13,High,Medium
+REC_1561,BLDG_50933,Water Efficiency Upgrade,23400.0,13700.0,1.71,4.75,Critical,Low
+REC_1562,BLDG_50090,Water Efficiency Upgrade,15500.0,8500.0,1.82,3.96,Critical,Low
+REC_1563,BLDG_25643,Building Automation System,41600.0,6200.0,6.71,10.74,High,Medium
+REC_1564,BLDG_24397,LED Lighting Retrofit,13100.0,4800.0,2.73,8.35,Critical,Low
+REC_1565,BLDG_24623,Solar Panel Installation,239400.0,15500.0,15.45,21.77,Low,Medium
+REC_1566,BLDG_27699,Water Efficiency Upgrade,12100.0,5900.0,2.05,2.34,Critical,Low
+REC_1567,BLDG_398,HVAC Upgrade,522900.0,77500.0,6.75,23.88,High,Medium
+REC_1568,BLDG_19662,LED Lighting Retrofit,19500.0,21300.0,0.92,11.96,Critical,Low
+REC_1569,BLDG_27738,Water Efficiency Upgrade,8500.0,3400.0,2.5,2.13,Critical,Low
+REC_1570,BLDG_185,Solar Panel Installation,340600.0,22900.0,14.87,27.37,Low,Medium
+REC_1571,BLDG_21129,Building Automation System,16200.0,7100.0,2.28,15.29,Critical,Medium
+REC_1572,BLDG_22223,Building Automation System,21400.0,11600.0,1.84,13.86,Critical,Medium
+REC_1573,BLDG_21535,HVAC Upgrade,70900.0,25300.0,2.8,21.39,Critical,Medium
+REC_1574,BLDG_50743,Solar Panel Installation,390600.0,26500.0,14.74,19.57,Low,Medium
+REC_1575,BLDG_50083,Solar Panel Installation,259400.0,17000.0,15.26,17.43,Low,Medium
+REC_1576,BLDG_21145,Deep Energy Retrofit,209500.0,41900.0,5.0,45.08,Critical,High
+REC_1577,BLDG_771,Solar Panel Installation,237000.0,15400.0,15.39,21.01,Low,Medium
+REC_1578,BLDG_21674,LED Lighting Retrofit,9200.0,4900.0,1.88,9.52,Critical,Low
+REC_1579,BLDG_27095,Solar Panel Installation,74000.0,3600.0,20.56,18.5,Low,Medium
+REC_1580,BLDG_27985,Solar Panel Installation,70400.0,3300.0,21.33,23.59,Low,Medium
+REC_1581,BLDG_20675,Water Efficiency Upgrade,14700.0,7600.0,1.93,2.55,Critical,Low
+REC_1582,BLDG_21266,LED Lighting Retrofit,13700.0,7600.0,1.8,8.85,Critical,Low
+REC_1583,BLDG_20523,Solar Panel Installation,65000.0,2900.0,22.41,24.13,Low,Medium
+REC_1584,BLDG_52010,Building Automation System,41200.0,9900.0,4.16,15.59,High,Medium
+REC_1585,BLDG_23579,Building Automation System,17000.0,7900.0,2.15,12.8,Critical,Medium
+REC_1586,BLDG_623,Water Efficiency Upgrade,20700.0,7200.0,2.88,2.01,Critical,Low
+REC_1587,BLDG_437,Solar Panel Installation,379600.0,25700.0,14.77,23.92,Low,Medium
+REC_1588,BLDG_25737,HVAC Upgrade,152900.0,48300.0,3.17,25.74,Critical,Medium
+REC_1589,BLDG_50093,Building Automation System,39100.0,12800.0,3.05,10.72,Critical,Medium
+REC_1590,BLDG_21549,Deep Energy Retrofit,204500.0,171100.0,1.2,45.1,Critical,High
+REC_1591,BLDG_26061,LED Lighting Retrofit,13300.0,2200.0,6.05,11.0,High,Low
+REC_1592,BLDG_21480,Water Efficiency Upgrade,9700.0,4500.0,2.16,3.2,Critical,Low
+REC_1593,BLDG_257,Insulation Improvement,63700.0,7400.0,8.61,17.85,High,Medium
+REC_1594,BLDG_21570,Building Automation System,39300.0,15100.0,2.6,15.4,Critical,Medium
+REC_1595,BLDG_50193,HVAC Upgrade,83700.0,23400.0,3.58,18.86,Critical,Medium
+REC_1596,BLDG_26740,Water Efficiency Upgrade,15400.0,8600.0,1.79,3.93,Critical,Low
+REC_1597,BLDG_408,Solar Panel Installation,201400.0,12800.0,15.73,18.66,Low,Medium
+REC_1598,BLDG_27274,Solar Panel Installation,74800.0,3600.0,20.78,24.65,Low,Medium
+REC_1599,BLDG_29448,Solar Panel Installation,124000.0,7200.0,17.22,19.52,Low,Medium
+REC_1600,BLDG_23495,Insulation Improvement,58900.0,3300.0,17.85,17.75,Low,Medium
+REC_1601,BLDG_19749,LED Lighting Retrofit,43700.0,18100.0,2.41,11.03,Critical,Low
+REC_1602,BLDG_21565,Deep Energy Retrofit,276300.0,25700.0,10.75,33.99,Medium,High
+REC_1603,BLDG_21660,Building Automation System,16700.0,4300.0,3.88,10.2,Critical,Medium
+REC_1604,BLDG_573,Solar Panel Installation,217800.0,14000.0,15.56,23.94,Low,Medium
+REC_1605,BLDG_21787,Building Automation System,21200.0,4100.0,5.17,14.09,High,Medium
+REC_1606,BLDG_25531,Building Automation System,24500.0,5600.0,4.38,15.82,High,Medium
+REC_1607,BLDG_23419,Window Replacement,51400.0,10600.0,4.85,10.04,High,Medium
+REC_1608,BLDG_49728,Solar Panel Installation,525000.0,36200.0,14.5,18.0,Low,Medium
+REC_1609,BLDG_20029,Building Automation System,16500.0,4200.0,3.93,10.34,Critical,Medium
+REC_1610,BLDG_24276,Solar Panel Installation,83600.0,4200.0,19.9,16.6,Low,Medium
+REC_1611,BLDG_21807,HVAC Upgrade,73500.0,23100.0,3.18,21.21,Critical,Medium
+REC_1612,BLDG_25266,Building Automation System,16500.0,5100.0,3.24,11.75,Critical,Medium
+REC_1613,BLDG_25243,Insulation Improvement,28200.0,3900.0,7.23,12.43,High,Medium
+REC_1614,BLDG_20094,HVAC Upgrade,275600.0,59900.0,4.6,19.18,High,Medium
+REC_1615,BLDG_25671,Solar Panel Installation,74200.0,3600.0,20.61,26.35,Low,Medium
+REC_1616,BLDG_26210,LED Lighting Retrofit,11500.0,4300.0,2.67,9.86,Critical,Low
+REC_1617,BLDG_27216,Water Efficiency Upgrade,9400.0,4200.0,2.24,2.45,Critical,Low
+REC_1618,BLDG_23836,Deep Energy Retrofit,161700.0,22900.0,7.06,32.37,High,High
+REC_1619,BLDG_21871,LED Lighting Retrofit,13000.0,6900.0,1.88,11.79,Critical,Low
+REC_1620,BLDG_20456,Solar Panel Installation,76200.0,3700.0,20.59,17.37,Low,Medium
+REC_1621,BLDG_26938,Solar Panel Installation,79800.0,4000.0,19.95,19.01,Low,Medium
+REC_1622,BLDG_21339,HVAC Upgrade,206400.0,23000.0,8.97,20.82,High,Medium
+REC_1623,BLDG_19565,Building Automation System,18200.0,4300.0,4.23,11.22,High,Medium
+REC_1624,BLDG_27300,Solar Panel Installation,246000.0,16000.0,15.38,15.15,Low,Medium
+REC_1625,BLDG_26751,Water Efficiency Upgrade,10200.0,4100.0,2.49,4.4,Critical,Low
+REC_1626,BLDG_27369,Window Replacement,157300.0,19100.0,8.24,12.43,High,Medium
+REC_1627,BLDG_50189,Solar Panel Installation,263200.0,17300.0,15.21,20.92,Low,Medium
+REC_1628,BLDG_296,Deep Energy Retrofit,297800.0,40500.0,7.35,45.63,High,High
+REC_1629,BLDG_50506,LED Lighting Retrofit,14500.0,9400.0,1.54,10.12,Critical,Low
+REC_1630,BLDG_50022,Water Efficiency Upgrade,8000.0,2900.0,2.76,2.61,Critical,Low
+REC_1631,BLDG_50703,Building Automation System,275400.0,134600.0,2.05,13.34,Critical,Medium
+REC_1632,BLDG_50862,Building Automation System,36200.0,13000.0,2.78,14.96,Critical,Medium
+REC_1633,BLDG_23430,LED Lighting Retrofit,12000.0,8000.0,1.5,9.0,Critical,Low
+REC_1634,BLDG_605,Solar Panel Installation,234000.0,15200.0,15.39,22.1,Low,Medium
+REC_1635,BLDG_24805,LED Lighting Retrofit,11400.0,3500.0,3.26,9.57,Critical,Low
+REC_1636,BLDG_20112,Building Automation System,18800.0,4200.0,4.48,10.17,High,Medium
+REC_1637,BLDG_23557,Building Automation System,17600.0,5100.0,3.45,14.26,Critical,Medium
+REC_1638,BLDG_25371,Water Efficiency Upgrade,9100.0,1500.0,6.07,4.5,High,Low
+REC_1639,BLDG_27602,Building Automation System,42400.0,13600.0,3.12,12.56,Critical,Medium
+REC_1640,BLDG_50333,LED Lighting Retrofit,69200.0,85500.0,0.81,9.26,Critical,Low
+REC_1641,BLDG_50019,Building Automation System,20200.0,7400.0,2.73,15.71,Critical,Medium
+REC_1642,BLDG_25410,Deep Energy Retrofit,839100.0,174200.0,4.82,36.46,Critical,High
+REC_1643,BLDG_50181,Building Automation System,26800.0,12300.0,2.18,14.53,Critical,Medium
+REC_1644,BLDG_24216,LED Lighting Retrofit,11100.0,6900.0,1.61,9.0,Critical,Low
+REC_1645,BLDG_19454,Building Automation System,25400.0,7900.0,3.22,12.21,Critical,Medium
+REC_1646,BLDG_19905,Building Automation System,16400.0,6000.0,2.73,13.09,Critical,Medium
+REC_1647,BLDG_22194,Water Efficiency Upgrade,12100.0,5300.0,2.28,4.19,Critical,Low
+REC_1648,BLDG_50240,Solar Panel Installation,432400.0,29500.0,14.66,26.22,Low,Medium
+REC_1649,BLDG_50430,Building Automation System,56900.0,17300.0,3.29,10.97,Critical,Medium
+REC_1650,BLDG_41068,LED Lighting Retrofit,15100.0,6800.0,2.22,11.33,Critical,Low
+REC_1651,BLDG_327,Solar Panel Installation,525000.0,36200.0,14.5,15.54,Low,Medium
+REC_1652,BLDG_12,Solar Panel Installation,243600.0,15800.0,15.42,25.45,Low,Medium
+REC_1653,BLDG_25935,HVAC Upgrade,46300.0,9600.0,4.82,21.86,Critical,Medium
+REC_1654,BLDG_19440,Water Efficiency Upgrade,9600.0,3800.0,2.53,4.47,Critical,Low
+REC_1655,BLDG_24571,Building Automation System,22100.0,8100.0,2.73,15.3,Critical,Medium
+REC_1656,BLDG_29551,Solar Panel Installation,116200.0,6600.0,17.61,26.88,Low,Medium
+REC_1657,BLDG_26217,LED Lighting Retrofit,18500.0,6000.0,3.08,9.39,Critical,Low
+REC_1658,BLDG_23940,LED Lighting Retrofit,13500.0,6000.0,2.25,11.71,Critical,Low
+REC_1659,BLDG_19986,Solar Panel Installation,85400.0,4400.0,19.41,18.18,Low,Medium
+REC_1660,BLDG_19489,HVAC Upgrade,82200.0,10900.0,7.54,20.56,High,Medium
+REC_1661,BLDG_27184,Building Automation System,22200.0,8600.0,2.58,11.27,Critical,Medium
+REC_1662,BLDG_584,Solar Panel Installation,92200.0,4900.0,18.82,20.47,Low,Medium
+REC_1663,BLDG_25945,Water Efficiency Upgrade,9700.0,4900.0,1.98,4.83,Critical,Low
+REC_1664,BLDG_20028,Water Efficiency Upgrade,15700.0,8000.0,1.96,3.42,Critical,Low
+REC_1665,BLDG_718,Insulation Improvement,87000.0,37600.0,2.31,12.48,Critical,Medium
+REC_1666,BLDG_226,Water Efficiency Upgrade,12400.0,2600.0,4.77,4.34,High,Low
+REC_1667,BLDG_19927,LED Lighting Retrofit,15400.0,6800.0,2.26,11.66,Critical,Low
+REC_1668,BLDG_50932,LED Lighting Retrofit,31000.0,16400.0,1.89,11.76,Critical,Low
+REC_1669,BLDG_23078,Building Automation System,16100.0,2700.0,5.96,11.92,High,Medium
+REC_1670,BLDG_25747,LED Lighting Retrofit,32200.0,4600.0,7.0,11.93,Medium,Low
+REC_1671,BLDG_23561,Building Automation System,23000.0,5300.0,4.34,12.57,High,Medium
+REC_1672,BLDG_50024,Solar Panel Installation,443200.0,30300.0,14.63,19.73,Low,Medium
+REC_1673,BLDG_50318,LED Lighting Retrofit,22400.0,3800.0,5.89,10.97,High,Low
+REC_1674,BLDG_25368,Solar Panel Installation,299400.0,19900.0,15.05,24.36,Low,Medium
+REC_1675,BLDG_25111,Solar Panel Installation,65000.0,2900.0,22.41,17.18,Low,Medium
+REC_1676,BLDG_25693,Water Efficiency Upgrade,12500.0,7100.0,1.76,2.05,Critical,Low
+REC_1677,BLDG_20597,LED Lighting Retrofit,10000.0,3800.0,2.63,11.28,Critical,Low
+REC_1678,BLDG_50891,Solar Panel Installation,492000.0,33900.0,14.51,27.05,Low,Medium
+REC_1679,BLDG_710,HVAC Upgrade,379000.0,110700.0,3.42,21.4,Critical,Medium
+REC_1680,BLDG_634,Solar Panel Installation,525000.0,36200.0,14.5,15.1,Low,Medium
+REC_1681,BLDG_50457,Solar Panel Installation,390400.0,26500.0,14.73,16.2,Low,Medium
+REC_1682,BLDG_50670,Building Automation System,17100.0,1800.0,9.5,10.58,Medium,Medium
+REC_1683,BLDG_50860,Water Efficiency Upgrade,12500.0,6400.0,1.95,2.77,Critical,Low
+REC_1684,BLDG_22902,Water Efficiency Upgrade,9200.0,3800.0,2.42,4.89,Critical,Low
+REC_1685,BLDG_27494,Building Automation System,21900.0,5000.0,4.38,11.78,High,Medium
+REC_1686,BLDG_50868,Solar Panel Installation,82400.0,4200.0,19.62,27.92,Low,Medium
+REC_1687,BLDG_20861,Solar Panel Installation,65000.0,2900.0,22.41,17.72,Low,Medium
+REC_1688,BLDG_50323,Water Efficiency Upgrade,12300.0,5900.0,2.08,3.85,Critical,Low
+REC_1689,BLDG_23791,Insulation Improvement,28900.0,4200.0,6.88,17.53,High,Medium
+REC_1690,BLDG_50863,HVAC Upgrade,144300.0,40600.0,3.55,19.2,Critical,Medium
+REC_1691,BLDG_19590,LED Lighting Retrofit,9700.0,4200.0,2.31,9.37,Critical,Low
+REC_1692,BLDG_21556,Solar Panel Installation,121600.0,7000.0,17.37,19.76,Low,Medium
+REC_1693,BLDG_28020,HVAC Upgrade,45200.0,14400.0,3.14,22.9,Critical,Medium
+REC_1694,BLDG_23204,Solar Panel Installation,92400.0,4900.0,18.86,25.19,Low,Medium
+REC_1695,BLDG_23519,Solar Panel Installation,78400.0,3900.0,20.1,23.54,Low,Medium
+REC_1696,BLDG_27685,Insulation Improvement,24600.0,1900.0,12.95,17.44,Low,Medium
+REC_1697,BLDG_70,Solar Panel Installation,232400.0,15000.0,15.49,17.38,Low,Medium
+REC_1698,BLDG_21736,Insulation Improvement,33500.0,5700.0,5.88,13.27,High,Medium
+REC_1699,BLDG_26524,LED Lighting Retrofit,13400.0,3500.0,3.83,8.57,Critical,Low
+REC_1700,BLDG_21774,HVAC Upgrade,94100.0,18900.0,4.98,25.55,Critical,Medium
+REC_1701,BLDG_23433,Solar Panel Installation,83000.0,4200.0,19.76,18.26,Low,Medium
+REC_1702,BLDG_28001,HVAC Upgrade,48300.0,5500.0,8.78,22.44,High,Medium
+REC_1703,BLDG_24218,Water Efficiency Upgrade,11100.0,3300.0,3.36,3.86,Critical,Low
+REC_1704,BLDG_23560,Solar Panel Installation,108400.0,6000.0,18.07,19.32,Low,Medium
+REC_1705,BLDG_26676,Water Efficiency Upgrade,9000.0,3500.0,2.57,3.89,Critical,Low
+REC_1706,BLDG_77,Solar Panel Installation,189000.0,11900.0,15.88,18.91,Low,Medium
+REC_1707,BLDG_24537,Building Automation System,20700.0,10100.0,2.05,12.29,Critical,Medium
+REC_1708,BLDG_23440,Window Replacement,56600.0,4400.0,12.86,12.7,Low,Medium
+REC_1709,BLDG_375,Solar Panel Installation,525000.0,36200.0,14.5,17.62,Low,Medium
+REC_1710,BLDG_23883,Water Efficiency Upgrade,20700.0,11600.0,1.78,4.92,Critical,Low
+REC_1711,BLDG_20770,LED Lighting Retrofit,14800.0,6400.0,2.31,9.5,Critical,Low
+REC_1712,BLDG_26536,LED Lighting Retrofit,12500.0,5300.0,2.36,8.37,Critical,Low
+REC_1713,BLDG_22834,Deep Energy Retrofit,268600.0,81000.0,3.32,41.68,Critical,High
+REC_1714,BLDG_25436,Solar Panel Installation,73400.0,3500.0,20.97,15.46,Low,Medium
+REC_1715,BLDG_24908,Water Efficiency Upgrade,25100.0,5600.0,4.48,2.25,High,Low
+REC_1716,BLDG_27774,Solar Panel Installation,269600.0,17700.0,15.23,25.1,Low,Medium
+REC_1717,BLDG_20309,LED Lighting Retrofit,11300.0,6000.0,1.88,8.05,Critical,Low
+REC_1718,BLDG_393,Solar Panel Installation,213200.0,13600.0,15.68,24.44,Low,Medium
+REC_1719,BLDG_27847,Insulation Improvement,47900.0,12500.0,3.83,15.08,Critical,Medium
+REC_1720,BLDG_25299,Water Efficiency Upgrade,20500.0,11400.0,1.8,3.1,Critical,Low
+REC_1721,BLDG_23575,LED Lighting Retrofit,15300.0,4100.0,3.73,9.68,Critical,Low
+REC_1722,BLDG_50381,LED Lighting Retrofit,32500.0,10800.0,3.01,11.85,Critical,Low
+REC_1723,BLDG_24018,HVAC Upgrade,76300.0,19400.0,3.93,21.87,Critical,Medium
+REC_1724,BLDG_20071,LED Lighting Retrofit,8900.0,3500.0,2.54,9.97,Critical,Low
+REC_1725,BLDG_671,LED Lighting Retrofit,33400.0,73500.0,0.45,8.4,Critical,Low
+REC_1726,BLDG_26670,LED Lighting Retrofit,16000.0,4900.0,3.27,8.68,Critical,Low
+REC_1727,BLDG_21503,LED Lighting Retrofit,29800.0,25300.0,1.18,9.45,Critical,Low
+REC_1728,BLDG_22938,Solar Panel Installation,65000.0,2900.0,22.41,19.74,Low,Medium
+REC_1729,BLDG_21087,Solar Panel Installation,199600.0,12700.0,15.72,15.5,Low,Medium
+REC_1730,BLDG_363,HVAC Upgrade,144300.0,38600.0,3.74,24.52,Critical,Medium
+REC_1731,BLDG_26720,Insulation Improvement,38400.0,4000.0,9.6,12.11,Medium,Medium
+REC_1732,BLDG_486,Solar Panel Installation,195400.0,12400.0,15.76,16.54,Low,Medium
+REC_1733,BLDG_50349,LED Lighting Retrofit,15200.0,16900.0,0.9,10.75,Critical,Low
+REC_1734,BLDG_136,Solar Panel Installation,93600.0,5000.0,18.72,27.79,Low,Medium
+REC_1735,BLDG_21330,LED Lighting Retrofit,14200.0,17200.0,0.83,10.34,Critical,Low
+REC_1736,BLDG_49866,Solar Panel Installation,189000.0,11900.0,15.88,24.84,Low,Medium
+REC_1737,BLDG_49693,Building Automation System,140400.0,40100.0,3.5,13.11,Critical,Medium
+REC_1738,BLDG_26398,Building Automation System,18100.0,8200.0,2.21,10.29,Critical,Medium
+REC_1739,BLDG_25131,Water Efficiency Upgrade,15600.0,9900.0,1.58,4.84,Critical,Low
+REC_1740,BLDG_22115,Water Efficiency Upgrade,7700.0,2300.0,3.35,2.87,Critical,Low
+REC_1741,BLDG_50878,Solar Panel Installation,378000.0,25600.0,14.77,19.1,Low,Medium
+REC_1742,BLDG_24790,Water Efficiency Upgrade,8300.0,3600.0,2.31,2.63,Critical,Low
+REC_1743,BLDG_52000,Solar Panel Installation,414800.0,28300.0,14.66,27.39,Low,Medium
+REC_1744,BLDG_27958,Building Automation System,17400.0,4700.0,3.7,12.9,Critical,Medium
+REC_1745,BLDG_22314,Water Efficiency Upgrade,12300.0,5700.0,2.16,4.45,Critical,Low
+REC_1746,BLDG_117,LED Lighting Retrofit,23000.0,20800.0,1.11,11.16,Critical,Low
+REC_1747,BLDG_50694,Building Automation System,73200.0,30600.0,2.39,14.75,Critical,Medium
+REC_1748,BLDG_539,HVAC Upgrade,82900.0,12100.0,6.85,22.45,High,Medium
+REC_1749,BLDG_19805,LED Lighting Retrofit,11100.0,5100.0,2.18,8.28,Critical,Low
+REC_1750,BLDG_20848,Insulation Improvement,25100.0,2500.0,10.04,16.6,Medium,Medium
+REC_1751,BLDG_28029,HVAC Upgrade,48200.0,54200.0,0.89,18.75,Critical,Medium
+REC_1752,BLDG_452,Solar Panel Installation,210600.0,13500.0,15.6,22.24,Low,Medium
+REC_1753,BLDG_21234,LED Lighting Retrofit,19600.0,12500.0,1.57,11.77,Critical,Low
+REC_1754,BLDG_25976,Building Automation System,17800.0,4700.0,3.79,14.14,Critical,Medium
+REC_1755,BLDG_40008,HVAC Upgrade,46800.0,4800.0,9.75,23.49,Medium,Medium
+REC_1756,BLDG_50254,Solar Panel Installation,208600.0,13300.0,15.68,25.39,Low,Medium
+REC_1757,BLDG_24068,LED Lighting Retrofit,21400.0,9400.0,2.28,8.71,Critical,Low
+REC_1758,BLDG_50886,Solar Panel Installation,525000.0,36200.0,14.5,26.05,Low,Medium
+REC_1759,BLDG_23496,LED Lighting Retrofit,9300.0,4600.0,2.02,9.95,Critical,Low
+REC_1760,BLDG_50736,Solar Panel Installation,334400.0,22400.0,14.93,27.64,Low,Medium
+REC_1761,BLDG_50322,Water Efficiency Upgrade,9800.0,4900.0,2.0,4.16,Critical,Low
+REC_1762,BLDG_25139,Solar Panel Installation,75200.0,3600.0,20.89,24.04,Low,Medium
+REC_1763,BLDG_40028,LED Lighting Retrofit,110700.0,88500.0,1.25,10.88,Critical,Low
+REC_1764,BLDG_25177,Water Efficiency Upgrade,11400.0,5300.0,2.15,2.21,Critical,Low
+REC_1765,BLDG_26657,HVAC Upgrade,74500.0,15300.0,4.87,22.63,High,Medium
+REC_1766,BLDG_20970,Deep Energy Retrofit,265300.0,115700.0,2.29,36.11,Critical,High
+REC_1767,BLDG_22818,Deep Energy Retrofit,161200.0,16100.0,10.01,37.88,Medium,High
+REC_1768,BLDG_21670,Building Automation System,47500.0,39900.0,1.19,11.04,Critical,Medium
+REC_1769,BLDG_50477,Solar Panel Installation,230600.0,14900.0,15.48,17.94,Low,Medium
+REC_1770,BLDG_19596,Insulation Improvement,31500.0,5100.0,6.18,14.75,High,Medium
+REC_1771,BLDG_22414,Building Automation System,23400.0,5400.0,4.33,10.5,High,Medium
+REC_1772,BLDG_27114,Building Automation System,16600.0,3100.0,5.35,15.77,High,Medium
+REC_1773,BLDG_26026,LED Lighting Retrofit,12800.0,5400.0,2.37,9.18,Critical,Low
+REC_1774,BLDG_23722,Solar Panel Installation,78200.0,3900.0,20.05,20.61,Low,Medium
+REC_1775,BLDG_49801,Water Efficiency Upgrade,11900.0,6300.0,1.89,2.18,Critical,Low
+REC_1776,BLDG_26146,Window Replacement,67700.0,7600.0,8.91,13.66,High,Medium
+REC_1777,BLDG_27097,Solar Panel Installation,91000.0,4800.0,18.96,23.75,Low,Medium
+REC_1778,BLDG_26691,HVAC Upgrade,60000.0,8800.0,6.82,24.13,High,Medium
+REC_1779,BLDG_24156,Deep Energy Retrofit,147500.0,28400.0,5.19,47.53,High,High
+REC_1780,BLDG_26847,Building Automation System,20000.0,9300.0,2.15,11.5,Critical,Medium
+REC_1781,BLDG_26848,Water Efficiency Upgrade,16200.0,8800.0,1.84,3.24,Critical,Low
+REC_1782,BLDG_27102,Water Efficiency Upgrade,9100.0,3900.0,2.33,4.56,Critical,Low
+REC_1783,BLDG_23026,Solar Panel Installation,84600.0,4300.0,19.67,19.81,Low,Medium
+REC_1784,BLDG_21714,Water Efficiency Upgrade,64500.0,46900.0,1.38,3.1,Critical,Low
+REC_1785,BLDG_1280,HVAC Upgrade,111400.0,54400.0,2.05,24.13,Critical,Medium
+REC_1786,BLDG_27205,LED Lighting Retrofit,14800.0,12400.0,1.19,10.28,Critical,Low
+REC_1787,BLDG_811,Solar Panel Installation,276600.0,18200.0,15.2,27.1,Low,Medium
+REC_1788,BLDG_20093,HVAC Upgrade,741800.0,112000.0,6.62,21.21,High,Medium
+REC_1789,BLDG_21675,LED Lighting Retrofit,15800.0,5500.0,2.87,9.34,Critical,Low
+REC_1790,BLDG_20626,Insulation Improvement,43000.0,1200.0,35.83,15.36,Low,Medium
+REC_1791,BLDG_19466,Solar Panel Installation,65000.0,2900.0,22.41,21.81,Low,Medium
+REC_1792,BLDG_25530,LED Lighting Retrofit,8900.0,3100.0,2.87,8.19,Critical,Low
+REC_1793,BLDG_600,Window Replacement,194200.0,11600.0,16.74,10.33,Low,Medium
+REC_1794,BLDG_345,Solar Panel Installation,525000.0,36200.0,14.5,16.43,Low,Medium
+REC_1795,BLDG_654,Insulation Improvement,47600.0,13400.0,3.55,17.39,Critical,Medium
+REC_1796,BLDG_19789,Building Automation System,22700.0,8500.0,2.67,12.28,Critical,Medium
+REC_1797,BLDG_49786,Water Efficiency Upgrade,24900.0,15400.0,1.62,3.0,Critical,Low
+REC_1798,BLDG_23040,Building Automation System,24000.0,5600.0,4.29,11.51,High,Medium
+REC_1799,BLDG_24393,Solar Panel Installation,204400.0,13000.0,15.72,20.42,Low,Medium
+REC_1800,BLDG_3,Solar Panel Installation,525000.0,36200.0,14.5,23.53,Low,Medium
+REC_1801,BLDG_25655,Solar Panel Installation,91800.0,4800.0,19.12,17.05,Low,Medium
+REC_1802,BLDG_20066,Solar Panel Installation,470000.0,32300.0,14.55,15.59,Low,Medium
+REC_1803,BLDG_50317,LED Lighting Retrofit,29400.0,15900.0,1.85,11.12,Critical,Low
+REC_1804,BLDG_691,Water Efficiency Upgrade,21900.0,6300.0,3.48,2.83,Critical,Low
+REC_1805,BLDG_24034,Solar Panel Installation,142400.0,8500.0,16.75,27.0,Low,Medium
+REC_1806,BLDG_26257,Building Automation System,18300.0,5700.0,3.21,14.59,Critical,Medium
+REC_1807,BLDG_21605,Solar Panel Installation,66200.0,3000.0,22.07,17.01,Low,Medium
+REC_1808,BLDG_549,Window Replacement,160000.0,13600.0,11.76,13.16,Medium,Medium
+REC_1809,BLDG_766,HVAC Upgrade,289300.0,154300.0,1.87,21.17,Critical,Medium
+REC_1810,BLDG_26324,Solar Panel Installation,65000.0,2900.0,22.41,18.22,Low,Medium
+REC_1811,BLDG_25995,LED Lighting Retrofit,20400.0,8700.0,2.34,9.3,Critical,Low
+REC_1812,BLDG_24441,HVAC Upgrade,49000.0,14600.0,3.36,20.48,Critical,Medium
+REC_1813,BLDG_561,Building Automation System,126800.0,50800.0,2.5,15.93,Critical,Medium
+REC_1814,BLDG_20594,Water Efficiency Upgrade,9000.0,4200.0,2.14,2.82,Critical,Low
+REC_1815,BLDG_21315,LED Lighting Retrofit,14300.0,100.0,143.0,9.22,Low,Low
+REC_1816,BLDG_500,Solar Panel Installation,437000.0,29900.0,14.62,20.46,Low,Medium
+REC_1817,BLDG_26535,LED Lighting Retrofit,12800.0,6600.0,1.94,8.81,Critical,Low
+REC_1818,BLDG_19715,Solar Panel Installation,70600.0,3300.0,21.39,18.87,Low,Medium
+REC_1819,BLDG_26951,LED Lighting Retrofit,11800.0,2300.0,5.13,11.8,High,Low
+REC_1820,BLDG_50544,Water Efficiency Upgrade,42200.0,27300.0,1.55,4.67,Critical,Low
+REC_1821,BLDG_21198,Solar Panel Installation,200600.0,12700.0,15.8,16.24,Low,Medium
+REC_1822,BLDG_50480,Solar Panel Installation,90400.0,4700.0,19.23,22.6,Low,Medium
+REC_1823,BLDG_49789,Water Efficiency Upgrade,57200.0,43200.0,1.32,4.92,Critical,Low
+REC_1824,BLDG_50937,LED Lighting Retrofit,48800.0,16400.0,2.98,11.2,Critical,Low
+REC_1825,BLDG_50527,Solar Panel Installation,208200.0,13300.0,15.65,27.16,Low,Medium
+REC_1826,BLDG_27321,Insulation Improvement,29200.0,3400.0,8.59,16.59,High,Medium
+REC_1827,BLDG_23031,LED Lighting Retrofit,9900.0,3900.0,2.54,9.48,Critical,Low
+REC_1828,BLDG_26130,Building Automation System,25300.0,11800.0,2.14,10.08,Critical,Medium
+REC_1829,BLDG_50011,HVAC Upgrade,139200.0,24200.0,5.75,23.32,Critical,Medium
+REC_1830,BLDG_523,Solar Panel Installation,399600.0,27200.0,14.69,17.23,Low,Medium
+REC_1831,BLDG_848,Building Automation System,44600.0,43800.0,1.02,10.56,Critical,Medium
+REC_1832,BLDG_19923,LED Lighting Retrofit,9100.0,4300.0,2.12,10.99,Critical,Low
+REC_1833,BLDG_23182,LED Lighting Retrofit,30300.0,17100.0,1.77,10.27,Critical,Low
+REC_1834,BLDG_20777,Water Efficiency Upgrade,8900.0,4200.0,2.12,3.09,Critical,Low
+REC_1835,BLDG_628,Building Automation System,35500.0,9200.0,3.86,15.85,Critical,Medium
+REC_1836,BLDG_21317,LED Lighting Retrofit,13200.0,9100.0,1.45,11.44,Critical,Low
+REC_1837,BLDG_21505,Water Efficiency Upgrade,16300.0,4600.0,3.54,2.84,Critical,Low
+REC_1838,BLDG_22850,LED Lighting Retrofit,38200.0,21900.0,1.74,9.63,Critical,Low
+REC_1839,BLDG_24375,Building Automation System,27100.0,11800.0,2.3,14.95,Critical,Medium
+REC_1840,BLDG_19949,LED Lighting Retrofit,9300.0,1300.0,7.15,11.82,Medium,Low
+REC_1841,BLDG_26,LED Lighting Retrofit,154300.0,307300.0,0.5,10.52,Critical,Low
+REC_1842,BLDG_50363,Solar Panel Installation,510600.0,35200.0,14.51,27.88,Low,Medium
+REC_1843,BLDG_20726,Solar Panel Installation,74200.0,3600.0,20.61,26.4,Low,Medium
+REC_1844,BLDG_24225,HVAC Upgrade,74800.0,8900.0,8.4,19.76,High,Medium
+REC_1845,BLDG_28735,Solar Panel Installation,161600.0,9900.0,16.32,26.06,Low,Medium
+REC_1846,BLDG_21770,LED Lighting Retrofit,10800.0,4300.0,2.51,11.76,Critical,Low
+REC_1847,BLDG_49777,Building Automation System,16600.0,6200.0,2.68,14.82,Critical,Medium
+REC_1848,BLDG_24772,Solar Panel Installation,69000.0,3200.0,21.56,27.78,Low,Medium
+REC_1849,BLDG_50928,Building Automation System,44400.0,16400.0,2.71,11.36,Critical,Medium
+REC_1850,BLDG_24850,Solar Panel Installation,65000.0,2900.0,22.41,25.91,Low,Medium
+REC_1851,BLDG_50659,Solar Panel Installation,258800.0,17000.0,15.22,27.57,Low,Medium
+REC_1852,BLDG_741,Solar Panel Installation,345600.0,23200.0,14.9,27.06,Low,Medium
+REC_1853,BLDG_21771,LED Lighting Retrofit,17900.0,6000.0,2.98,8.78,Critical,Low
+REC_1854,BLDG_394,Solar Panel Installation,260400.0,17100.0,15.23,16.7,Low,Medium
+REC_1855,BLDG_21777,HVAC Upgrade,261500.0,57100.0,4.58,25.32,High,Medium
+REC_1856,BLDG_28049,Water Efficiency Upgrade,12300.0,6000.0,2.05,4.21,Critical,Low
+REC_1857,BLDG_23184,Solar Panel Installation,66400.0,3000.0,22.13,26.5,Low,Medium
+REC_1858,BLDG_674,Solar Panel Installation,428800.0,29300.0,14.63,22.78,Low,Medium
+REC_1859,BLDG_50468,LED Lighting Retrofit,14700.0,2800.0,5.25,9.32,High,Low
+REC_1860,BLDG_22748,Solar Panel Installation,65000.0,2900.0,22.41,19.38,Low,Medium
+REC_1861,BLDG_50166,Solar Panel Installation,477000.0,32800.0,14.54,19.18,Low,Medium
+REC_1862,BLDG_403,Solar Panel Installation,206200.0,13100.0,15.74,22.36,Low,Medium
+REC_1863,BLDG_20251,Water Efficiency Upgrade,8400.0,3700.0,2.27,2.49,Critical,Low
+REC_1864,BLDG_26979,LED Lighting Retrofit,19200.0,2600.0,7.38,11.48,Medium,Low
+REC_1865,BLDG_23104,Building Automation System,17700.0,2200.0,8.05,10.33,Medium,Medium
+REC_1866,BLDG_23132,Water Efficiency Upgrade,11700.0,5700.0,2.05,2.57,Critical,Low
+REC_1867,BLDG_50505,Solar Panel Installation,66400.0,3000.0,22.13,24.85,Low,Medium
+REC_1868,BLDG_50056,Solar Panel Installation,196200.0,12400.0,15.82,23.87,Low,Medium
+REC_1869,BLDG_20230,LED Lighting Retrofit,19100.0,7200.0,2.65,9.41,Critical,Low
+REC_1870,BLDG_24645,Solar Panel Installation,91000.0,4800.0,18.96,21.99,Low,Medium
+REC_1871,BLDG_24460,Water Efficiency Upgrade,10500.0,2100.0,5.0,4.82,High,Low
+REC_1872,BLDG_814,Solar Panel Installation,525000.0,36200.0,14.5,15.77,Low,Medium
+REC_1873,BLDG_21808,LED Lighting Retrofit,10300.0,4800.0,2.15,11.42,Critical,Low
+REC_1874,BLDG_21646,Deep Energy Retrofit,247600.0,63300.0,3.91,43.96,Critical,High
+REC_1875,BLDG_757,Solar Panel Installation,400200.0,27200.0,14.71,15.71,Low,Medium
+REC_1876,BLDG_50263,HVAC Upgrade,2138700.0,289800.0,7.38,23.92,High,Medium
+REC_1877,BLDG_50003,Building Automation System,17800.0,5400.0,3.3,10.99,Critical,Medium
+REC_1878,BLDG_20140,Water Efficiency Upgrade,7700.0,3000.0,2.57,2.41,Critical,Low
+REC_1879,BLDG_27837,Building Automation System,18000.0,4000.0,4.5,14.97,High,Medium
+REC_1880,BLDG_20735,Solar Panel Installation,68600.0,3200.0,21.44,15.72,Low,Medium
+REC_1881,BLDG_21238,Solar Panel Installation,374800.0,25400.0,14.76,27.34,Low,Medium
+REC_1882,BLDG_49797,HVAC Upgrade,105900.0,24600.0,4.3,18.29,High,Medium
+REC_1883,BLDG_29390,Water Efficiency Upgrade,21600.0,11300.0,1.91,3.13,Critical,Low
+REC_1884,BLDG_20529,Solar Panel Installation,211000.0,13500.0,15.63,27.73,Low,Medium
+REC_1885,BLDG_50084,Building Automation System,83900.0,35800.0,2.34,13.62,Critical,Medium
+REC_1886,BLDG_333,Building Automation System,102000.0,91100.0,1.12,14.22,Critical,Medium
+REC_1887,BLDG_50714,Solar Panel Installation,525000.0,36200.0,14.5,24.59,Low,Medium
+REC_1888,BLDG_20281,Water Efficiency Upgrade,8700.0,3500.0,2.49,3.91,Critical,Low
+REC_1889,BLDG_680,Building Automation System,34200.0,12300.0,2.78,14.39,Critical,Medium
+REC_1890,BLDG_26134,Water Efficiency Upgrade,12300.0,6300.0,1.95,3.1,Critical,Low
+REC_1891,BLDG_796,Solar Panel Installation,342600.0,23000.0,14.9,27.96,Low,Medium
+REC_1892,BLDG_50331,LED Lighting Retrofit,14000.0,10800.0,1.3,10.99,Critical,Low
+REC_1893,BLDG_22607,Water Efficiency Upgrade,8000.0,1300.0,6.15,2.86,High,Low
+REC_1894,BLDG_27225,LED Lighting Retrofit,9600.0,5100.0,1.88,10.52,Critical,Low
+REC_1895,BLDG_26159,Building Automation System,77500.0,45000.0,1.72,11.55,Critical,Medium
+REC_1896,BLDG_21813,Solar Panel Installation,85600.0,4400.0,19.45,20.71,Low,Medium
+REC_1897,BLDG_20656,LED Lighting Retrofit,12800.0,1500.0,8.53,8.73,Medium,Low
+REC_1898,BLDG_22078,Insulation Improvement,26600.0,3100.0,8.58,16.24,High,Medium
+REC_1899,BLDG_50780,Solar Panel Installation,525000.0,36200.0,14.5,17.58,Low,Medium
+REC_1900,BLDG_50727,Solar Panel Installation,76200.0,3700.0,20.59,25.58,Low,Medium
+REC_1901,BLDG_21562,Water Efficiency Upgrade,8800.0,3900.0,2.26,4.98,Critical,Low
+REC_1902,BLDG_24888,Building Automation System,42000.0,18300.0,2.3,15.94,Critical,Medium
+REC_1903,BLDG_50925,LED Lighting Retrofit,16700.0,2700.0,6.19,9.37,High,Low
+REC_1904,BLDG_21370,Window Replacement,628500.0,65300.0,9.62,13.99,Medium,Medium
+REC_1905,BLDG_25129,Solar Panel Installation,227000.0,14600.0,15.55,21.01,Low,Medium
+REC_1906,BLDG_24083,Window Replacement,108800.0,3600.0,30.22,9.03,Low,Medium
+REC_1907,BLDG_50916,Water Efficiency Upgrade,9400.0,4300.0,2.19,3.75,Critical,Low
+REC_1908,BLDG_22632,Water Efficiency Upgrade,9400.0,3800.0,2.47,3.83,Critical,Low
+REC_1909,BLDG_19679,Insulation Improvement,72100.0,13500.0,5.34,12.59,High,Medium
+REC_1910,BLDG_24887,Deep Energy Retrofit,722400.0,67300.0,10.73,38.7,Medium,High
+REC_1911,BLDG_23299,Building Automation System,28000.0,12100.0,2.31,10.37,Critical,Medium
+REC_1912,BLDG_27962,Water Efficiency Upgrade,12200.0,7100.0,1.72,3.64,Critical,Low
+REC_1913,BLDG_829,Solar Panel Installation,315400.0,21100.0,14.95,17.32,Low,Medium
+REC_1914,BLDG_50459,Solar Panel Installation,175000.0,10900.0,16.06,17.13,Low,Medium
+REC_1915,BLDG_24629,Building Automation System,26100.0,10000.0,2.61,14.91,Critical,Medium
+REC_1916,BLDG_25875,Building Automation System,21700.0,7000.0,3.1,11.09,Critical,Medium
+REC_1917,BLDG_22569,Water Efficiency Upgrade,24800.0,14700.0,1.69,3.32,Critical,Low
+REC_1918,BLDG_20406,Water Efficiency Upgrade,10400.0,5900.0,1.76,2.08,Critical,Low
+REC_1919,BLDG_19752,LED Lighting Retrofit,8900.0,3100.0,2.87,9.35,Critical,Low
+REC_1920,BLDG_690,Solar Panel Installation,525000.0,36200.0,14.5,21.64,Low,Medium
+REC_1921,BLDG_449,HVAC Upgrade,245000.0,151500.0,1.62,24.16,Critical,Medium
+REC_1922,BLDG_25199,Building Automation System,16200.0,3400.0,4.76,14.91,High,Medium
+REC_1923,BLDG_23807,LED Lighting Retrofit,16800.0,5500.0,3.05,11.75,Critical,Low
+REC_1924,BLDG_50909,Building Automation System,21700.0,3300.0,6.58,11.41,High,Medium
+REC_1925,BLDG_50641,Solar Panel Installation,471800.0,32400.0,14.56,24.65,Low,Medium
+REC_1926,BLDG_24163,LED Lighting Retrofit,16200.0,2900.0,5.59,9.67,High,Low
+REC_1927,BLDG_26262,Solar Panel Installation,69400.0,3200.0,21.69,23.24,Low,Medium
+REC_1928,BLDG_25115,LED Lighting Retrofit,9100.0,4000.0,2.28,10.66,Critical,Low
+REC_1929,BLDG_27634,LED Lighting Retrofit,10600.0,4200.0,2.52,10.56,Critical,Low
+REC_1930,BLDG_26870,HVAC Upgrade,103500.0,13800.0,7.5,25.34,High,Medium
+REC_1931,BLDG_50919,LED Lighting Retrofit,21200.0,18900.0,1.12,9.85,Critical,Low
+REC_1932,BLDG_21207,LED Lighting Retrofit,11700.0,3500.0,3.34,10.74,Critical,Low
+REC_1933,BLDG_22294,Water Efficiency Upgrade,13500.0,6900.0,1.96,4.49,Critical,Low
+REC_1934,BLDG_28068,LED Lighting Retrofit,115000.0,89200.0,1.29,11.71,Critical,Low
+REC_1935,BLDG_569,Solar Panel Installation,430400.0,29400.0,14.64,20.61,Low,Medium
+REC_1936,BLDG_50172,Solar Panel Installation,76600.0,3700.0,20.7,19.38,Low,Medium
+REC_1937,BLDG_21374,LED Lighting Retrofit,19400.0,24700.0,0.79,9.76,Critical,Low
+REC_1938,BLDG_242,Water Efficiency Upgrade,13500.0,2500.0,5.4,2.98,High,Low
+REC_1939,BLDG_24601,Water Efficiency Upgrade,10600.0,2200.0,4.82,3.85,High,Low
+REC_1940,BLDG_49940,Solar Panel Installation,524200.0,36200.0,14.48,16.31,Low,Medium
+REC_1941,BLDG_379,HVAC Upgrade,382000.0,272900.0,1.4,20.64,Critical,Medium
+REC_1942,BLDG_273,LED Lighting Retrofit,23100.0,18500.0,1.25,10.53,Critical,Low
+REC_1943,BLDG_49772,LED Lighting Retrofit,33500.0,12800.0,2.62,9.33,Critical,Low
+REC_1944,BLDG_24693,HVAC Upgrade,69400.0,29300.0,2.37,25.14,Critical,Medium
+REC_1945,BLDG_24408,Solar Panel Installation,172800.0,10700.0,16.15,23.46,Low,Medium
+REC_1946,BLDG_26190,Water Efficiency Upgrade,11800.0,6200.0,1.9,4.85,Critical,Low
+REC_1947,BLDG_50061,Water Efficiency Upgrade,20400.0,12900.0,1.58,2.31,Critical,Low
+REC_1948,BLDG_49704,Solar Panel Installation,261800.0,17200.0,15.22,20.56,Low,Medium
+REC_1949,BLDG_27365,Solar Panel Installation,101400.0,5500.0,18.44,25.28,Low,Medium
+REC_1950,BLDG_50880,Solar Panel Installation,525000.0,36200.0,14.5,19.63,Low,Medium
+REC_1951,BLDG_50035,Building Automation System,59600.0,48400.0,1.23,13.87,Critical,Medium
+REC_1952,BLDG_50179,Solar Panel Installation,210400.0,13400.0,15.7,26.27,Low,Medium
+REC_1953,BLDG_50403,Deep Energy Retrofit,836900.0,121400.0,6.89,36.72,High,High
+REC_1954,BLDG_52046,Solar Panel Installation,525000.0,36200.0,14.5,15.6,Low,Medium
+REC_1955,BLDG_49796,Solar Panel Installation,328600.0,22000.0,14.94,20.23,Low,Medium
+REC_1956,BLDG_606,LED Lighting Retrofit,29000.0,16600.0,1.75,9.26,Critical,Low
+REC_1957,BLDG_20659,Building Automation System,16900.0,5400.0,3.13,12.03,Critical,Medium
+REC_1958,BLDG_175,Solar Panel Installation,364400.0,24600.0,14.81,22.43,Low,Medium
+REC_1959,BLDG_24711,Water Efficiency Upgrade,9800.0,1700.0,5.76,3.11,High,Low
+REC_1960,BLDG_50545,Solar Panel Installation,397200.0,27000.0,14.71,22.26,Low,Medium
+REC_1961,BLDG_51999,Solar Panel Installation,273600.0,18000.0,15.2,20.6,Low,Medium
+REC_1962,BLDG_23313,LED Lighting Retrofit,9000.0,4800.0,1.88,11.03,Critical,Low
+REC_1963,BLDG_19747,LED Lighting Retrofit,20300.0,21400.0,0.95,8.62,Critical,Low
+REC_1964,BLDG_50088,Solar Panel Installation,80200.0,4000.0,20.05,24.22,Low,Medium
+REC_1965,BLDG_24741,Window Replacement,53700.0,4200.0,12.79,10.59,Low,Medium
+REC_1966,BLDG_51983,Building Automation System,29000.0,10500.0,2.76,12.41,Critical,Medium
+REC_1967,BLDG_26402,Solar Panel Installation,199200.0,12600.0,15.81,24.25,Low,Medium
+REC_1968,BLDG_24659,LED Lighting Retrofit,23900.0,9300.0,2.57,8.71,Critical,Low
+REC_1969,BLDG_49721,Deep Energy Retrofit,196100.0,18100.0,10.83,40.44,Medium,High
+REC_1970,BLDG_25922,Building Automation System,16700.0,3100.0,5.39,12.35,High,Medium
+REC_1971,BLDG_24547,Solar Panel Installation,65000.0,2900.0,22.41,27.63,Low,Medium
+REC_1972,BLDG_23080,Building Automation System,16700.0,9800.0,1.7,10.61,Critical,Medium
+REC_1973,BLDG_50718,LED Lighting Retrofit,47800.0,27600.0,1.73,8.99,Critical,Low
+REC_1974,BLDG_27607,Solar Panel Installation,65000.0,2900.0,22.41,24.16,Low,Medium
+REC_1975,BLDG_50944,Solar Panel Installation,262800.0,17200.0,15.28,19.27,Low,Medium
+REC_1976,BLDG_50455,Solar Panel Installation,525000.0,36200.0,14.5,25.96,Low,Medium
+REC_1977,BLDG_50085,Building Automation System,25700.0,14900.0,1.72,14.48,Critical,Medium
+REC_1978,BLDG_50250,Solar Panel Installation,192400.0,12100.0,15.9,18.35,Low,Medium
+REC_1979,BLDG_821,HVAC Upgrade,193400.0,49600.0,3.9,20.74,Critical,Medium
+REC_1980,BLDG_20885,HVAC Upgrade,110200.0,76800.0,1.43,23.85,Critical,Medium
+REC_1981,BLDG_50744,Solar Panel Installation,229000.0,14800.0,15.47,16.3,Low,Medium
+REC_1982,BLDG_21940,Insulation Improvement,23500.0,2200.0,10.68,14.47,Medium,Medium
+REC_1983,BLDG_27696,LED Lighting Retrofit,12700.0,1700.0,7.47,8.21,Medium,Low
+REC_1984,BLDG_237,LED Lighting Retrofit,21800.0,16800.0,1.3,8.8,Critical,Low
+REC_1985,BLDG_23762,Building Automation System,21500.0,8600.0,2.5,13.53,Critical,Medium
+REC_1986,BLDG_26919,HVAC Upgrade,44900.0,20200.0,2.22,23.06,Critical,Medium
+REC_1987,BLDG_20810,Insulation Improvement,29700.0,5100.0,5.82,13.34,High,Medium
+REC_1988,BLDG_21175,Building Automation System,23900.0,8400.0,2.85,10.47,Critical,Medium
+REC_1989,BLDG_26330,LED Lighting Retrofit,10900.0,3900.0,2.79,10.4,Critical,Low
+REC_1990,BLDG_89,Window Replacement,621600.0,75000.0,8.29,12.24,High,Medium
+REC_1991,BLDG_50373,Water Efficiency Upgrade,21600.0,9200.0,2.35,3.86,Critical,Low
+REC_1992,BLDG_24752,Solar Panel Installation,525000.0,36200.0,14.5,27.3,Low,Medium
+REC_1993,BLDG_23578,LED Lighting Retrofit,8800.0,7700.0,1.14,10.52,Critical,Low
+REC_1994,BLDG_49781,HVAC Upgrade,89400.0,29600.0,3.02,21.86,Critical,Medium
+REC_1995,BLDG_50454,LED Lighting Retrofit,193600.0,183000.0,1.06,10.09,Critical,Low
+REC_1996,BLDG_349,Solar Panel Installation,525000.0,36200.0,14.5,25.01,Low,Medium
+REC_1997,BLDG_56,Solar Panel Installation,193400.0,12200.0,15.85,23.08,Low,Medium
+REC_1998,BLDG_50332,LED Lighting Retrofit,35200.0,16400.0,2.15,11.49,Critical,Low
+REC_1999,BLDG_27815,Water Efficiency Upgrade,10900.0,5300.0,2.06,4.92,Critical,Low
+REC_2000,BLDG_23677,HVAC Upgrade,86800.0,20100.0,4.32,19.04,Critical,Medium
+REC_2001,BLDG_20570,LED Lighting Retrofit,26300.0,17600.0,1.49,9.2,Critical,Low
+REC_2002,BLDG_21210,Solar Panel Installation,274200.0,18100.0,15.15,19.25,Low,Medium
+REC_2003,BLDG_25742,Building Automation System,28100.0,22600.0,1.24,14.84,Critical,Medium
+REC_2004,BLDG_24045,LED Lighting Retrofit,14600.0,4400.0,3.32,10.48,Critical,Low
+REC_2005,BLDG_26261,LED Lighting Retrofit,23300.0,19400.0,1.2,8.15,Critical,Low
+REC_2006,BLDG_50270,Solar Panel Installation,525000.0,36200.0,14.5,23.52,Low,Medium
+REC_2007,BLDG_42069,Deep Energy Retrofit,170300.0,32400.0,5.26,40.91,High,High
+REC_2008,BLDG_25144,Building Automation System,18100.0,3500.0,5.17,13.02,High,Medium
+REC_2009,BLDG_50474,LED Lighting Retrofit,11100.0,6800.0,1.63,11.08,Critical,Low
+REC_2010,BLDG_50724,LED Lighting Retrofit,15700.0,7100.0,2.21,9.97,Critical,Low
+REC_2011,BLDG_20620,Water Efficiency Upgrade,10400.0,3100.0,3.35,4.39,Critical,Low
+REC_2012,BLDG_24591,HVAC Upgrade,44700.0,30900.0,1.45,20.28,Critical,Medium
+REC_2013,BLDG_98,Deep Energy Retrofit,304900.0,28000.0,10.89,32.28,Medium,High
+REC_2014,BLDG_21592,LED Lighting Retrofit,11800.0,3700.0,3.19,8.15,Critical,Low
+REC_2015,BLDG_24245,LED Lighting Retrofit,14800.0,5300.0,2.79,9.92,Critical,Low
+REC_2016,BLDG_25620,Water Efficiency Upgrade,7800.0,3200.0,2.44,4.55,Critical,Low
+REC_2017,BLDG_21534,Water Efficiency Upgrade,13300.0,3100.0,4.29,2.44,High,Low
+REC_2018,BLDG_19601,Solar Panel Installation,250600.0,16400.0,15.28,17.8,Low,Medium
+REC_2019,BLDG_49706,Solar Panel Installation,230000.0,14900.0,15.44,27.98,Low,Medium
+REC_2020,BLDG_49734,LED Lighting Retrofit,11900.0,6000.0,1.98,10.96,Critical,Low
+REC_2021,BLDG_50324,Solar Panel Installation,525000.0,36200.0,14.5,19.35,Low,Medium
+REC_2022,BLDG_20207,Water Efficiency Upgrade,10200.0,4900.0,2.08,4.55,Critical,Low
+REC_2023,BLDG_372,Solar Panel Installation,525000.0,36200.0,14.5,17.9,Low,Medium
+REC_2024,BLDG_20749,Deep Energy Retrofit,219400.0,52400.0,4.19,41.89,Critical,High
+REC_2025,BLDG_49992,Solar Panel Installation,525000.0,36200.0,14.5,19.65,Low,Medium
+REC_2026,BLDG_23643,Window Replacement,56200.0,5500.0,10.22,12.46,Medium,Medium
+REC_2027,BLDG_50314,Solar Panel Installation,272400.0,17900.0,15.22,22.09,Low,Medium
+REC_2028,BLDG_53,Building Automation System,27400.0,17600.0,1.56,14.51,Critical,Medium
+REC_2029,BLDG_27192,Solar Panel Installation,65000.0,2900.0,22.41,25.9,Low,Medium
+REC_2030,BLDG_26807,Building Automation System,16600.0,4200.0,3.95,11.17,Critical,Medium
+REC_2031,BLDG_26596,LED Lighting Retrofit,8800.0,1200.0,7.33,8.48,Medium,Low
+REC_2032,BLDG_25356,LED Lighting Retrofit,9300.0,3600.0,2.58,9.93,Critical,Low
+REC_2033,BLDG_25222,Solar Panel Installation,525000.0,36200.0,14.5,24.32,Low,Medium
+REC_2034,BLDG_20100,Building Automation System,30300.0,15700.0,1.93,13.64,Critical,Medium
+REC_2035,BLDG_24138,HVAC Upgrade,191400.0,48100.0,3.98,18.72,Critical,Medium
+REC_2036,BLDG_21824,Solar Panel Installation,105800.0,5900.0,17.93,26.88,Low,Medium
+REC_2037,BLDG_23106,HVAC Upgrade,107000.0,17800.0,6.01,18.57,High,Medium
+REC_2038,BLDG_25578,Solar Panel Installation,137600.0,8200.0,16.78,19.0,Low,Medium
+REC_2039,BLDG_22107,LED Lighting Retrofit,13800.0,13000.0,1.06,11.98,Critical,Low
+REC_2040,BLDG_65,LED Lighting Retrofit,22900.0,37000.0,0.62,8.9,Critical,Low
+REC_2041,BLDG_27570,Water Efficiency Upgrade,11400.0,5400.0,2.11,2.51,Critical,Low
+REC_2042,BLDG_50484,Solar Panel Installation,110400.0,6200.0,17.81,17.36,Low,Medium
+REC_2043,BLDG_24012,Water Efficiency Upgrade,15600.0,3400.0,4.59,2.6,High,Low
+REC_2044,BLDG_84,HVAC Upgrade,553300.0,332600.0,1.66,22.95,Critical,Medium
+REC_2045,BLDG_26434,Deep Energy Retrofit,197800.0,45800.0,4.32,44.2,Critical,High
+REC_2046,BLDG_27488,HVAC Upgrade,76500.0,10800.0,7.08,20.16,High,Medium
+REC_2047,BLDG_50036,Solar Panel Installation,525000.0,36200.0,14.5,20.25,Low,Medium
+REC_2048,BLDG_22867,Solar Panel Installation,80600.0,4000.0,20.15,16.37,Low,Medium
+REC_2049,BLDG_49997,LED Lighting Retrofit,34400.0,16400.0,2.1,11.63,Critical,Low
+REC_2050,BLDG_27845,HVAC Upgrade,149900.0,31300.0,4.79,25.88,Critical,Medium
+REC_2051,BLDG_19528,LED Lighting Retrofit,11500.0,4300.0,2.67,11.18,Critical,Low
+REC_2052,BLDG_23610,LED Lighting Retrofit,10200.0,4100.0,2.49,9.37,Critical,Low
+REC_2053,BLDG_50942,Solar Panel Installation,525000.0,36200.0,14.5,25.6,Low,Medium
+REC_2054,BLDG_23615,Solar Panel Installation,184200.0,11500.0,16.02,15.42,Low,Medium
+REC_2055,BLDG_482,Solar Panel Installation,429200.0,29300.0,14.65,16.45,Low,Medium
+REC_2056,BLDG_19861,LED Lighting Retrofit,16100.0,6400.0,2.52,11.46,Critical,Low
+REC_2057,BLDG_20766,Solar Panel Installation,91800.0,4800.0,19.12,27.95,Low,Medium
+REC_2058,BLDG_765,Solar Panel Installation,313800.0,20900.0,15.01,18.82,Low,Medium
+REC_2059,BLDG_20138,Water Efficiency Upgrade,18000.0,10800.0,1.67,4.4,Critical,Low
+REC_2060,BLDG_23612,Solar Panel Installation,65000.0,2900.0,22.41,27.09,Low,Medium
+REC_2061,BLDG_24053,Building Automation System,16700.0,4700.0,3.55,13.35,Critical,Medium
+REC_2062,BLDG_27680,Water Efficiency Upgrade,9400.0,3500.0,2.69,3.99,Critical,Low
+REC_2063,BLDG_50149,Solar Panel Installation,285200.0,18900.0,15.09,19.54,Low,Medium
+REC_2064,BLDG_753,Water Efficiency Upgrade,81300.0,39700.0,2.05,2.57,Critical,Low
+REC_2065,BLDG_21533,Solar Panel Installation,400400.0,27200.0,14.72,26.75,Low,Medium
+REC_2066,BLDG_50948,LED Lighting Retrofit,10000.0,7200.0,1.39,9.23,Critical,Low
+REC_2067,BLDG_23543,LED Lighting Retrofit,11600.0,5100.0,2.27,8.96,Critical,Low
+REC_2068,BLDG_50526,Solar Panel Installation,241200.0,15700.0,15.36,23.1,Low,Medium
+REC_2069,BLDG_20806,LED Lighting Retrofit,8800.0,1700.0,5.18,10.08,High,Low
+REC_2070,BLDG_50508,LED Lighting Retrofit,10000.0,4200.0,2.38,8.99,Critical,Low
+REC_2071,BLDG_50735,Water Efficiency Upgrade,9900.0,4600.0,2.15,2.45,Critical,Low
+REC_2072,BLDG_50500,LED Lighting Retrofit,12800.0,5500.0,2.33,9.56,Critical,Low
+REC_2073,BLDG_20637,LED Lighting Retrofit,14200.0,5000.0,2.84,8.48,Critical,Low
+REC_2074,BLDG_50540,Solar Panel Installation,252800.0,16500.0,15.32,19.87,Low,Medium
+REC_2075,BLDG_20818,Building Automation System,19300.0,5600.0,3.45,10.31,Critical,Medium
+REC_2076,BLDG_26808,Solar Panel Installation,81400.0,4100.0,19.85,18.88,Low,Medium
+REC_2077,BLDG_27734,Water Efficiency Upgrade,8400.0,3600.0,2.33,4.92,Critical,Low
+REC_2078,BLDG_19847,Building Automation System,18100.0,7400.0,2.45,10.11,Critical,Medium
+REC_2079,BLDG_198,Window Replacement,1638200.0,899700.0,1.82,9.37,Critical,Medium
+REC_2080,BLDG_23639,LED Lighting Retrofit,18600.0,9000.0,2.07,10.39,Critical,Low
+REC_2081,BLDG_50875,Building Automation System,23300.0,4700.0,4.96,15.85,High,Medium
+REC_2082,BLDG_21557,HVAC Upgrade,86400.0,25100.0,3.44,18.59,Critical,Medium
+REC_2083,BLDG_22371,LED Lighting Retrofit,11700.0,6300.0,1.86,10.99,Critical,Low
+REC_2084,BLDG_20984,Building Automation System,18900.0,7900.0,2.39,13.48,Critical,Medium
+REC_2085,BLDG_673,Building Automation System,42100.0,31000.0,1.36,14.56,Critical,Medium
+REC_2086,BLDG_27438,Solar Panel Installation,77400.0,3800.0,20.37,21.5,Low,Medium
+REC_2087,BLDG_27162,Building Automation System,20800.0,26300.0,0.79,15.16,Critical,Medium
+REC_2088,BLDG_21667,Building Automation System,22100.0,4700.0,4.7,10.93,High,Medium
+REC_2089,BLDG_21226,HVAC Upgrade,77000.0,12300.0,6.26,18.01,High,Medium
+REC_2090,BLDG_21547,Building Automation System,36800.0,17000.0,2.16,15.08,Critical,Medium
+REC_2091,BLDG_392,Building Automation System,27300.0,10500.0,2.6,10.6,Critical,Medium
+REC_2092,BLDG_368,Solar Panel Installation,319200.0,21300.0,14.99,26.96,Low,Medium
+REC_2093,BLDG_24708,Building Automation System,16100.0,1800.0,8.94,13.44,Medium,Medium
+REC_2094,BLDG_19579,Solar Panel Installation,68000.0,3100.0,21.94,16.27,Low,Medium
+REC_2095,BLDG_23653,Insulation Improvement,42200.0,10200.0,4.14,12.41,Critical,Medium
+REC_2096,BLDG_22611,LED Lighting Retrofit,24200.0,8400.0,2.88,9.98,Critical,Low
+REC_2097,BLDG_23570,Window Replacement,97600.0,13000.0,7.51,12.45,High,Medium
+REC_2098,BLDG_661,Solar Panel Installation,525000.0,36200.0,14.5,15.97,Low,Medium
+REC_2099,BLDG_26064,Solar Panel Installation,91200.0,4800.0,19.0,25.21,Low,Medium
+REC_2100,BLDG_20978,LED Lighting Retrofit,16200.0,700.0,23.14,9.63,Low,Low
+REC_2101,BLDG_27201,Building Automation System,21400.0,7700.0,2.78,12.64,Critical,Medium
+REC_2102,BLDG_26348,Solar Panel Installation,65000.0,2900.0,22.41,18.41,Low,Medium
+REC_2103,BLDG_630,Window Replacement,135700.0,16000.0,8.48,9.69,High,Medium
+REC_2104,BLDG_21279,Building Automation System,20600.0,5400.0,3.81,15.62,Critical,Medium
+REC_2105,BLDG_23213,Solar Panel Installation,77600.0,3800.0,20.42,23.59,Low,Medium
+REC_2106,BLDG_50336,Solar Panel Installation,226600.0,14600.0,15.52,16.08,Low,Medium
+REC_2107,BLDG_27716,Window Replacement,69900.0,3700.0,18.89,10.48,Low,Medium
+REC_2108,BLDG_50938,Building Automation System,61600.0,27200.0,2.26,11.8,Critical,Medium
+REC_2109,BLDG_24525,HVAC Upgrade,180300.0,28300.0,6.37,21.78,High,Medium
+REC_2110,BLDG_21005,Building Automation System,16500.0,4100.0,4.02,13.67,High,Medium
+REC_2111,BLDG_21133,Building Automation System,18600.0,7800.0,2.38,13.0,Critical,Medium
+REC_2112,BLDG_118,Solar Panel Installation,125400.0,7300.0,17.18,21.85,Low,Medium
+REC_2113,BLDG_26723,Insulation Improvement,60000.0,11200.0,5.36,15.8,High,Medium
+REC_2114,BLDG_734,Insulation Improvement,72500.0,23200.0,3.12,12.37,Critical,Medium
+REC_2115,BLDG_49985,Solar Panel Installation,525000.0,36200.0,14.5,17.35,Low,Medium
+REC_2116,BLDG_25580,Solar Panel Installation,78400.0,3900.0,20.1,27.71,Low,Medium
+REC_2117,BLDG_24459,Water Efficiency Upgrade,37400.0,26000.0,1.44,4.19,Critical,Low
+REC_2118,BLDG_21784,Insulation Improvement,39900.0,1700.0,23.47,13.83,Low,Medium
+REC_2119,BLDG_49964,Solar Panel Installation,396400.0,26900.0,14.74,20.84,Low,Medium
+REC_2120,BLDG_24104,Window Replacement,54500.0,1200.0,45.42,10.64,Low,Medium
+REC_2121,BLDG_20930,Solar Panel Installation,121600.0,7000.0,17.37,24.77,Low,Medium
+REC_2122,BLDG_660,Water Efficiency Upgrade,21600.0,6000.0,3.6,2.3,Critical,Low
+REC_2123,BLDG_589,Solar Panel Installation,259600.0,17000.0,15.27,16.28,Low,Medium
+REC_2124,BLDG_50342,Solar Panel Installation,65000.0,2900.0,22.41,25.77,Low,Medium
+REC_2125,BLDG_19461,Building Automation System,16800.0,5800.0,2.9,13.43,Critical,Medium
+REC_2126,BLDG_27606,Building Automation System,17800.0,4400.0,4.05,15.45,High,Medium
+REC_2127,BLDG_20730,Water Efficiency Upgrade,20500.0,12300.0,1.67,2.56,Critical,Low
+REC_2128,BLDG_21683,Solar Panel Installation,112200.0,6300.0,17.81,18.9,Low,Medium
+REC_2129,BLDG_21792,Insulation Improvement,26300.0,2900.0,9.07,12.64,Medium,Medium
+REC_2130,BLDG_19858,HVAC Upgrade,70900.0,15700.0,4.52,24.18,Critical,Medium
+REC_2131,BLDG_28081,Solar Panel Installation,65000.0,2900.0,22.41,21.35,Low,Medium
+REC_2132,BLDG_659,Solar Panel Installation,525000.0,36200.0,14.5,17.5,Low,Medium
+REC_2133,BLDG_24035,Solar Panel Installation,80200.0,4000.0,20.05,21.37,Low,Medium
+REC_2134,BLDG_25724,Solar Panel Installation,65000.0,2900.0,22.41,24.49,Low,Medium
+REC_2135,BLDG_22438,Building Automation System,23200.0,5500.0,4.22,14.29,High,Medium
+REC_2136,BLDG_694,Solar Panel Installation,310000.0,20700.0,14.98,17.17,Low,Medium
+REC_2137,BLDG_348,Solar Panel Installation,221800.0,14300.0,15.51,18.6,Low,Medium
+REC_2138,BLDG_50386,Water Efficiency Upgrade,40400.0,30500.0,1.32,4.6,Critical,Low
+REC_2139,BLDG_22579,Building Automation System,21600.0,5400.0,4.0,14.82,High,Medium
+REC_2140,BLDG_21329,Building Automation System,25500.0,6400.0,3.98,11.83,Critical,Medium
+REC_2141,BLDG_21723,LED Lighting Retrofit,15800.0,11600.0,1.36,11.14,Critical,Low
+REC_2142,BLDG_50734,Water Efficiency Upgrade,9400.0,4200.0,2.24,2.3,Critical,Low
+REC_2143,BLDG_20407,Water Efficiency Upgrade,11700.0,6200.0,1.89,2.88,Critical,Low
+REC_2144,BLDG_21839,Solar Panel Installation,452600.0,31000.0,14.6,21.86,Low,Medium
+REC_2145,BLDG_50404,Solar Panel Installation,66000.0,3000.0,22.0,19.39,Low,Medium
+REC_2146,BLDG_50911,Building Automation System,22700.0,7900.0,2.87,12.31,Critical,Medium
+REC_2147,BLDG_20712,Water Efficiency Upgrade,9100.0,3600.0,2.53,3.03,Critical,Low
+REC_2148,BLDG_26473,LED Lighting Retrofit,11100.0,39000.0,0.28,10.33,Critical,Low
+REC_2149,BLDG_27870,Solar Panel Installation,65000.0,2900.0,22.41,20.91,Low,Medium
+REC_2150,BLDG_23216,LED Lighting Retrofit,8800.0,9400.0,0.94,10.13,Critical,Low
+REC_2151,BLDG_27105,Solar Panel Installation,112600.0,6400.0,17.59,27.35,Low,Medium
+REC_2152,BLDG_50,Solar Panel Installation,98400.0,5300.0,18.57,26.9,Low,Medium
+REC_2153,BLDG_25641,LED Lighting Retrofit,17700.0,8200.0,2.16,9.95,Critical,Low
+REC_2154,BLDG_28053,Insulation Improvement,28400.0,3700.0,7.68,14.53,High,Medium
+REC_2155,BLDG_49695,Solar Panel Installation,525000.0,36200.0,14.5,17.36,Low,Medium
+REC_2156,BLDG_50315,Building Automation System,47100.0,20700.0,2.28,14.86,Critical,Medium
+REC_2157,BLDG_21442,Solar Panel Installation,111200.0,6200.0,17.94,21.96,Low,Medium
+REC_2158,BLDG_20986,Deep Energy Retrofit,176300.0,32900.0,5.36,47.77,Critical,High
+REC_2159,BLDG_21652,Insulation Improvement,25000.0,5800.0,4.31,17.47,High,Medium
+REC_2160,BLDG_50892,Building Automation System,41100.0,21600.0,1.9,14.14,Critical,Medium
+REC_2161,BLDG_19841,Solar Panel Installation,96000.0,5100.0,18.82,20.43,Low,Medium
+REC_2162,BLDG_779,Solar Panel Installation,324800.0,21700.0,14.97,23.57,Low,Medium
+REC_2163,BLDG_50309,Solar Panel Installation,281400.0,18600.0,15.13,24.17,Low,Medium
+REC_2164,BLDG_50893,LED Lighting Retrofit,16300.0,8300.0,1.96,11.44,Critical,Low
+REC_2165,BLDG_50049,Water Efficiency Upgrade,12000.0,5500.0,2.18,2.45,Critical,Low
+REC_2166,BLDG_49722,Building Automation System,29700.0,6000.0,4.95,10.85,High,Medium
+REC_2167,BLDG_21649,Solar Panel Installation,77800.0,3800.0,20.47,26.84,Low,Medium
+REC_2168,BLDG_438,LED Lighting Retrofit,196200.0,182700.0,1.07,9.77,Critical,Low
+REC_2169,BLDG_23409,Water Efficiency Upgrade,13300.0,7100.0,1.87,3.85,Critical,Low
+REC_2170,BLDG_23761,LED Lighting Retrofit,11200.0,4700.0,2.38,11.43,Critical,Low
+REC_2171,BLDG_26748,LED Lighting Retrofit,28300.0,10300.0,2.75,9.55,Critical,Low
+REC_2172,BLDG_21647,LED Lighting Retrofit,12400.0,1500.0,8.27,10.9,Medium,Low
+REC_2173,BLDG_20013,Building Automation System,27200.0,13400.0,2.03,10.58,Critical,Medium
+REC_2174,BLDG_26313,Solar Panel Installation,77400.0,3800.0,20.37,25.12,Low,Medium
+REC_2175,BLDG_50665,Building Automation System,39000.0,10600.0,3.68,10.73,Critical,Medium
+REC_2176,BLDG_25325,LED Lighting Retrofit,10400.0,1000.0,10.4,9.17,Medium,Low
+REC_2177,BLDG_49800,Solar Panel Installation,137000.0,8100.0,16.91,21.58,Low,Medium
+REC_2178,BLDG_26080,Solar Panel Installation,525000.0,36200.0,14.5,18.78,Low,Medium
+REC_2179,BLDG_24259,Building Automation System,24800.0,28900.0,0.86,15.56,Critical,Medium
+REC_2180,BLDG_50345,Solar Panel Installation,70400.0,3300.0,21.33,25.22,Low,Medium
+REC_2181,BLDG_21886,HVAC Upgrade,52900.0,6800.0,7.78,23.25,High,Medium
+REC_2182,BLDG_26739,Water Efficiency Upgrade,10000.0,4200.0,2.38,2.54,Critical,Low
+REC_2183,BLDG_50176,Building Automation System,18000.0,5600.0,3.21,15.15,Critical,Medium
+REC_2184,BLDG_319,Building Automation System,25300.0,6400.0,3.95,14.64,Critical,Medium
+REC_2185,BLDG_49731,HVAC Upgrade,122900.0,27800.0,4.42,21.2,High,Medium
+REC_2186,BLDG_23834,HVAC Upgrade,52800.0,4800.0,11.0,22.28,Medium,Medium
+REC_2187,BLDG_722,HVAC Upgrade,157400.0,37800.0,4.16,21.6,Critical,Medium
+REC_2188,BLDG_21239,LED Lighting Retrofit,10300.0,7100.0,1.45,9.26,Critical,Low
+REC_2189,BLDG_25295,Solar Panel Installation,99600.0,5400.0,18.44,22.97,Low,Medium
+REC_2190,BLDG_21776,HVAC Upgrade,494500.0,148000.0,3.34,23.03,Critical,Medium
+REC_2191,BLDG_29612,Water Efficiency Upgrade,21600.0,5500.0,3.93,3.79,Critical,Low
+REC_2192,BLDG_740,HVAC Upgrade,126900.0,41000.0,3.1,19.63,Critical,Medium
+REC_2193,BLDG_707,Solar Panel Installation,302600.0,20100.0,15.05,18.15,Low,Medium
+REC_2194,BLDG_40034,HVAC Upgrade,46800.0,30200.0,1.55,19.91,Critical,Medium
+REC_2195,BLDG_50945,Solar Panel Installation,333800.0,22400.0,14.9,18.53,Low,Medium
+REC_2196,BLDG_20658,Solar Panel Installation,108800.0,6100.0,17.84,20.09,Low,Medium
+REC_2197,BLDG_40529,Building Automation System,21500.0,8600.0,2.5,11.92,Critical,Medium
+REC_2198,BLDG_17,Solar Panel Installation,111600.0,6300.0,17.71,26.2,Low,Medium
+REC_2199,BLDG_50642,Solar Panel Installation,525000.0,36200.0,14.5,20.58,Low,Medium
+REC_2200,BLDG_27760,Building Automation System,32200.0,8800.0,3.66,13.21,Critical,Medium

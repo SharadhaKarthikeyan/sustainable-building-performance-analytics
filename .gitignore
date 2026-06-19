@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+venv/
+.venv/
+*.log
+*.tmp
+desktop.ini
+
+# Large raw datasets (download instructions in README)
+data/raw/*.csv
+
+# Local database binaries
+*.db
