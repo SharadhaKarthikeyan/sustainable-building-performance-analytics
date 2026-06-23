@@ -235,3 +235,10 @@ An interactive web dashboard built with Streamlit and Plotly Express is included
 ## Live Dashboard
 View the interactive Streamlit dashboard here:  
 "https://sustainable-building-performance-analytics-kc8eyiadnvxehdwdn4w.streamlit.app/"
+
+## Related Project
+This project was later extended into **EcoBuild Intelligence**, an interactive building intelligence platform with CSV upload, SQLite storage, retrofit prioritization, and AI-assisted reporting.
+EcoBuild Intelligence: '[https://github.com/SharadhaKarthikeyan/ecobuild-intelligence](https://github.com/SharadhaKarthikeyan/ecobuild-intelligence)'
+
+---
+**Author: Sharadha Karthikeyan**
